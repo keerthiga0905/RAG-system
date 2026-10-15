@@ -1,0 +1,26 @@
+{
+  "train_samples": 117,
+  "val_samples": 13,
+  "test_samples": 23,
+  "train_documents": [
+    "01_college_overview.txt",
+    "CIT_Official_Brochure_and_Governance.pdf",
+    "02_departments_and_faculty.txt",
+    "06_placements_and_career.txt",
+    "07_scholarships_fees_and_support.txt",
+    "CIT_Placement_Statistics_and_Fee_Structure.pdf",
+    "09_campus_facilities_and_faqs.txt"
+  ],
+  "val_documents": [
+    "05_academics_and_regulations.txt",
+    "CIT_Academic_Regulations_and_Examination_Rules.pdf",
+    "10_official_document_inventory.txt"
+  ],
+  "test_documents": [
+    "03_courses_and_programmes.txt",
+    "CIT_BTech_AIML_and_CSE_Syllabus_Structure.pdf",
+    "04_admissions_and_eligibility.txt",
+    "08_research_and_innovation.txt"
+  ],
+  "leakage_prevention": "Strict Document-ID disjoint grouping with zero passage overlap"
+}

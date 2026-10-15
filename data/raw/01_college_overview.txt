@@ -1,0 +1,282 @@
+COLLEGE OVERVIEW DATASET - COIMBATORE INSTITUTE OF TECHNOLOGY (CIT)
+File: 01_college_overview.txt
+Project: College Knowledge AI (RAG)
+Official website: https://cit.edu.in/
+Access date: 15 October 2026
+Scope note: Only pages and documents listed in the Source Inventory (end of file) were inspected. This file does NOT claim to cover the entire website. Items not inspected are marked "Not found in the inspected official sources." Text is lightly reformatted; facts, names, dates and figures are kept as published.
+
+====================================================================
+SECTION 1. OFFICIAL NAME AND LOCATION
+Source: https://cit.edu.in/ ; https://cit.edu.in/contact-us
+====================================================================
+Official name: Coimbatore Institute of Technology (CIT)
+Site tagline: "CIT - Empowering knowledge, shaping futures."
+Address as published: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+Campus size as published (homepage): "69-acre campus"
+Number of departments as published (homepage): "14 departments"
+TNEA Counselling Code as labelled on homepage: 2007
+Institution type as published (homepage): "An autonomous institution since 1987, CIT is proudly affiliated with Anna University, Chennai."
+Institution type as published (undated prospectus PDF, https://cit.edu.in/uploads/epdf_documents/1a7f1264aba4d47798ffbff9ca98fbca.pdf): "Government Aided Autonomous Institution Affiliated to Anna University, Chennai"
+NAAC grade-sheet record: Type "Autonomous colleges"; Track ID TNCOGN100891; AISHE-ID C-36969 (https://cit.edu.in/uploads/epdf_documents/6e98965d7fe8ba1e4b4f8e4279279523.pdf)
+NIRF institute ID as published in NIRF data PDFs: IR-E-C-36969 (e.g., https://cit.edu.in/uploads/epdf_documents/e67dd6e018cd66168ed94677dc2c8149.pdf)
+
+====================================================================
+SECTION 2. ESTABLISHMENT AND INSTITUTIONAL HISTORY
+Source: https://cit.edu.in/ ; https://cit.edu.in/about-us ; https://cit.edu.in/about-us/autonomous-status
+====================================================================
+Established: 1956 (homepage: "Established in 1956 by the V. Rangaswamy Naidu Educational Trust (VRET)").
+
+History text (About Us page, "The Management"):
+"Established in 1956 in Coimbatore, the V. Rangaswamy Naidu Educational Trust (VRET) is dedicated to advancing technical education in Tamil Nadu. Founded by visionary industrialists and philanthropists Prof. R. Venkataswamy Naidu and Prof. P. R. Ramakrishnan, the Trust launched the Coimbatore Institute of Technology (CIT) in 1956, followed by the CIT Sandwich Polytechnic College in 1961."
+
+Leadership history as published:
+- Prof. R. Venkataswamy Naidu served as Correspondent from 1956 to 1994.
+- Prof. P. R. Ramakrishnan was Founder-Principal for 25 years and served as Correspondent for 12 years.
+- Dr. S. R. K. Prasad took the helm as Managing Trustee in 2008, followed by Sri S. Rajiv Rangasami.
+
+Former Correspondents panel (same page):
+- Sri. R. Venkataswamy Naidu (1956 - 1994), B.Sc.(Tech) Manchester, Founder Correspondent
+- Prof. P. R. Ramakrishnan (1994-2008), M.S.(M.I.T) USA, M.B.A., F.I.E., Founder Principal, Former Member of Parliament
+- Dr. S. R. K. Prasad (2008-2021), D.Sc.(USA), FORSI, Managing Trustee, VRET Chairman, Governing Council, CIT
+
+Autonomy:
+- Homepage: autonomous since 1987.
+- Autonomous Status page: autonomous system introduced "since the inception of the Autonomous scheme in the year 1987".
+- Undated prospectus PDF (see Section 1 URL): "The Institute was granted autonomous status by Bharathiar University with effect from the academic year 1987-88."
+Autonomous-scheme features published (https://cit.edu.in/about-us/autonomous-status): continuous assessment in laboratory practicals, workshop practice and engineering drawing since 2001; credit system for all programmes since 2001; Choice Based Credit System followed from 2015; four weeks of compulsory industrial training since 2009; syllabi revision every 4 years or when necessary; option to study German/French in II semester; grades awarded instead of marks; mini project of 2 credits in V and VI semesters; complete autonomy for conduct of PG programmes; revaluation option; special supplementary examination for outgoing batches; course "Science of Creativity and Professional Ethics" since 1987.
+Office of the Controller of Examinations (as published on that page): administered by Dr. R. Sriram, Controller of Examinations, and Dr. R. Sathyanarayan Sridhar, Deputy Controller of Examinations, assisted by thirteen staff.
+
+Homepage figures as published (claims, not independently verified): "We have 30K happy Students." Homepage counters labelled PLACED STUDENTS, PAPERS PUBLISHED and TOTAL FACULTY had no numeric values in the extracted text.
+
+CONFLICT FLAGS (Section 2):
+(a) Founding year of the Trust: About Us body text says VRET was "Established in 1956"; the caption under the Founder panel on the same page says "Established in 1955 by Philanthropists and Founder Trustees" (Sri. V. Rangaswamy Naidu, Founder Managing Trustee). Both recorded; not resolved.
+(b) Prof. P. R. Ramakrishnan: body text says Correspondent for 12 years; Former Correspondents panel lists "1994-2008" (14 years). Both recorded; not resolved.
+(c) Source of autonomy/affiliation: the prospectus PDF says autonomy was granted by Bharathiar University from 1987-88; the homepage says affiliated to Anna University. Likely historical vs current, but the pages do not state this; recorded as published.
+
+====================================================================
+SECTION 3. VISION, MISSION AND OBJECTIVES
+Source: https://cit.edu.in/about-us ; https://cit.edu.in/
+====================================================================
+Mission (About Us page):
+"The mission of CIT is to 'impart high quality education and training to its students to make them World-Class Engineers with a foresight to the changes and problems, and pioneers to offer innovative solutions to benefit the nation and the world at large'."
+(Homepage wording differs slightly in capitalisation: "Impart high quality education and training to its students to make them world-class engineers with a foresight to the changes and problems, and pioneers who offer innovative solutions to benefit the nation and the world at large".)
+
+Vision (About Us page):
+"The Institute strives to inculcate sound engineering knowledge along with a strong realization of social responsibilities, enabling students to address current and emerging national challenges and contribute their expertise to the global arena."
+(Homepage wording: "The Institute strives to inculcate a sound knowledge in engineering along with a realization of social responsibilities to enable its students to combat the current and impending challenges faced by our country and to extend their expertise to the global arena.")
+
+Core Values (About Us page):
+1. Aiding Social Advancements through Technologies - technologies are instruments for promoting individuals and society; curricula, syllabi and teaching-learning methods aim at holistic progress and societal uplift.
+2. Employability for Students - the Institution strives to mould students as qualified manpower through deeper knowledge, critical skills and transferable competencies.
+3. Quality Education - ensured through quality teaching, state-of-the-art infrastructure, research and development, curricula in cutting-edge technologies, industry-institution interaction, a healthy academic ambience, co-curricular and extracurricular activities including internships.
+4. Appreciation of Intellectual Excellence - intellectual accomplishments of students and faculty recognised; numerous endowment awards instituted.
+5. Transparency, Accountability and Empathy - core values embedded in the administration.
+
+Separate "Objectives" statement: Not found in the inspected official sources.
+
+====================================================================
+SECTION 4. INSTITUTIONAL PROFILE AND OFFICIAL DESCRIPTION
+Source: https://cit.edu.in/ ; https://cit.edu.in/about-us
+====================================================================
+Homepage description ("Developing Future-ready Graduates"):
+"Established in 1956 by the V. Rangaswamy Naidu Educational Trust (VRET), Coimbatore Institute of Technology (CIT) stands as one of Tamil Nadu's most respected and sought-after institutions. An autonomous institution since 1987, CIT is proudly affiliated with Anna University, Chennai. Our vibrant 69-acre campus is home to 14 departments. We offer a wide range of programmes, from traditional engineering and cutting-edge digital technologies to five-year integrated M.Sc. degrees, MCA, and MBA programmes."
+
+"CIT is defined by a legacy of excellence. Our teaching methods don't just follow trends, they prepare graduates to be future-ready, technically skilled, and socially responsible. This commitment is reflected in our exceptional placement record, with top-tier multinationals and innovative startups consistently recruiting CITians."
+
+Meta description (homepage): "Coimbatore Institute of Technology (CIT) is a top engineering college in Coimbatore offering quality education, research, innovation, and placements."
+
+Programme groupings as published on the homepage cards (https://cit.edu.in/):
+- Engineering: B.E. Civil Engineering; B.E. Mechanical Engineering; B.E. Electrical & Electronics Engineering; B.E. Electronics & Communication Engineering; B.E. Computer Science & Engineering; B.Tech. Information Technology; B.Tech. Chemical Engineering; B.Tech. Artificial Intelligence and Data Science; B.E. Electronics Engineering (VLSI Design and Technology)
+- Science & Humanities: Humanities; Mathematics; Physics; Chemistry
+- Integrated Programmes (five-year): M.Sc Software Systems; M.Sc Data Science; M.Sc Decision & Computing Sciences; M.Sc Artificial Intelligence and Machine Learning
+- PG Programmes: Business Administration (MBA); Computer Application (MCA); M.E. Construction Management
+Other departments listed in navigation: Library; Physical Education; COE (Exam); MMTTC.
+
+CONFLICT FLAG: The homepage text says "14 departments". The navigation lists 8 engineering + 6 PG + 4 science/humanities programme/department links (18), and the homepage cards additionally list B.E. Electronics Engineering (VLSI Design and Technology) and M.E. Construction Management, which are absent from the navigation menu. The "14 departments" figure is not reconciled here.
+
+Intake figures from NIRF submissions hosted on cit.edu.in (sanctioned UG 4-year intake): 720 per year in the NIRF 2026 submission (academic years 2024-25 to 2021-22); PG 2-year intake 72 (2024-25, 2023-24). Source: https://cit.edu.in/uploads/epdf_documents/e67dd6e018cd66168ed94677dc2c8149.pdf. Same file reports total actual UG student strength 3003 and PG 36 (as submitted for NIRF 2026).
+
+Admissions contacts and brochures (homepage footer): BE Brochure 2026, MSc Brochure 2026, MCA / MBA Brochure 2026 (PDF links listed in Source Inventory; contents not inspected).
+
+====================================================================
+SECTION 5. MANAGEMENT AND GOVERNING BODY
+Source: https://cit.edu.in/about-us
+====================================================================
+Management (VRET trustees and officers as listed on About Us page):
+- Thiru. R. Santossh - Managing Trustee / Chairman and Correspondent
+- Thiru. Venkataswamy Manoharan - Family Trustee
+- Thiru. R. Baba Chandrasekhar - Family Trustee
+- Sri Vishnu Nischal Rajkumar - Director Admissions, CIT Institutions
+- Thiru. G. Soundararaj - Co-opted Trustee
+- Thiru. K. N. Balu - Co-opted Trustee
+- Ms. T. Manjuladevi - Co-opted Trustee
+- Sri. V. Rangaswamy Naidu - Founder Managing Trustee, V. Rangasamy Naidu Educational Trust
+
+Governing Council (table on About Us page; names/designations as published):
+1. Sri. R. Santossh - Correspondent & Chairman (Governing Council) - Management Nominee
+2. Sri Vishnu Nischal Rajkumar - Member - Management Nominee
+3. Smt. S. Nanditha - Member - Management Nominee
+4. Thiru. R. Babachandra Sekar - Member - Management Nominee
+5. The Commissioner of Technical Education, Chennai - Member - Government of Tamil Nadu Nominee
+6. Dr. J. K. Tripathi, Joint Secretary, University Grants Commission, Bahadurshah Zafar Marg, New Delhi - 110 002 - Member - Nominee of University Grants Commission
+7. Dr. R. Thenmozhi, Professor in Civil Engineering, Government College of Technology, Coimbatore - 641 013 - Member - Nominee of Anna University
+8. Dr. C. Rajendran, Department of Management Studies, IIT Madras, Chennai - 600 025 - Member - AICTE Nominee
+9. Dr. V. Geetha, Professor, Electrical & Electronic Engineering Department, Government Engineering College, Salem - 636 011 - Member - Nominee of the Department of State Government (Nominated by the Commissioner of Technical Education)
+10. Principal, Coimbatore Institute of Technology, Coimbatore - 641 014 - Member Secretary - Ex-Officio / Member Secretary
+
+Principal (as published on https://cit.edu.in/life-at-cit/accommodation): Dr. A. Rajeswari, Principal & Chief Warden. (Undated prospectus PDF, https://cit.edu.in/uploads/epdf_documents/1a7f1264aba4d47798ffbff9ca98fbca.pdf, also lists Principal Dr. A. Rajeswari M.E., Ph.D.; Advisor Dr. V. Selladurai M.E., Ph.D.; Secretary Dr. R. Prabhakar; Correspondent Mr. S. Rajiv Rangasami.)
+
+Statutory bodies named (https://cit.edu.in/about-us/autonomous-status): Governing Council, Academic Council, Finance Committee, Board of Studies; non-statutory: Planning and Evaluation Committee, Library Committee, Curriculum Development Cell, Examination Disciplinary Committee, Result Passing Board, etc.
+Administration page (https://cit.edu.in/about-us/administration) and Statutory & Advisory Bodies page (https://cit.edu.in/about-us/statutory-bodies-advisory-bodies): Not found in the inspected official sources (not opened).
+
+CONFLICT FLAG: The undated prospectus lists Mr. S. Rajiv Rangasami as Correspondent; the current About Us page lists Thiru. R. Santossh as Managing Trustee / Chairman and Correspondent. The prospectus is undated, so the current page is treated as more recent, but this is not confirmed by an official statement.
+
+====================================================================
+SECTION 6. ACCREDITATION, RANKINGS AND RECOGNITIONS
+====================================================================
+6.1 NAAC
+Sources: https://cit.edu.in/naac/naac ; Grade sheet https://cit.edu.in/uploads/epdf_documents/6e98965d7fe8ba1e4b4f8e4279279523.pdf ; Certificate https://cit.edu.in/uploads/epdf_documents/a485ef1de7fe5647fbd77fefd0932c34.pdf
+- Grade sheet: NAAC Institutional Assessment and Accreditation, Accreditation Cycle 2; Coimbatore Institute of Technology, Coimbatore, Tamil Nadu, 641014; Track ID TNCOGN100891; AISHE-ID C-36969; Visit dates 15-05-2025 to 16-05-2025.
+- Institutional CGPA 3.09 (3094/1000); Grade A.
+- Criterion-wise CGPA: Curricular Aspects 3.5; Teaching-learning and Evaluation 3.35; Research, Innovations and Extension 2.98; Infrastructure and Learning Resources 2.45; Student Support and Progression 2.97; Governance, Leadership and Management 2.69; Institutional Values and Best Practices 3.06.
+- Certificate PDF: scanned; text extraction is garbled. Legible fragments indicate CGPA 3.09 on a four-point scale, grade A, and a validity/date line, but the exact validity and issue dates could not be read reliably. Validity period: Not found in the inspected official sources (verify against the PDF).
+- Documents listed on the NAAC page (not all opened): NAAC Accreditation Certificate; Institutional Grade Sheet; Peer Team Metric Wise Score Report; Peer Team Report. Pages for IQAC, AQAR, 1st Cycle and 2nd Cycle: Not found in the inspected official sources (not opened).
+
+6.2 NBA (programme-level accreditation)
+Sources: https://cit.edu.in/others/nba ; https://cit.edu.in/uploads/epdf_documents/37189efdc2fede14a11805c173e4aa4c.pdf
+- NBA letter dated 01-08-2025 (File No. 33-109/2010-NBA as extracted): UG engineering programmes accredited in Tier-I for academic years 2022-23 to 2024-25 (up to 30.06.2025) were granted accreditation for a further 3 years after an Expert Team data verification on 28 June 2025.
+- Programmes accredited (Tier-I): Chemical Engineering; Computer Science & Engineering; Electrical & Electronics Engineering; Electronics & Communication Engineering; Mechanical Engineering; Civil Engineering.
+- Period of validity: Academic Years 2025-2026 to 2027-2028, i.e., up to 30-06-2028.
+- The letter states this is programme accreditation, not institution accreditation, and that only students graduating during the validity period are deemed to have graduated with an NBA-accredited degree.
+- Information Technology and AI & Data Science are not listed in this letter.
+
+6.3 AICTE and other approvals
+Source: https://cit.edu.in/about-us/accreditation (text states "National Board of Accreditation (NBA) is an autonomous body established by the All India Council of Technical Education (AICTE)"; lists documents "Accreditation Status", "Affiliation Report - AU", "Audited Financial Report").
+- "Accreditation Status" PDF (https://cit.edu.in/uploads/epdf_documents/50857804335f8cefc2092856d3d89ef3.pdf): no machine-readable text; contents not extracted.
+- AICTE approval details, UGC 2(f)/12(B) certificate, Anna University affiliation statutes: pages are linked in the site navigation (https://cit.edu.in/others/aicte, /others/ugc, /others/2f-12-b-certificate, /others/anna-university) but were NOT opened. Details: Not found in the inspected official sources.
+
+6.4 NIRF
+Source: https://cit.edu.in/others/nirf (search-result text of page)
+- The page states CIT participates in NIRF (Engineering category) and lists submitted reports: NIRF 2025-2026 (Engineering and Overall), NIRF 2024-2025 (Engineering and Overall), NIRF 2023-2024 (Submitted, Engineering), full reports for 2023 (Engineering, Overall), 2022 (Engineering), 2021 (Engineering, Overall), 2020 (Engineering, Overall), 2018 (Engineering, Overall).
+- A numeric NIRF rank was not stated in the inspected page text. Rank: Not found in the inspected official sources. (Third-party sites quote ranks; they are excluded because they are not official.)
+- Other rankings (Shanghai, QS, Times): The site hosts a PDF titled "Participation in NIRF and other recognized ranking like Shanghai Ranking, QS Ranking Times Ranking etc." (https://cit.edu.in/uploads/epdf_documents/b7653f4827f34ff78c8688802bde9171.pdf); the extracted text is a national ranking list of other institutes and does not establish a CIT rank. Not found in the inspected official sources.
+
+6.5 Awards
+Page https://cit.edu.in/awards: Not found in the inspected official sources (not opened).
+
+====================================================================
+SECTION 7. CAMPUS FACILITIES AND INFRASTRUCTURE
+Source: https://cit.edu.in/others/infrastructure ; https://cit.edu.in/general-facilities
+====================================================================
+Infrastructure index (official page lists): General Facilities; Academic Facilities; Hostel Facilities; Wellness Hub; Sports Facilities; Internet Facility; Library Facility; Digital Library; Help Desk; Blogs; Water Conservation Facilities; Centre for E-Learning; Malaviya Mission Teacher Training Centre.
+
+General Facilities page (https://cit.edu.in/general-facilities) - "Facility Management System at CIT":
+- Sustainability and water: rainwater harvesting network across all major buildings; Sewage Water Treatment Plant (STP) using biological treatment; a wastewater treatment facility to recycle water for non-potable uses such as gardening and irrigation.
+- Facilities for differently-abled (Barrier Free Environment): ramp, lift, wheelchair and disabled-friendly washrooms in all buildings; lift arrangement in all blocks; ramps in all buildings and all laboratories; wheelchairs and left-hand chairs for students who require them; separate toilets for physically challenged students.
+- Energy and infrastructure: solar photovoltaic panels on rooftops; centralised Power House with generators and transformers for 24/7 backup for laboratories, hostels and administrative blocks; fully furnished Guest House for visiting professors, industrial experts and parents.
+- Campus essential services: multi-cuisine canteen; 24/7 in-house ATM; on-campus health center with qualified medical staff, first-aid equipment and emergency transport services.
+- Gym and Sports Facility sections exist with images only (no text).
+Academic Facilities page (https://cit.edu.in/life-at-cit/academic-facilities), Wellness Hub, Internet facility (IT Resource Maintenance Cell), E-Learning Centre, Water Conservation page: Not found in the inspected official sources (not opened).
+
+Seminar-hall excerpt from an official NAAC-related PDF (https://cit.edu.in/uploads/epdf_documents/4764bcd0e384855f777fa1bcf84e2989.pdf, undated): lists ICT-enabled seminar halls (e.g., Main Block departmental seminar halls for ECE, Mechanical, EEE and Civil; IT Block AC seminar halls IT003, IT211, IT212), each with "Projector, Screen, Wi-Fi & LAN". Laboratory list not extracted.
+
+====================================================================
+SECTION 8. LIBRARY, LABORATORIES, HOSTELS, SPORTS AND TRANSPORT
+====================================================================
+8.1 Library
+Source: https://cit.edu.in/library/about (search-result text); supporting PDFs https://cit.edu.in/uploads/epdf_documents/d07cfe53ef8552a6bd9d2ddf2379e31a.pdf , https://cit.edu.in/uploads/epdf_documents/bf67407147e93c0bc21df46da60a0a3b.pdf
+- Established in 1956; situated adjacent to the main building.
+- Fully computerized system integrated with RFID technology; collection includes books, printed journals, e-journals, online databases, CD-ROMs and multimedia resources; "Open Access System".
+- Managed by a Library Committee; mandatory annual "User Orientation" for incoming first-year UG and PG students; membership extended to the entire CIT family.
+- Library brochure/membership PDFs mention: Web OPAC (http://opac.cit.edu.in), CIT IRINS (https://cit.irins.org), https://idp.cit.edu.in, library mobile app, institutional memberships such as DELNET, N-LIST, NDLI Club, and a CIT SWAYAM-NPTEL Local Chapter (LC No.1165). Library email: library@cit.edu.in.
+- Collection counts, area and seating: Not found in the inspected official sources.
+
+8.2 Laboratories
+General statements on labs appear in departmental and NAAC documents that were not opened. Not found in the inspected official sources.
+
+8.3 Hostels (https://cit.edu.in/life-at-cit/accommodation)
+- "Residential facilities are available for all aspiring students." Hostellers enjoy a welcoming atmosphere, comfortable living conditions, healthy diet and comprehensive health care.
+- Hostels are within walking distance of academic blocks ("all-in-one campus"). "For first-time students, accommodation is guaranteed upon acceptance of their application."
+- Hostel Committee: Principal & Chief Warden; Administrative officer; Deputy Wardens; Matron; Resident Tutor.
+- Organisation structure as published: Dr. A. Rajeswari (Principal & Chief Warden); Dr. J. Devi Shree and Dr. M. Vivek (Deputy Wardens); Resident Tutors Mr. C. Senthilkumar, Mr. S. Ayyadurai, Mr. C. Rameshkumar; Matrons Mrs. K. Lakshmi, Smt. D. Kanagaselvi, Mrs. P. SuthaMalin, Mrs. S. Pappal.
+- A Hostel Students Committee for AY 2026-2027 is published (student names omitted here).
+- Hostel fees page (https://cit.edu.in/admission/hostel-fees): Not found in the inspected official sources (not opened). Number of hostels, rooms and capacity: Not found in the inspected official sources.
+- Homepage footer note: an announcement "Hostel facilities for Lateral Entry Students" (01 Oct) is linked as a PDF (https://cit.edu.in/uploads/file_manger/1790864881_Hostel_-_Lateral_Entry.pdf); contents not inspected.
+
+8.4 Sports (https://cit.edu.in/physical-education/about)
+- Facilities: "fully-furnished gymnasium", football pitch, cricket field and a "standard 400mt stadium".
+- Intra-college sports listed: cricket, football, badminton, ball badminton, hand ball, basket ball, Tennis, kabaddi, volleyball, throw ball, carom and chess; some events under floodlights; inter-collegiate tournaments; annual Sports Day.
+
+8.5 Transport
+Not found in the inspected official sources. (The General Facilities page lists emergency transport services for the health center only.)
+
+====================================================================
+SECTION 9. CONTACT INFORMATION
+Source: https://cit.edu.in/contact-us ; https://cit.edu.in/ (header/footer)
+====================================================================
+Addressee: The Principal, Coimbatore Institute of Technology (CIT)
+Address: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+Email: principal.citoffice@cit.edu.in
+Phone (header; B.E. / B.Tech - Admissions): 94868 37757
+M.Sc. - Admissions: 94883 16334
+Map: https://maps.app.goo.gl/4Td1AgsLAcZZVz4y6 (Google Maps embed on contact page for "Coimbatore Institute of Technology")
+Library email: library@cit.edu.in (https://cit.edu.in/uploads/epdf_documents/d07cfe53ef8552a6bd9d2ddf2379e31a.pdf)
+Landline/fax shown in the header of a cit.edu.in-hosted PDF (undated; https://cit.edu.in/uploads/epdf_documents/b7653f4827f34ff78c8688802bde9171.pdf): Tel 0422-2574071, 2574072; Fax 0422-2573187. Not shown on the inspected web pages; verify before use.
+Older email in an undated prospectus PDF: principal@cit.edu.in (not shown on the current web pages).
+
+====================================================================
+SECTION 10. OFFICIAL SOCIAL MEDIA LINKS
+Source: https://cit.edu.in/ (header/footer) ; https://cit.edu.in/contact-us ; https://cit.edu.in/about-us/accreditation
+====================================================================
+Facebook: https://www.facebook.com/profile.php?id=100090819705378
+Instagram: https://www.instagram.com/cit_1956
+X (Twitter): https://x.com/cit_1956
+LinkedIn: https://www.linkedin.com/school/coimbatore-institute-of-technology/?viewAsMember=true
+YouTube: https://www.youtube.com/@CIT-CBE
+Alumni portal (navigation): https://alumni.cit.edu.in/
+
+CONFLICT FLAG: The Accreditation page (https://cit.edu.in/about-us/accreditation) shows different links in its header/footer: Facebook https://www.facebook.com/profile.php?viewas=100000686899395&id=100090985933970 and YouTube https://www.youtube.com/@CIT-COIMBATOR. All other pages inspected show the Facebook and YouTube links above. Both versions recorded; not resolved. The Contact Us page lists Facebook, Instagram, X and LinkedIn only (no YouTube).
+
+====================================================================
+SOURCE INVENTORY
+====================================================================
+Access date for all items: 15 October 2026
+Pages opened in full:
+1. Coimbatore Institute of Technology (CIT) - Home - https://cit.edu.in/
+2. About CIT (The Management) - https://cit.edu.in/about-us
+3. Accreditation & Approvals at CIT Coimbatore - https://cit.edu.in/about-us/accreditation
+4. Autonomous Status of CIT Coimbatore - https://cit.edu.in/about-us/autonomous-status
+5. Infrastructure - https://cit.edu.in/others/infrastructure
+6. General Facilities at CIT Coimbatore - https://cit.edu.in/general-facilities
+7. Accommodation at CIT Coimbatore | Hostels - https://cit.edu.in/life-at-cit/accommodation
+8. Contact CIT Coimbatore - https://cit.edu.in/contact-us
+9. NAAC - https://cit.edu.in/naac/naac
+10. NBA Accreditation - https://cit.edu.in/others/nba
+Documents read:
+11. NAAC Institutional Grade Sheet (PDF) - https://cit.edu.in/uploads/epdf_documents/6e98965d7fe8ba1e4b4f8e4279279523.pdf
+12. NAAC Accreditation Certificate (PDF, scanned; text garbled) - https://cit.edu.in/uploads/epdf_documents/a485ef1de7fe5647fbd77fefd0932c34.pdf
+13. NBA Accreditation Status letter dated 01-08-2025 (PDF) - https://cit.edu.in/uploads/epdf_documents/37189efdc2fede14a11805c173e4aa4c.pdf
+14. Accreditation Status (PDF) - https://cit.edu.in/uploads/epdf_documents/50857804335f8cefc2092856d3d89ef3.pdf - no extractable text
+Pages and documents seen only as search-result excerpts from cit.edu.in (partial text):
+15. NIRF Rankings page - https://cit.edu.in/others/nirf
+16. Library "About" page - https://cit.edu.in/library/about
+17. Department of Physical Education page - https://cit.edu.in/physical-education/about
+18. NIRF 2026 Engineering submitted data (PDF) - https://cit.edu.in/uploads/epdf_documents/e67dd6e018cd66168ed94677dc2c8149.pdf
+19. Library brochure / membership PDFs - https://cit.edu.in/uploads/epdf_documents/d07cfe53ef8552a6bd9d2ddf2379e31a.pdf ; https://cit.edu.in/uploads/epdf_documents/bf67407147e93c0bc21df46da60a0a3b.pdf
+20. Undated prospectus PDF - https://cit.edu.in/uploads/epdf_documents/1a7f1264aba4d47798ffbff9ca98fbca.pdf
+21. NAAC criterion 4.1 excerpt PDF (undated) - https://cit.edu.in/uploads/epdf_documents/4764bcd0e384855f777fa1bcf84e2989.pdf
+22. Ranking participation PDF (undated) - https://cit.edu.in/uploads/epdf_documents/b7653f4827f34ff78c8688802bde9171.pdf
+
+Missing information (not found in inspected official sources / pages not opened):
+- Separate "Objectives" statement.
+- Administration page; Statutory & Advisory Bodies page; Awards page; Gallery.
+- Academic Facilities page; laboratory lists; Wellness Hub; Internet/IT facility; Digital Library page; E-Learning Centre; Water Conservation page.
+- Transport/bus facility details; number, capacity and fees of hostels (Hostel Fees page not opened).
+- AICTE approval, UGC 2(f)/12(B), Anna University affiliation documents; Accreditation Status PDF contents; NAAC certificate validity dates (OCR unreadable); NAAC 1st Cycle details.
+- A numeric NIRF rank or other ranking positions.
+- Homepage counter values (placed students, papers published, total faculty).
+- Exact campus area basis for "69-acre" claim (no other official figure found).
+
+Unresolved conflicts: see CONFLICT FLAGS in Sections 2, 4, 5 and 10.
+
+Non-official sources (Collegedunia, Careers360, Wikipedia mirror, PagalGuy, GetMyUni, other colleges) appeared in search results and were deliberately excluded.

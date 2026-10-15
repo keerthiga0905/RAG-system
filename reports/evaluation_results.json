@@ -1,0 +1,204 @@
+{
+  "evaluation_timestamp": "2026-10-15",
+  "held_out_test_set_size": 23,
+  "configurations": {
+    "baseline_dense": {
+      "num_evaluated_queries": 21,
+      "recall@1": 0.2381,
+      "recall@3": 0.2857,
+      "recall@5": 0.381,
+      "precision@1": 0.2381,
+      "precision@3": 0.0952,
+      "precision@5": 0.0762,
+      "mrr": 0.2833,
+      "citation_accuracy": 0.8095,
+      "out_of_scope_refusal_rate": 1.0,
+      "avg_latency_ms": 13.73,
+      "category_breakdown": {
+        "Courses and Academic Programmes": {
+          "count": 7,
+          "recall@3": 0.1429,
+          "mrr": 0.1429
+        },
+        "Admissions and Eligibility": {
+          "count": 6,
+          "recall@3": 0.0,
+          "mrr": 0.0333
+        },
+        "Research and Innovation": {
+          "count": 8,
+          "recall@3": 0.625,
+          "mrr": 0.5938
+        }
+      },
+      "failures_count": 15,
+      "failures_sample": [
+        {
+          "question": "What 5-year integrated M.Sc. programmes are offered at CIT?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0038",
+          "retrieved_top3": [
+            "chunk_0055",
+            "chunk_0088",
+            "chunk_0083"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        },
+        {
+          "question": "What is the annual intake capacity for B.Tech Artificial Intelligence and Data Science?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0037",
+          "retrieved_top3": [
+            "chunk_0050",
+            "chunk_0074",
+            "chunk_0288"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        },
+        {
+          "question": "What is the approval status of B.E. VLSI Design and Technology at CIT?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0037",
+          "retrieved_top3": [
+            "chunk_0047",
+            "chunk_0038",
+            "chunk_0248"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        }
+      ]
+    },
+    "finetuned_dense": {
+      "num_evaluated_queries": 21,
+      "recall@1": 0.1905,
+      "recall@3": 0.3333,
+      "recall@5": 0.4286,
+      "precision@1": 0.1905,
+      "precision@3": 0.1111,
+      "precision@5": 0.0857,
+      "mrr": 0.2754,
+      "citation_accuracy": 0.8571,
+      "out_of_scope_refusal_rate": 1.0,
+      "avg_latency_ms": 13.19,
+      "category_breakdown": {
+        "Courses and Academic Programmes": {
+          "count": 7,
+          "recall@3": 0.1429,
+          "mrr": 0.0714
+        },
+        "Admissions and Eligibility": {
+          "count": 6,
+          "recall@3": 0.0,
+          "mrr": 0.0
+        },
+        "Research and Innovation": {
+          "count": 8,
+          "recall@3": 0.75,
+          "mrr": 0.6604
+        }
+      },
+      "failures_count": 14,
+      "failures_sample": [
+        {
+          "question": "What 5-year integrated M.Sc. programmes are offered at CIT?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0038",
+          "retrieved_top3": [
+            "chunk_0055",
+            "chunk_0083",
+            "chunk_0069"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        },
+        {
+          "question": "What is the annual intake capacity for B.Tech Artificial Intelligence and Data Science?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0037",
+          "retrieved_top3": [
+            "chunk_0102",
+            "chunk_0050",
+            "chunk_0101"
+          ],
+          "top1_title": "TNEA Engineering Admissions, Cut-offs and Eligibility"
+        },
+        {
+          "question": "What is the approval status of B.E. VLSI Design and Technology at CIT?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0037",
+          "retrieved_top3": [
+            "chunk_0047",
+            "chunk_0074",
+            "chunk_0038"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        }
+      ]
+    },
+    "hybrid_bm25_dense": {
+      "num_evaluated_queries": 21,
+      "recall@1": 0.2381,
+      "recall@3": 0.4762,
+      "recall@5": 0.4762,
+      "precision@1": 0.2381,
+      "precision@3": 0.1587,
+      "precision@5": 0.0952,
+      "mrr": 0.3492,
+      "citation_accuracy": 0.8095,
+      "out_of_scope_refusal_rate": 1.0,
+      "avg_latency_ms": 13.54,
+      "category_breakdown": {
+        "Courses and Academic Programmes": {
+          "count": 7,
+          "recall@3": 0.2857,
+          "mrr": 0.119
+        },
+        "Admissions and Eligibility": {
+          "count": 6,
+          "recall@3": 0.0,
+          "mrr": 0.0
+        },
+        "Research and Innovation": {
+          "count": 8,
+          "recall@3": 1.0,
+          "mrr": 0.8125
+        }
+      },
+      "failures_count": 11,
+      "failures_sample": [
+        {
+          "question": "What 5-year integrated M.Sc. programmes are offered at CIT?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0038",
+          "retrieved_top3": [
+            "chunk_0083",
+            "chunk_0055",
+            "chunk_0069"
+          ],
+          "top1_title": "TNEA Engineering Admissions, Cut-offs and Eligibility"
+        },
+        {
+          "question": "What is the annual intake capacity for B.Tech Artificial Intelligence and Data Science?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0037",
+          "retrieved_top3": [
+            "chunk_0050",
+            "chunk_0102",
+            "chunk_0065"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        },
+        {
+          "question": "What is the approval status of B.E. VLSI Design and Technology at CIT?",
+          "category": "Courses and Academic Programmes",
+          "expected_chunk": "chunk_0037",
+          "retrieved_top3": [
+            "chunk_0047",
+            "chunk_0074",
+            "chunk_0038"
+          ],
+          "top1_title": "Degree Programmes, Curricula and Intake Capacity"
+        }
+      ]
+    }
+  }
+}

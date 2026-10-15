@@ -1,0 +1,417 @@
+COIMBATORE INSTITUTE OF TECHNOLOGY (CIT)
+CAMPUS FACILITIES AND OFFICIAL FAQ / STUDENT INFORMATION
+Filename: 09_campus_facilities_and_faqs.txt
+Research/access date: 15 October 2026
+Scope: Official CIT website (cit.edu.in) and official pages/documents linked from it that were inspected during this collection. This is not a claim that every page on the website has been inspected.
+
+IMPORTANT NOTES
+- Details below are transcribed or carefully condensed from the cited official pages.
+- Where the official sources did not provide the requested information, that is stated explicitly.
+- Some older official pages/documents may not reflect current practice. Verify time-sensitive arrangements with the relevant office.
+- No unofficial sources were used.
+
+1. MAIN CAMPUS ADDRESS AND CENTRAL CONTACT
+Source: https://cit.edu.in/contact-us
+Official address as published:
+The Principal
+Coimbatore Institute of Technology (CIT)
+Civil Aerodrome Post,
+Coimbatore, Tamilnadu, India - 641 014
+
+Central contact details published on the current Contact Us page:
+Phone: 94868 37757
+Email: principal.citoffice@cit.edu.in
+B.E. / B.Tech - Admissions: 94868 37757
+M.Sc. - Admissions: 94883 16334
+
+Source: https://cit.edu.in/index.php/students/information-for-students
+This separate official student-information page lists:
+Principal: Dr. A. Rajeswari
+Phone: +91-422-2573187
+Fax: +91-422-2575020
+Email: principal@cit.edu.in
+
+Administrative Officer (AO): Dr. P. Vinayagam
+Phone: 0422-2574071, 0422-2574072
+Email: ao@cit.edu.in
+
+Dean (Students Affairs): Dr. J. Devishree
+Phone: 0422-2574071, 2574072
+
+Conflict / variation note:
+The current Contact Us page lists 94868 37757 and principal.citoffice@cit.edu.in as its main public contact, while the student-information page lists +91-422-2573187 and principal@cit.edu.in for the Principal. These are both published on official CIT pages; confirm which channel is appropriate for the enquiry.
+
+2. STUDENT HELP DESK
+Source: https://cit.edu.in/help-desk
+Email: cithelpdesk@cit.edu.in
+Phone: 94868 37757
+The page provides a Help Desk form for the name of the student/faculty/parent/visitor, email address, phone/mobile number, and a category selection.
+The form is the published route for submitting a help-desk enquiry.
+
+3. DEPARTMENT OFFICE CONTACTS
+Source: https://cit.edu.in/information-technology
+The Information Technology department page lists faculty and general contact details but does not publish a distinct department-office telephone number or departmental office email in the inspected page. The page repeats the general admissions contacts:
+B.E. / B.Tech - Admissions: 94868 37757
+M.Sc. - Admissions: 94883 16334
+General email displayed: principal.citoffice@cit.edu.in
+Department faculty names shown include Dr. M. Rajalakshmi, Professor & Head of the Department.
+
+Source: https://cit.edu.in/library/contact-us
+Library contact:
+The Librarian, Department of Library,
+Coimbatore Institute of Technology,
+Civil Aerodrome (Po), Coimbatore – 641 014
+Email: library@cit.edu.in
+Phone: +914222574071, Extn. 355
+Fax: 0422 2575020
+
+Department office contacts for all other departments:
+Not found in the inspected official sources as a consolidated, verified list. Individual department and faculty pages may publish separate details.
+
+4. LIBRARY FACILITIES, HOURS AND ONLINE RESOURCES
+Current library navigation/source: https://cit.edu.in/library/about
+Library overview: The library was established in 1956 and is adjacent to the main building. The current page gives the area as 13,381 square feet (1,243 square meters). It supports access to physical and digital resources.
+
+Library services/navigation: https://cit.edu.in/library/
+The official library section links to:
+- About
+- Library Staff Details
+- Kalam Knowledge Club
+- Digital Library
+- Web OPAC
+- E-Resources
+- Services
+- Sections
+- Collections
+- Institutional Membership
+- Downloads
+- Rules and Regulations
+- Layout
+- Virtual Tour
+- Links
+- Contact Us
+
+E-resources/off-campus access: https://idp.cit.edu.in/
+The official CIT library off-campus access page states that faculty members, research scholars and students have credentials for remote access to subscribed e-resources 24/7. Users who have not received login details are directed to library@cit.edu.in. The page lists e-books, databases and e-journals, including McGraw Hill, Scopus, ASCE Journals Online, ASME Journals Online, EBSCO, Elsevier ScienceDirect, IEEE Xplore and Springer.
+
+Library opening hours:
+An official PDF titled “LIBRARY” at https://cit.edu.in/uploads/epdf_documents/8e7c826bf2ddd07adbea376368fbf334.pdf publishes the following hours:
+- Monday to Friday: 9.00 a.m. – 7.00 p.m.
+- Saturday: 9.00 a.m. – 3.00 p.m.
+- Vacation: 9.30 a.m. – 4.30 p.m.
+- Closed on Sundays and Government holidays.
+Caution: this is an older official PDF (search indexing indicates it was crawled several years ago). The currently inspected library pages do not independently confirm these hours. Treat the schedule as historically published, not independently verified as current; contact library@cit.edu.in before relying on it.
+
+5. HOSTEL / STUDENT ACCOMMODATION
+Source: https://cit.edu.in/life-at-cit/accommodation
+The official accommodation page states:
+- Residential facilities are available for aspiring students.
+- Hostellers are described as having comfortable living conditions, a healthy diet and comprehensive health care.
+- Hostels are within walking distance of academic blocks.
+- The page says accommodation is guaranteed for first-time students upon acceptance of their application.
+- The Hostel Committee comprises the Principal & Chief Warden, Administrative Officer, Deputy Wardens, Matron and Resident Tutor.
+- The listed committee responsibilities include providing information/support to residents, helping with welfare issues, assisting residents’ needs, organising social and sporting events, and encouraging responsible community living.
+
+The same page lists the following hostel roles/names:
+- Dr. A. Rajeswari — Principal & Chief Warden
+- Dr. J. Devi Shree — Deputy Warden
+- Dr. M. Vivek — Deputy Warden
+- Mr. C. Senthilkumar — Resident Tutor
+- Mr. S. Ayyadurai — Resident Tutor
+- Mr. C. Rameshkumar — Resident Tutor
+- Mrs. K. Lakshmi — Matron
+- Smt. D. Kanagaselvi — Matron
+- Mrs. P. SuthaMalin — Matron
+- Mrs. S. Pappal — Matron
+
+Hostel fees/admission information: https://cit.edu.in/admission/hostel-fees
+The page labels the facility “CIT CAMPUS HOSTEL” and says payment mode is UPI or NEFT only. During hostel admission, students are asked to submit:
+- Physical Fitness Certificate
+- G-Form for Admission Details
+- Photocopy of college fee receipt
+- Photocopy of Aadhaar card
+- Passport size photo – 2 Nos.
+- Parents Passport size photo – 2 Nos
+- Photocopy of Indian bank passbook (If available)
+The page instructs students to open an Indian Bank account at their nearest branch; if unable to do so elsewhere, bring the necessary documents to the Indian Bank branch on the CIT campus.
+Hostel admission enquiries:
+Phone: 0422 – 2573374
+Email: cithostels@cit.edu.in
+
+Hostel room types, current capacity, mess timings, visitor rules and current hostel office opening hours:
+Not found in the inspected official sources.
+
+6. TRANSPORT
+Source inspected: https://cit.edu.in/others/sop
+The official Standard Operating Procedures page says that for student industrial visits, departments are responsible for arranging authorized transportation, ensuring student insurance coverage and deputing at least two faculty members. For mixed-gender groups, a female faculty member is mandatory.
+This concerns industrial visits and does not establish a general daily student bus service.
+
+General campus-to-city bus routes, student transport availability, fares, bus timings and transport-office contact:
+Not found in the inspected official sources.
+
+7. ACCESSIBILITY, SECURITY AND VISITOR INFORMATION
+Accessibility source: https://cit.edu.in/general-facilities/
+The official General Facilities page states that the institute provides a barrier-free environment, including:
+- Lift arrangements in all blocks of the campus
+- Ramps in all buildings and laboratories
+- Wheelchairs for students who require them
+- “Left hand Chairs provided for require students” (wording as published on the page)
+- Separate toilets for physically challenged students
+
+Visitor accommodation source: https://cit.edu.in/general-facilities/
+The page states that CIT maintains a fully furnished Guest House with modern amenities for visiting professors, industrial experts and parents. Booking process, rates, availability and guest-house contact details were not found in the inspected page.
+
+Security/entry source: https://cit.edu.in/others/sop
+The official SOP page says all entry and exit points are monitored continuously and access is permitted after verification of valid identification for students, staff and visitors. Security personnel conduct routine patrols across academic blocks, hostels, laboratories and common areas.
+A separate official security document indexed at https://cit.edu.in/uploads/epdf_documents/520554b01edbafd290cf6a3da16208cf.pdf includes internal gate/security instructions. These include recording outsiders without ID cards in registers, restrictions on entry by other college students, and references to students leaving after 7.00 pm and the main gate being closed after evening-class students leave by 9 pm. This appears to be an internal security document and may be time-sensitive; do not treat it as a current public visitor policy without confirmation.
+
+Public visitor registration procedure, visiting hours, parking instructions and a visitor-specific phone number:
+Not found in the inspected official sources. Contact the central office or Help Desk before visiting.
+
+8. SPORTS, GYMNASIUM AND OTHER CAMPUS FACILITIES
+Sports source: https://cit.edu.in/physical-education/about
+The Department of Physical Education page lists:
+- Fully furnished gymnasium
+- Football pitch and cricket field
+- Standard 400mt stadium
+- Indoor and outdoor sports including cricket, football, badminton, ball badminton, hand ball, basket ball, tennis, kabaddi, volleyball, throw ball, carom and chess
+- Inter-collegiate tournaments and intra-college activities; the page mentions some events held under floodlights and an annual Sports Day.
+Sports facility opening hours, gym access rules, membership charges and a current sports timetable:
+Not found in the inspected official sources.
+
+General facilities source: https://cit.edu.in/general-facilities/
+The official page lists:
+- Canteen facility
+- In-house ATM, described as available 24/7
+- On-campus health centre with qualified medical staff, first-aid equipment and emergency transport services
+- Guest House for visiting professors, industrial experts and parents
+- Solar photovoltaic panels
+- Centralized Power House with generators and transformers; page describes 24/7 power backup for laboratories, hostels and administrative blocks
+- Rainwater harvesting
+- Sewage treatment and wastewater recycling facilities
+
+Academic facilities source: https://cit.edu.in/life-at-cit/academic-facilities
+The page lists laboratories, classrooms, auditorium and library. Detailed auditorium booking procedure, seating capacity, access policy and opening hours were not found in the inspected page.
+
+IT/network facilities source: https://cit.edu.in/it-resource-maintenance-cell/laboratory-facilities
+The official IT Resource Maintenance Cell page describes a 1 Gbps fiber-optic backbone, wired connectivity, and Wi-Fi. It says Wi-Fi is available in the Main Building Block, IT Block, Library Block and Hostel Office.
+
+9. STUDENT SERVICES AND ADMINISTRATIVE OFFICES
+Student information source: https://cit.edu.in/index.php/students/information-for-students
+Principal: Dr. A. Rajeswari
+Phone: +91-422-2573187
+Fax: +91-422-2575020
+Email: principal@cit.edu.in
+
+Administrative Officer (AO): Dr. P. Vinayagam
+Phone: 0422-2574071, 0422-2574072
+Email: ao@cit.edu.in
+
+Dean (Students Affairs): Dr. J. Devishree
+Phone: 0422-2574071, 2574072
+
+Grievance Redressal Committee email: studentsgr@cit.edu.in
+
+Help Desk source: https://cit.edu.in/help-desk
+Email: cithelpdesk@cit.edu.in
+Phone: 94868 37757
+
+Library source: https://cit.edu.in/library/contact-us
+Email: library@cit.edu.in
+Phone: +914222574071, Extn. 355
+Fax: 0422 2575020
+
+Hostel admission source: https://cit.edu.in/admission/hostel-fees
+Email: cithostels@cit.edu.in
+Phone: 0422 – 2573374
+
+Admissions source: https://cit.edu.in/contact-us
+B.E. / B.Tech admissions: 94868 37757
+M.Sc. admissions: 94883 16334
+General email displayed: principal.citoffice@cit.edu.in
+
+Other student services linked from the official student-information page include admission procedures, scholarships, hostel accommodation, contact details and grievance redressal. Details and forms may be available through the linked pages.
+
+10. IMPORTANT STUDENT-SERVICE NAVIGATION LINKS
+Official home page: https://cit.edu.in/
+Contact Us: https://cit.edu.in/contact-us
+Help Desk: https://cit.edu.in/help-desk
+Information for Students: https://cit.edu.in/index.php/students/information-for-students
+Undergraduate Admissions: https://cit.edu.in/index.php/admission/under-graduate
+First Year B.E. / B.Tech Admissions: https://cit.edu.in/admission/first-year-be-btech-admissions
+Hostel Accommodation: https://cit.edu.in/life-at-cit/accommodation
+Hostel Fees / Admission Documents: https://cit.edu.in/admission/hostel-fees
+General Facilities: https://cit.edu.in/general-facilities/
+Academic Facilities: https://cit.edu.in/life-at-cit/academic-facilities
+Library home: https://cit.edu.in/library/
+Library About: https://cit.edu.in/library/about
+Library Contact: https://cit.edu.in/library/contact-us
+Library Sections: https://cit.edu.in/library/sections
+Off-campus e-resources: https://idp.cit.edu.in/
+Physical Education / Sports: https://cit.edu.in/physical-education/about
+IT Network Facilities: https://cit.edu.in/it-resource-maintenance-cell/laboratory-facilities
+SOP and Institutional Guidelines: https://cit.edu.in/others/sop
+Others / institutional links: https://cit.edu.in/others
+
+11. OFFICIALLY DOCUMENTED FAQs AND ANSWERS
+A dedicated public FAQ page or a formally labelled FAQ list was not found in the inspected official sources. To avoid inventing college answers, the following are source-based factual answers to common practical enquiries, not official FAQs:
+
+Q: What is the campus address?
+A: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014.
+Source: https://cit.edu.in/contact-us
+
+Q: What phone number and email are shown on the current Contact Us page?
+A: Phone 94868 37757; email principal.citoffice@cit.edu.in.
+Source: https://cit.edu.in/contact-us
+
+Q: How can a student, parent or visitor contact the Help Desk?
+A: Use https://cit.edu.in/help-desk; the page lists cithelpdesk@cit.edu.in and 94868 37757.
+Source: https://cit.edu.in/help-desk
+
+Q: What is the hostel admission contact?
+A: 0422 – 2573374; cithostels@cit.edu.in.
+Source: https://cit.edu.in/admission/hostel-fees
+
+Q: What is the library contact?
+A: library@cit.edu.in; +914222574071, Extn. 355.
+Source: https://cit.edu.in/library/contact-us
+
+Q: Does CIT publish accessibility provisions?
+A: Yes. The General Facilities page lists lifts in all blocks, ramps in all buildings and laboratories, wheelchairs for students who require them, and separate toilets for physically challenged students.
+Source: https://cit.edu.in/general-facilities/
+
+Q: Does CIT publish general daily bus routes and timings?
+A: Not found in the inspected official sources. The inspected SOP page discusses authorized transportation for industrial visits, not a general student bus timetable.
+Source: https://cit.edu.in/others/sop
+
+Q: Are current library opening hours confirmed on the current library page?
+A: The current library pages inspected do not independently confirm hours. An older official library PDF publishes Monday–Friday 9.00 a.m.–7.00 p.m., Saturday 9.00 a.m.–3.00 p.m., vacation 9.30 a.m.–4.30 p.m., closed Sundays and Government holidays. Confirm with the library before visiting.
+Sources: https://cit.edu.in/library/about
+https://cit.edu.in/uploads/epdf_documents/8e7c826bf2ddd07adbea376368fbf334.pdf
+
+12. INFORMATION NOT FOUND IN THE INSPECTED OFFICIAL SOURCES
+- A dedicated official FAQ page or formal FAQ document.
+- A consolidated directory of every department office with direct office phone numbers and emails.
+- General daily student bus routes, transport fares, bus schedules and transport-office contact.
+- Current visitor opening hours, visitor registration workflow, parking instructions and visitor-specific contact.
+- Current hostel room capacity, room types, mess schedules, hostel visiting rules and hostel office opening hours.
+- Current library hours confirmed by a current page.
+- Gym and sports facility hours, booking/access rules and charges.
+- Auditorium capacity, booking procedure, public access rules and hours.
+- Guest House rates, booking process, availability and direct contact.
+- Current emergency phone numbers beyond the services described on the cited facilities page.
+
+13. SOURCE INVENTORY
+Access date for all sources below: 15 October 2026. “Inspected” means the official page/document content was reviewed through the official site and its indexed page content during this collection; this does not mean every linked subpage or the whole website was inspected.
+
+1. Coimbatore Institute of Technology — Home
+URL: https://cit.edu.in/
+Use: Main navigation and central contact displayed in the footer.
+Missing: Detailed visitor policy and comprehensive service directory.
+
+2. Contact Us
+URL: https://cit.edu.in/contact-us
+Use: Main campus address, central phone/email and admissions phone numbers.
+Missing: Office-specific hours and full department directory.
+
+3. Information for Students
+URL: https://cit.edu.in/index.php/students/information-for-students
+Use: Principal, Administrative Officer, Dean (Students Affairs), grievance email and student-service navigation.
+Missing: Direct contact details for all student services.
+
+4. Help Desk
+URL: https://cit.edu.in/help-desk
+Use: Help Desk email, phone and enquiry form.
+Missing: Published response times and service hours.
+
+5. Library — About
+URL: https://cit.edu.in/library/about
+Use: Library establishment and current area description.
+Missing: Current opening hours on this page.
+
+6. Library — Contact Us
+URL: https://cit.edu.in/library/contact-us
+Use: Librarian contact, phone, extension, fax and email.
+Missing: Opening hours.
+
+7. Library — Main page
+URL: https://cit.edu.in/library/
+Use: Official library service/navigation menu.
+Missing: No current hours displayed in inspected page content.
+
+8. Library — Sections
+URL: https://cit.edu.in/library/sections
+Use: Library section descriptions and borrowing information.
+Missing: Current opening hours.
+
+9. Official library PDF titled “LIBRARY”
+URL: https://cit.edu.in/uploads/epdf_documents/8e7c826bf2ddd07adbea376368fbf334.pdf
+Use: Published library schedule and services.
+Missing/limitation: Older document; current applicability not independently confirmed.
+
+10. CIT Library Off-Campus Access / E-Resources Directory
+URL: https://idp.cit.edu.in/
+Use: Remote e-resource access and library contact email.
+Missing: Detailed current service desk hours.
+
+11. Accommodation
+URL: https://cit.edu.in/life-at-cit/accommodation
+Use: Hostel overview, committee composition and named roles.
+Missing: Current room capacity, mess timings and hostel office hours.
+
+12. Hostel Fees
+URL: https://cit.edu.in/admission/hostel-fees
+Use: Payment mode, admission document checklist, hostel phone and email.
+Missing: Current fee amounts were not extracted from the visible indexed content; room/mess schedules not shown.
+
+13. General Facilities
+URL: https://cit.edu.in/general-facilities/
+Use: Accessibility, guest house, canteen, ATM, medical facilities, sustainability and infrastructure.
+Missing: Specific hours and booking contacts for most facilities.
+
+14. Academic Facilities
+URL: https://cit.edu.in/life-at-cit/academic-facilities
+Use: Confirmation that laboratories, classrooms, auditorium and library are listed as academic facilities.
+Missing: Auditorium capacity, booking process and hours.
+
+15. Physical Education — About
+URL: https://cit.edu.in/physical-education/about
+Use: Sports infrastructure and activities.
+Missing: Current facility opening hours, access rules and charges.
+
+16. IT Resource Maintenance Cell — Laboratory Facilities
+URL: https://cit.edu.in/it-resource-maintenance-cell/laboratory-facilities
+Use: Campus network and Wi-Fi facility information.
+Missing: Public Wi-Fi access instructions and guest access policy.
+
+17. SOP & Institutional Guidelines
+URL: https://cit.edu.in/others/sop
+Use: Industrial-visit transportation responsibility and visitor ID verification/security statements.
+Missing: General student transport schedule and public visitor hours.
+
+18. Official internal security document
+URL: https://cit.edu.in/uploads/epdf_documents/520554b01edbafd290cf6a3da16208cf.pdf
+Use: Security/gate instructions in an official document.
+Missing/limitation: Document may be internal or time-sensitive; current visitor policy not independently confirmed.
+
+19. Undergraduate Admissions
+URL: https://cit.edu.in/index.php/admission/under-graduate
+Use: Official admissions navigation.
+Missing: Not used as a source for campus facilities.
+
+20. First Year B.E. / B.Tech Admissions
+URL: https://cit.edu.in/admission/first-year-be-btech-admissions
+Use: Official admission form navigation and admissions contact.
+Missing: Not used as a source for campus facilities.
+
+21. Others
+URL: https://cit.edu.in/others
+Use: Official institutional links/navigation.
+Missing: No dedicated FAQ content identified.
+
+22. Information Technology department page
+URL: https://cit.edu.in/information-technology
+Use: Example department page reviewed for department contact publication.
+Missing: No separate department-office phone/email identified in the inspected page; this is not a full audit of all department pages.
+
+END OF FILE

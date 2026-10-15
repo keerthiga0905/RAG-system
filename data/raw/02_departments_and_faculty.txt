@@ -1,0 +1,266 @@
+COIMBATORE INSTITUTE OF TECHNOLOGY (CIT) - DEPARTMENTS AND FACULTY DATASET
+File: 02_departments_and_faculty.txt
+Access date: 15 October 2026
+Source scope: https://cit.edu.in/ and its official linked pages only.
+
+STATUS NOTICE (READ FIRST)
+This file is PARTIAL. Only the pages listed in the Source Inventory were actually opened.
+- Complete department/programme roster: captured (from the official Departments page and homepage).
+- Department-level detail (overview, vision/mission, HoD, faculty): captured for TWO departments: B.E. Civil Engineering (full faculty list) and B.E. Computer Science & Engineering (department home page only; faculty list is the 12 names shown there, not the full list).
+- The other 16 department pages were NOT opened in this pass. Each is listed with its official URL and the listing-page description only. Their fields are marked "Not yet inspected" (this is different from "Not found in the inspected official sources", which is used only where a page was opened and the item was absent).
+- Wording of descriptive text is paraphrased closely; names, designations, qualifications, phone numbers, emails and dates are kept as published.
+
+======================================================================
+SECTION 1. INSTITUTION-LEVEL CONTEXT
+======================================================================
+Source: https://cit.edu.in/
+- Institution: Coimbatore Institute of Technology (CIT)
+- Address: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+- Main phone: 94868 37757 (B.E./B.Tech admissions); M.Sc. admissions: 94883 16334
+- Main email: principal.citoffice@cit.edu.in
+- Homepage "About Us" text: established in 1956 by the V. Rangaswamy Naidu Educational Trust (VRET); autonomous since 1987; affiliated to Anna University, Chennai; 69-acre campus; states the campus is home to "14 departments".
+  (See conflict note C1 below.)
+
+======================================================================
+SECTION 2. COMPLETE LIST OF DEPARTMENTS / PROGRAMME UNITS
+======================================================================
+Source: https://cit.edu.in/departments (grouped as published on that page)
+
+Group: Engineering
+ 1. B.E Civil Engineering - https://cit.edu.in/civil-engineering
+ 2. B.E Computer Science & Engineering - https://cit.edu.in/computer-science-engineering
+ 3. B.E Electrical & Electronics Engineering - https://cit.edu.in/electrical-electronics-engineering
+ 4. B.E Electronics & Communication Engineering - https://cit.edu.in/electronics-communication-engineering
+ 5. B.E Mechanical Engineering - https://cit.edu.in/mechanical-engineering
+ 6. B.Tech Artificial Intelligence and Data Science - https://cit.edu.in/artificial-intelligence-and-data-science
+ 7. B.Tech Chemical Engineering - https://cit.edu.in/chemical-engineering
+ 8. B.Tech Information Technology - https://cit.edu.in/information-technology
+
+Group: PG Programmes
+ 9. M.Sc. Artificial Intelligence and Machine Learning - https://cit.edu.in/msc-artificial-intelligence-and-machine-learning
+10. M.Sc. Data Science - https://cit.edu.in/msc-data-science
+11. M.Sc. Decision and Computing Sciences - https://cit.edu.in/msc-decision-and-computing-sciences
+12. M.Sc. Software Systems - https://cit.edu.in/msc-software-systems
+
+Group: Master Programmes
+13. Computer Applications (MCA) - https://cit.edu.in/computer-applications-mca
+14. Management Studies (MBA) - https://cit.edu.in/management-studies-mba
+
+Group: Science & Humanities
+15. Chemistry - https://cit.edu.in/chemistry
+16. Humanities - https://cit.edu.in/humanities
+17. Mathematics - https://cit.edu.in/mathematics
+18. Physics - https://cit.edu.in/physics
+
+Other units listed in the site menu under "Other Departments" (pages not opened):
+- Library - https://cit.edu.in/library/about
+- Physical Education - https://cit.edu.in/physical-education/about
+- COE (Exam) - https://cit.edu.in/coe/about-the-office-of-the-controller-of-examinations
+- MMTTC - https://cit.edu.in/others/mmttc
+
+Schools: No "school" structure was found on the inspected pages (homepage, Departments page). The homepage groups units as: Engineering; Science & Humanities; Integrated Programmes; PG Programmes.
+
+Abbreviations: No official department abbreviations were found on the inspected pages. None are supplied here to avoid inference.
+
+Homepage grouping (https://cit.edu.in/), as published:
+- Engineering: Civil; Mechanical; Electrical & Electronics; Electronics & Communication; Computer Science & Engineering; Information Technology; Chemical Engineering; Artificial Intelligence and Data Science; "B.E. Electronics Engineering (VLSI Design and Technology)"
+- Science & Humanities: Humanities; Mathematics; Physics; Chemistry
+- Integrated Programmes (five-year integrated, per homepage): M.Sc Software Systems; M.Sc Data Science; M.Sc Decision & Computing Sciences; M.Sc Artificial Intelligence and Machine Learning
+- PG Programmes: Business Administration (MBA); Computer Application (MCA); M.E. Construction Management
+
+Listing-page short descriptions (https://cit.edu.in/departments), paraphrased:
+- Civil: infrastructure design, construction and maintenance (roads, bridges, buildings).
+- CSE: software development, algorithms, computing systems.
+- EEE: electricity, circuits, electronic devices; electrical systems.
+- ECE: communication systems, circuits, electronic devices; telecom and embedded systems.
+- Mechanical: design, analysis and manufacturing of machines and mechanical systems.
+- AI & Data Science: analysing large datasets; statistical and computational techniques.
+- Chemical Engineering: industrial process design; pharmaceuticals, energy, materials.
+- Information Technology: practical use of computing in organisations; networking, databases, system administration.
+- M.Sc. AI & ML: building smart solutions using emerging technologies.
+- M.Sc. Data Science: statistical and analytical tools; data modelling, visualisation.
+- M.Sc. Decision and Computing Sciences: computational methods for complex decision problems.
+- M.Sc. Software Systems: department described as shaping future technology leaders.
+- MCA: advanced programming, software development, IT applications.
+- MBA: business strategy, leadership, organisational management.
+- Chemistry: substances, reactions, materials; laboratory experience.
+- Humanities: human culture, society and thought.
+- Mathematics: pure and applied mathematics.
+- Physics: fundamental laws of matter, energy and the universe.
+
+======================================================================
+SECTION 3. DEPARTMENT DETAIL
+======================================================================
+
+----------------------------------------------------------------------
+3.1 DEPARTMENT OF B.E. CIVIL ENGINEERING
+----------------------------------------------------------------------
+Pages inspected:
+- https://cit.edu.in/civil-engineering (department home)
+- https://cit.edu.in/civil-engineering/faculty (full faculty list)
+- https://cit.edu.in/faculty/drrsathyanarayan-sridhar (HoD profile)
+Official department URL: https://cit.edu.in/civil-engineering
+Official name (as published): Department Of B.E Civil Engineering / B.E. Civil Engineering
+Abbreviation: Not found in the inspected official sources.
+
+Overview (paraphrased from department home page):
+- Department started in 1956. Postgraduate programme in Structural Engineering began in 1969; Ph.D. programme in Civil Engineering in 1978; PG programme in Environmental Engineering in 2005; PG programme in Construction Management in 2011.
+- Faculty are described as experienced in academia and industry, with specialised areas listed as: Structural Analysis & Design, Structural Optimization, Concrete Technology, Steel Structures, Environmental Engineering, Construction Management, Transportation Engineering, Earthquake Engineering, Remote Sensing, Impact Assessment, and Prestressed Concrete Structures.
+
+Vision (paraphrased): to provide quality Civil Engineering education and become a state-of-the-art source of world-class Civil Engineers and researchers.
+Mission (paraphrased): to impart quality education and the skills industry needs, with professional ethics and an attitude for innovation in Civil Engineering through state-of-the-art technology.
+Objectives / PEOs / POs: A "PEOs and POs" page exists (https://cit.edu.in/civil-engineering/peos-and-pos) but was NOT opened.
+
+Programmes offered:
+- UG: B.E. Civil Engineering (department title and listing). 
+- PG / Ph.D.: The home page says PG programmes in Structural Engineering (1969), Environmental Engineering (2005) and Construction Management (2011) and a Ph.D. programme (1978) were "started" in those years. Whether each is currently offered was NOT confirmed on the inspected pages. The institutional homepage lists "M.E. Construction Management" under PG Programmes.
+- Curriculum page (not opened): https://cit.edu.in/civil-engineering/course-offered
+
+Head of Department (https://cit.edu.in/faculty/drrsathyanarayan-sridhar):
+- Dr. R. Sathyanarayan Sridhar - listed on the department page as "Professor & Head of the Department"; the profile page shows "Professor & HOD".
+- Qualification: M.Tech., Ph.D
+- Email: hodcivil@cit.edu.in
+- Phone: 9443304366
+- Office number: 4222574071
+- Vidwan profile link published on the page: https://vidwan.inflibnet.ac.in/profile/117136 (the page's link is malformed as "https://vidwan.inflibnet.ac.in/profile/https://vidwan.inflibnet.ac.in/profile/117136")
+- Teaching responsibilities listed: Mechanics of Soils; Remote sensing; Foundation Engineering; Geographical Information Systems
+- Research interests listed: Soil Investigation; Foundation Design and GIS; Geotechnical Engineering & Remote Sensing
+- Area of specialization: Geotechnical Engineering & Remote Sensing
+- Academic background (paraphrased): B.E. Civil Engineering from CIT (1996); master's in Foundation Engineering from Maulana Azad Regional Engineering College, Bhopal (1998); doctorate from Anna University (2010). Worked in the Department of Rural Development, Government of Tamilnadu (1998-2001); at CIT since November 2001.
+- Award listed: Young Scientist Fast Track Research Grant from the Department of Science & Technology, Government of India.
+
+Faculty list (source: https://cit.edu.in/civil-engineering/faculty; names and designations as published; 17 entries).
+Qualifications and research interests for these individuals are NOT recorded below because their individual profile pages were not opened; only the HoD profile was opened (above). Profile URLs are given for follow-up.
+ 1. Dr. R. Sathyanarayan Sridhar - Professor & Head of the Department - https://cit.edu.in/faculty/drrsathyanarayan-sridhar
+ 2. Dr. P. Vinayagam - Professor - https://cit.edu.in/faculty/drpvinayagam
+ 3. Dr. R. Saraswathi - Professor - https://cit.edu.in/faculty/drrsaraswathi
+ 4. Dr. S. Shanmuga Priya - Professor - https://cit.edu.in/faculty/drsshanmuga-priya
+ 5. Dr. M. P. Muthuraj - Associate Professor - https://cit.edu.in/faculty/drmpmuthuraj-740
+ 6. Ms. M. Hannah Angelin - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/ms-m-hannah-angelin
+ 7. Dr. T. Balasubramaniam - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/drtbalasubramaniam
+ 8. Dr. M. Kaarthik - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/drmkaarthik
+ 9. Dr. C. Shankar - Assistant Professor - https://cit.edu.in/faculty/drcshankar
+10. Dr. V. G. Kalpana - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/drvgkalpana
+11. Mr. S. Karthik Kumar - Assistant Professor - https://cit.edu.in/faculty/mrskarthik-kumar
+12. Dr. J. Cyril Santhosh - Assistant Professor - https://cit.edu.in/faculty/dr-j-cyril-santhosh
+13. Mr. U. Balavignesh - Assistant Professor - https://cit.edu.in/faculty/mrubalavignesh
+14. Mr. D. Arul - Assistant Professor (Sl.Gr.) - https://cit.edu.in/faculty/mrdarul
+15. Dr. P. Jagadesh - Assistant Professor (Sl.Gr.) - https://cit.edu.in/faculty/drpjagadesh
+16. Mr. P. Leeban Joseph - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/mrpleeban-joseph
+17. Dr. S. Kavitha - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/dr-s-kavitha
+
+Department contact details: No department-wide contact block was found on the inspected pages. Only the HoD contact above and the institutional contact in Section 1 were published. 
+Laboratories and research facilities: Not found in the inspected official sources (department home page). Sub-pages not opened.
+Research centres / areas / major facilities: The home page lists faculty specialisation areas (see Overview) and a "Research Activities" page (https://cit.edu.in/civil-engineering/research-activities, not opened). Department claims 15 patents and total funding secured of "80 Lakhs" (home page, undated). Two events/projects mentioned on the home page: a two-day seminar on Graphene - Nano Technology: Applications in Civil Engineering (DST-SERB) and a two-day national-level programme on Carbon Capture and Sequestration (DST-SERB); no dates given.
+Other department pages (not opened): Board of Studies (/civil-engineering/board-of-studies), Patents and MoU (/civil-engineering/patents-and-mou), Consultancy (/civil-engineering/consultancy), Students Achievements, CSR, Distinguished Alumni.
+
+CONFLICT FLAG C2 (Civil faculty count): The department home page statistics text says the department has "10 faculty members" with "11 Ph.D qualifications"; the official faculty list page shows 17 faculty. Both sources recorded; no figure chosen. The statistics text is undated.
+
+----------------------------------------------------------------------
+3.2 DEPARTMENT OF B.E. COMPUTER SCIENCE & ENGINEERING
+----------------------------------------------------------------------
+Page inspected: https://cit.edu.in/computer-science-engineering (department home)
+Official department URL: https://cit.edu.in/computer-science-engineering
+Official name (as published): Department Of B.E Computer Science & Engineering / B.E. Computer Science and Engineering
+Abbreviation: The page's "Know More" link points to https://cit.edu.in/cse (URL slug only; no abbreviation stated in the text). Abbreviation otherwise not found in the inspected official sources.
+
+Overview (paraphrased):
+- Department established in 1986. It offers the B.E. in Computer Science and Engineering and a Ph.D. research programme across disciplines within computer science and engineering.
+- Stated aim: to become a Centre of Excellence in Education and Research, linking Computer and Information Sciences with Natural Sciences and core engineering disciplines.
+- A Project Development Cell (PDC) was set up in academic year 2024-2025 for real-world student projects. (The same page also calls it "Product Development Cell (PDC)" in an event item; naming inconsistency on the source page.)
+
+Vision (paraphrased): to become a leading department in computer science and engineering education that nurtures globally competent professionals.
+Mission (paraphrased, 3 points): (1) value-based technical education producing globally competent engineers who can deliver secure, "Out-of-the-Box" computing and IT solutions; (2) collaborative learning and research with industry and research organisations for knowledge transfer; (3) enabling graduates to adapt to changing technology with strong fundamentals.
+Objectives / PEOs / POs: page exists (https://cit.edu.in/computer-science-engineering/peos-and-pos), not opened.
+
+Programmes offered:
+- UG: B.E. Computer Science and Engineering
+- Research: Ph.D. programme (stated on the page)
+- PG: Not found in the inspected official sources (department home page).
+- Curriculum page (not opened): https://cit.edu.in/computer-science-engineering/course-offered
+
+Head of Department (department home page listing): Dr. A. Kunthavai - "Professor & Head of the Department" - https://cit.edu.in/faculty/drakunthavai
+(Profile page not opened; qualification and contact not recorded.)
+
+Faculty shown on the department home page (12 of an unknown total; "View All Faculty" page https://cit.edu.in/computer-science-engineering/faculty NOT opened). Names and designations as published. Qualifications and research interests: Not yet inspected (individual profiles not opened).
+ 1. Dr. A. Kunthavai - Professor & Head of the Department - https://cit.edu.in/faculty/drakunthavai
+ 2. Dr. R. Nedunchezhian - Professor - https://cit.edu.in/faculty/drr-nedunchezhian
+ 3. Dr. A. N. Senthilvel - Professor - https://cit.edu.in/faculty/dransenthilvel
+ 4. Dr. K. Amshakala - Professor - https://cit.edu.in/faculty/drkamshakala
+ 5. Dr. M. Mohanapriya - Associate Professor - https://cit.edu.in/faculty/drm-mohanapriya
+ 6. Dr. A. Priyadharshini - Associate Professor - https://cit.edu.in/faculty/dr-a-priyadharshini
+ 7. Dr. S. Priya - Associate Professor - https://cit.edu.in/faculty/drspriya
+ 8. Dr. R. Saveeth - Associate Professor - https://cit.edu.in/faculty/dr-rsaveeth
+ 9. Dr. S. P. Abirami - Associate Professor - https://cit.edu.in/faculty/dr-spabirami
+10. Ms. R. Pavithra - Assistant Professor (Sl.Gr.) - https://cit.edu.in/faculty/msrpavithra
+11. Dr. G. Karthikeyan - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/drgkarthikeyan
+12. Dr. S. Saranya - Assistant Professor (Sr.Gr.) - https://cit.edu.in/faculty/dr-ssaranya
+
+Department contact details: No department-specific contact block found on the inspected page; institutional contact in Section 1 applies.
+Laboratories and research facilities: Not found in the inspected official sources (home page). Event text mentions a room "IT213" as a venue for a talk on 5 Feb 2026; this is not described as a laboratory.
+Research centres / areas / major facilities: The page mentions the Ph.D. programme, the PDC, ACM student chapter activities, and an MoU between the department and the All-India Institute of Ayurveda (AIIA), Ministry of AYUSH, New Delhi (no date stated on page). A "Research Activities" page exists (https://cit.edu.in/computer-science-engineering/research-activities), not opened.
+Other pages linked (not opened): Board of Studies, E-Resources, Consultancy, MoUs, ACM Activities, Association Activities, PDC, Distinguished Alumni.
+
+CONFLICT FLAG C6 (CSE faculty count): the home page statistics text says "10 faculty members" with "14 Ph.D qualifications"; the same page lists 12 faculty in its faculty block (with a link to a longer list). Both recorded; no figure chosen. Statistics text is undated.
+
+----------------------------------------------------------------------
+3.3 to 3.18 - REMAINING DEPARTMENTS (NOT YET INSPECTED)
+----------------------------------------------------------------------
+For each of the following, only the name, official URL and listing description (Section 2) have been verified. All other fields below are "Not yet inspected": overview, vision/mission, objectives, programmes, HoD, faculty list, faculty qualifications and research interests, contact details, laboratories, research centres, facilities. Likely follow-up pages per department follow the pattern <department URL>/faculty (Civil Engineering's pattern; unverified for others).
+
+3.3  B.E Electrical & Electronics Engineering - https://cit.edu.in/electrical-electronics-engineering
+3.4  B.E Electronics & Communication Engineering - https://cit.edu.in/electronics-communication-engineering
+3.5  B.E Mechanical Engineering - https://cit.edu.in/mechanical-engineering
+3.6  B.Tech Artificial Intelligence and Data Science - https://cit.edu.in/artificial-intelligence-and-data-science
+3.7  B.Tech Chemical Engineering - https://cit.edu.in/chemical-engineering
+3.8  B.Tech Information Technology - https://cit.edu.in/information-technology
+3.9  M.Sc. Artificial Intelligence and Machine Learning - https://cit.edu.in/msc-artificial-intelligence-and-machine-learning
+3.10 M.Sc. Data Science - https://cit.edu.in/msc-data-science
+3.11 M.Sc. Decision and Computing Sciences - https://cit.edu.in/msc-decision-and-computing-sciences
+3.12 M.Sc. Software Systems - https://cit.edu.in/msc-software-systems
+3.13 Computer Applications (MCA) - https://cit.edu.in/computer-applications-mca
+3.14 Management Studies (MBA) - https://cit.edu.in/management-studies-mba
+3.15 Chemistry - https://cit.edu.in/chemistry
+3.16 Humanities - https://cit.edu.in/humanities
+3.17 Mathematics - https://cit.edu.in/mathematics
+3.18 Physics - https://cit.edu.in/physics
+
+======================================================================
+SECTION 4. INSTITUTION-LEVEL RESEARCH LINKS (NOT OPENED)
+======================================================================
+Linked from the site menu; not inspected:
+- Research Areas: https://cit.edu.in/research/research-areas
+- Research Facilities: https://cit.edu.in/research/research-facilities
+- Research Cell: https://cit.edu.in/research/research-cell
+- Faculty Research Profiles (external IRINS portal): https://cit.irins.org/
+
+======================================================================
+SECTION 5. CONFLICTS AND DISCREPANCIES
+======================================================================
+C1. Number/list of departments. Homepage text: "14 departments". The Departments page lists 18 department/programme pages (8 Engineering, 4 PG, 2 Master, 4 Science & Humanities). The homepage department cards additionally mention "B.E. Electronics Engineering (VLSI Design and Technology)" and "M.E. Construction Management", which have no page in the Departments page listing or menu. Not resolved.
+C2. Civil faculty count: see 3.1.
+C3. Programme grouping: M.Sc. programmes are under "PG Programmes" on the Departments page but under "Integrated Programmes" (five-year) on the homepage. Not resolved.
+C4. MCA and MBA: "Master Programmes" on the Departments page; "PG Programmes" on the homepage.
+C5. Faculty list structure: the main Faculty page (https://cit.edu.in/faculties) displayed "Faculty Not Found" when fetched (content appears to load dynamically), so per-department pages were used instead. Its dropdown lists the same 18 departments and designations such as Principal, Assistant Principal, Dean - Computing, HOD (I/C), Associate Professor of Practice, Librarian.
+
+======================================================================
+SOURCE INVENTORY
+======================================================================
+Title | URL | Access date | Notes
+Coimbatore Institute of Technology (CIT) - homepage | https://cit.edu.in/ | 15 Oct 2026 | Used for institution info, department groupings, menu links.
+Departments at CIT Coimbatore | Engineering | https://cit.edu.in/departments | 15 Oct 2026 | Department roster and short descriptions.
+Civil Engineering Department at CIT Coimbatore | https://cit.edu.in/civil-engineering | 15 Oct 2026 | Overview, vision/mission, partial faculty list, statistics.
+Computer Science Engineering at CIT Coimbatore | https://cit.edu.in/computer-science-engineering | 15 Oct 2026 | Overview, vision/mission, 12 faculty names, statistics.
+Civil Engineering Faculty | CIT Professors & Staff | https://cit.edu.in/civil-engineering/faculty | 15 Oct 2026 | Full faculty list (17).
+Dr. R. Sathyanarayan Sridhar | CIT (faculty profile) | https://cit.edu.in/faculty/drrsathyanarayan-sridhar | 15 Oct 2026 | HoD profile.
+Faculty at CIT Coimbatore | Teaching Excellence | https://cit.edu.in/faculties | 15 Oct 2026 | Dropdowns only; no faculty records rendered.
+
+MISSING / NOT YET COVERED
+- Department pages for 16 of 18 departments (Sections 3.3-3.18).
+- CSE full faculty list (/computer-science-engineering/faculty) and CSE HoD profile.
+- Individual faculty profiles for all faculty except the Civil HoD.
+- Civil Engineering sub-pages: curriculum, PEOs/POs, Board of Studies, research activities, patents/MoU, consultancy.
+- Department laboratories, research centres, research facilities (department and institutional pages).
+- Department abbreviations: not found on pages inspected.
+- Department-level contact details: not found for Civil; not inspected for others.
+This file does not claim full coverage of cit.edu.in.

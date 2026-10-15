@@ -1,0 +1,542 @@
+CIT OFFICIAL PDF DOCUMENT INVENTORY
+Coimbatore Institute of Technology (CIT), Coimbatore
+Prepared from inspection of the official CIT website and official CIT-linked PDF documents
+Access/inspection date: 2026-10-15
+
+IMPORTANT SCOPE NOTE
+This inventory is a verified inventory of publicly accessible, relevant PDF documents identified by inspecting CIT's official navigation pages and targeted searches of official CIT PDF locations. It is NOT claimed to be a byte-for-byte crawl of every PDF on the entire website. CIT has many department, NAAC criterion, examination, timetable, committee, and announcement attachments; only documents relevant to a College Knowledge AI/RAG corpus and actually identifiable/openable during this inspection are listed below.
+
+STATUS DEFINITIONS
+- Opened: YES = the official PDF was successfully opened/parsed by the inspection tool.
+- Downloaded: NO = no separate local download was performed; "opened" means the live official PDF was accessible.
+- Text: YES = machine-readable text was available from the PDF.
+- OCR: REQUIRED = the PDF was image/scanned based or exposed no extractable text during inspection.
+- Version/date concern: records known ambiguity, legacy content, stale academic year, or conflicts found in official sources.
+
+============================================================
+CATEGORY 1 — COLLEGE PROSPECTUS / INSTITUTIONAL / COURSE BROCHURES
+============================================================
+
+1. Document title: ADMISSION BROCHURE — B.E. / B.Tech.
+Direct PDF URL: https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+Source webpage URL: https://cit.edu.in/
+Category: College/course admission brochure
+Publication year / applicable year: 2026
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Current 2026 brochure. It states CIT is a Government Aided Autonomous Institution affiliated to Anna University. The PDF includes B.E./B.Tech programmes, course history, centres of excellence, placements, collaborations and admission contact details. The brochure states the VLSI Design and Technology programme as "Since 2026" and marks it "* awaiting approval"; this is an important version/status flag for RAG use.
+
+2. Document title: M.Sc. Programmes — 5 Year Integrated
+Direct PDF URL: https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf
+Source webpage URL: https://cit.edu.in/
+Category: Course/admission brochure
+Publication year / applicable year: 2026 (site footer labels it M.Sc. Brochure 2026; PDF itself is not explicitly dated)
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Filename says "Updated_MSc_BROCHURE"; no explicit publication date printed in the extracted PDF. It contains programme features, internships, placement claims and admission eligibility. Treat as current 2026 brochure but preserve the lack of a printed issue date.
+
+3. Document title: MBA MCA Admission Brochure — Two Year Full Time PG Programmes
+Direct PDF URL: https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf
+Source webpage URL: https://cit.edu.in/
+Category: Course/admission brochure
+Publication year / applicable year: 2026
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Current 2026 brochure. Contains MBA and MCA programme descriptions, specializations/domains, annual intake and placement claims.
+
+4. Document title: CIT Calendar & Hand Book
+Direct PDF URL: https://www.cit.edu.in/pdf/admission/academic-calendar/CIT-Calendar-Hand-Book.pdf
+Source webpage URL: https://cit.edu.in/ (legacy official PDF linked/returned by CIT's academic-calendar material)
+Category: Institutional handbook / academic calendar / admission information
+Publication year / applicable academic year: Academic Calendar for 2021-2022 is explicitly printed; document is a legacy handbook
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Legacy document. It contains 2021-22 academic calendar, institutional history, courses offered, admission requirements, financial assistance and scholarship information. Do NOT use it as the current admission/fee policy without checking current pages. It contains older programme lists and older institutional details.
+
+============================================================
+CATEGORY 2 — ADMISSION BROCHURES / ELIGIBILITY / ADMISSION DOCUMENTS
+============================================================
+
+5. Document title: CIT — Mandatory Disclosure (2026-2027)
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/7f51a25c138f5743c8d7f82d3a1ad7cc.pdf
+Source webpage URL: https://cit.edu.in/
+Category: Mandatory disclosure / institutional / admission information
+Publication year / applicable year: 2026-2027
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Current mandatory disclosure. Contains programme information and enrolment/placement data for recent years. Preserve the document year because these values are time-bound.
+
+6. Document title: Application for the Post of Assistant Professor
+Direct PDF URL: https://cit.edu.in/uploads/file_manger/1788453881_CIT_FACULTY_RECRUITMENT_APPL_FORM.pdf
+Source webpage URL: https://cit.edu.in/ (2026 faculty recruitment announcement)
+Category: Other official form; not student admission
+Publication year / applicable year: 2026 recruitment cycle
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Not a student-knowledge priority; included only because it is an official, publicly accessible PDF surfaced from the current home-page announcements. It should normally be excluded from the core student RAG corpus unless staff/recruitment knowledge is in scope.
+
+7. Document title: UGC Extension of Autonomous Status to Coimbatore Institute of Technology
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/ba69f7887ff1ade453186f4997d0ddd2.pdf
+Source webpage URL: https://cit.edu.in/others/ugc
+Category: Accreditation / regulatory / institutional status
+Publication year / applicable year: October 2021; autonomy extension for sessions 2021-2022 to 2025-2026
+Opened: YES
+Downloaded: NO
+Text/OCR: OCR REQUIRED / scanned PDF (no extractable text exposed during inspection)
+Version/date concerns: This is an official UGC letter hosted by CIT. It is not a CIT-authored policy. Its stated extension ends with session 2025-2026, so it should not be treated as proof of the current 2026-27 autonomy cycle without a newer document.
+
+============================================================
+CATEGORY 3 — ACADEMIC CALENDARS / EXAMINATION / ACADEMIC SCHEDULES
+============================================================
+
+8. Document title: WORK SCHEDULE ODD SEMESTER (2026-2027) — Third Semester B.E./B.Tech, M.E. (EEE) & MCA
+Direct PDF URL: https://cit.edu.in/uploads/file_manger/1782996798_20260702193056539.pdf
+Source webpage URL: https://cit.edu.in/ (Academic Calendar link)
+Category: Academic calendar / work schedule
+Publication year / applicable academic year: 2026-2027
+Opened: YES
+Downloaded: NO
+Text/OCR: OCR REQUIRED / scanned PDF; page image was inspected
+Version/date concerns: Circular dated 30.06.2026, C/133. Applies specifically to third semester B.E./B.Tech, M.E. (EEE) & MCA. It is not a universal all-programme academic calendar.
+
+9. Document title: AUTONOMOUS EXAMINATIONS OCT / NOV 2026 — B.E. Civil Engineering
+Direct PDF URL: https://cit.edu.in/uploads/file_manger/1790864593_November-December_2026_Autonomous_Examinations.pdf
+Source webpage URL: https://cit.edu.in/ (Exam Schedule announcement)
+Category: Examination schedule
+Publication year / applicable academic year: October/November 2026; for students admitted during academic years 2023-2024, 2024-2025 and 2025-2026
+Opened: YES
+Downloaded: NO
+Text/OCR: OCR REQUIRED / scanned PDF; page image was inspected
+Version/date concerns: 41-page exam schedule. Time-sensitive and programme/batch-specific. Do not merge with older examination schedules.
+
+10. Document title: Circular — Hostel facility for Lateral Entry Students
+Direct PDF URL: https://cit.edu.in/uploads/file_manger/1790864881_Hostel_-_Lateral_Entry.pdf
+Source webpage URL: https://cit.edu.in/
+Category: Student information / hostel
+Publication year / applicable date: 29.09.2026
+Opened: YES
+Downloaded: NO
+Text/OCR: OCR REQUIRED / scanned PDF; page image was inspected
+Version/date concerns: One-page circular. It says hostel facility is available for lateral entry students and directs students to the CIT Hostel Office. It does not provide a fee schedule.
+
+============================================================
+CATEGORY 4 — SYLLABI / CURRICULUM / REGULATIONS
+============================================================
+
+11. Document title: B.E. Computer Science & Engineering — Syllabus Final 2022
+Direct PDF URL: https://cit.edu.in/uploads/syllabus_document/1769156941_CSE_Syllabus_Final_2022.pdf
+Source webpage URL: https://cit.edu.in/syllabus
+Category: Syllabus / curriculum
+Publication year / applicable academic year: 2022
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: The official syllabus index currently exposes multiple academic-year columns, but the direct CSE file is explicitly a 2022 final syllabus. It should not be assumed to be the latest curriculum for 2026 entrants.
+
+12. Document title: M.C.A. — Syllabus 2022 Final
+Direct PDF URL: https://cit.edu.in/uploads/syllabus_document/1769160088_MCA_Syllabus_-_2022_final-cit.pdf
+Source webpage URL: https://cit.edu.in/syllabus
+Category: Syllabus / curriculum
+Publication year / applicable academic year: 2022
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Explicitly a 2022 final syllabus. Current admissions pages describe MCA as a current programme, so versioning must be handled carefully in a RAG system.
+
+13. Document title: B.Tech. Chemical Engineering — Syllabus
+Direct PDF URL: https://adm.cit.edu.in/assets/files/syllabus/2024/08/SYS8878109/B.Tech%20Chemical%20Syllabus.pdf
+Source webpage URL: https://cit.edu.in/departments (official CIT department/syllabus navigation; PDF is hosted on CIT's official admissions subdomain)
+Category: Syllabus / curriculum
+Publication year / applicable academic year: 2024-era document; PDF search record published approximately 2024
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Hosted on adm.cit.edu.in rather than the main cit.edu.in domain. It is an official CIT subdomain and is treated here as an official linked document. Verify current curriculum before using for current admissions.
+
+14. Document title: B.Tech. Artificial Intelligence and Data Science — Curriculum and Syllabi (R2021)
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/d46da9e6f7923baf1d77d9a9e66a32e6.pdf
+Source webpage URL: https://cit.edu.in/artificial-intelligence-and-data-science
+Category: Syllabus / curriculum / regulations
+Publication year / applicable academic year: R2021; students admitted during academic year 2021-2022 and onwards
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Regulation R2021. It is a historical curriculum and may coexist with R2023.
+
+15. Document title: B.Tech. Artificial Intelligence and Data Science — Regulations 2023, Choice Based Credit System, Curricula and Syllabi
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/fd951bc6503dcd291c421dbbacf32803.pdf
+Source webpage URL: https://cit.edu.in/artificial-intelligence-and-data-science
+Category: Syllabus / curriculum / regulations
+Publication year / applicable academic year: Regulation 2023
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Current relative to R2021 for students under the newer regulation. Preserve regulation number and admission cohort.
+
+16. Document title: PG EEE / Environmental Impact Assessment curriculum document (file title shown as “4. PG EE 2023 10.07.2024”)
+Direct PDF URL: https://adm.cit.edu.in/assets/files/syllabus/2024/08/SYS8987766/4.%20PG%20EE%202023%2010.07.2024.pdf
+Source webpage URL: https://cit.edu.in/syllabus
+Category: PG syllabus / curriculum
+Publication year / applicable academic year: 2023 curriculum; PDF filename includes 10.07.2024
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Filename/date and programme naming should be preserved exactly; the PDF contains PG engineering syllabus content. Exact programme-wide title is not clearly exposed by the search extract, so do not normalize it beyond the filename evidence.
+
+17. Document title: Syllabus of B.E./B.Tech II Semester and MCA II Semester of AY 2023-2024
+Direct PDF URL: Not found in the inspected official announcement page
+Source webpage URL: https://cit.edu.in/announcements/syllabus-of-bebtech-ii-sem-and-mca-ii-sem-of-ay-2023-2024
+Category: Syllabus / curriculum announcement
+Publication year / applicable academic year: 2023-2024
+Opened: N/A — attachment link was not exposed as a direct PDF URL by the inspected page
+Downloaded: NO
+Text/OCR: Not assessable
+Version/date concerns: The announcement exists and is dated Tuesday, 06 Feb 2024, but the direct PDF attachment URL was not retrievable from the page inspection. Do not fabricate a URL.
+
+============================================================
+CATEGORY 5 — PLACEMENT REPORTS / PLACEMENT DATA
+============================================================
+
+18. Document title: PLACEMENT REPORT
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+Source webpage URL: https://cit.edu.in/placements/placement-records
+Category: Placement report
+Publication year / applicable academic year: Placement year 2021-2022
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: The report explicitly says it covers placement and training activities during placement year 2021-2022. Current CIT placement page now also reports highest packages for 2023-24, 2024-25 and 2025-26; those current figures are not a replacement for this historical report.
+
+19. Document title: National Institutional Ranking Framework — Submitted Institute Data for NIRF 2025
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/1a5a87365c853fcf3afbd733e6ac657b.pdf
+Source webpage URL: https://cit.edu.in/others/nirf
+Category: Institutional performance / placement and higher studies data
+Publication year / applicable academic year: NIRF 2025 submission
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: This is submitted NIRF data, not an independently audited placement report. It contains placement and higher-studies data for previous years. Preserve NIRF year and reporting-year fields.
+
+============================================================
+CATEGORY 6 — ANNUAL / QUALITY / ACCREDITATION REPORTS
+============================================================
+
+20. Document title: Self Study Report of Coimbatore Institute of Technology — 2nd Cycle of Accreditation
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/5c8e961fdf9495d4e393722da24e1754.pdf
+Source webpage URL: https://cit.edu.in/naac/second-cycle
+Category: NAAC accreditation / institutional self-study report
+Publication year / applicable date: August 2024 submission; PDF also carries an extraction timestamp dated 21-03-2025
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Very large 125-page institutional report. It includes department-level and research/accreditation information. The PDF is a 2nd-cycle SSR, not an annual report.
+
+21. Document title: Annual Quality Assurance Report — Yearly Status Report 2023-2024
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/6d307fc3ed24c9dd51c867d30f394072.pdf
+Source webpage URL: https://cit.edu.in/naac/aqar
+Category: AQAR / quality assurance
+Publication year / applicable academic year: 2023-2024
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Official CIT-hosted AQAR. A separate official approved copy is also indexed on adm.cit.edu.in; retain the CIT-hosted copy and treat the approved copy as a potential duplicate/version.
+
+22. Document title: Annual Quality Assurance Report — Yearly Status Report 2022-2023
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/795f5a8011b5c387e744346853e012f5.pdf
+Source webpage URL: https://cit.edu.in/naac/aqar
+Category: AQAR / quality assurance
+Publication year / applicable academic year: 2022-2023
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: The AQAR text states autonomous status date as 01/06/1987. The 2023-24 AQAR states 08/07/1987. This is an official-source conflict; do not silently normalize it.
+
+23. Document title: Annual Quality Assurance Report — Yearly Status Report 2020-2021
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/3c67138b872a3644d46806e918bb2d40.pdf
+Source webpage URL: https://cit.edu.in/naac/aqar
+Category: AQAR / quality assurance
+Publication year / applicable academic year: 2020-2021
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Historical AQAR. Use only for historical questions.
+
+24. Document title: Yearly Status Report 2019-2020
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/8b0e3b9cce5a102803a2d0643a3dc607.pdf
+Source webpage URL: https://cit.edu.in/naac/aqar
+Category: AQAR / quality assurance
+Publication year / applicable academic year: 2019-2020
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Historical AQAR.
+
+25. Document title: Yearly Status Report 2018-2019
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/d90e64988ed6151b7e2c550191b5ffdc.pdf
+Source webpage URL: https://cit.edu.in/naac/aqar
+Category: AQAR / quality assurance
+Publication year / applicable academic year: 2018-2019
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Historical AQAR.
+
+26. Document title: Annual Quality Assurance Report — research promotion / research policy evidence
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/6d307fc3ed24c9dd51c867d30f394072.pdf
+Source webpage URL: https://cit.edu.in/research/research-policy and https://cit.edu.in/naac/aqar
+Category: Research policy evidence / AQAR
+Publication year / applicable academic year: 2023-2024
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: This is the same 2023-24 AQAR listed above and is intentionally cross-referenced rather than treated as a separate file. For a RAG corpus, deduplicate by canonical URL/hash.
+
+27. Document title: Autonomous Status of the Institute & Information for Affiliating University
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/606d869410ffd005a745271678770b1f.pdf
+Source webpage URL: https://cit.edu.in/about-us/autonomous-status
+Category: Institutional status / autonomous system
+Publication year / applicable academic year: Legacy; search record approximately 2020
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: The document says current autonomous status was valid up to May 2020 and that extension had been applied for. It is superseded for current status by later UGC documentation. Keep as historical evidence only.
+
+============================================================
+CATEGORY 7 — RESEARCH / ACCREDITATION / QUALITY POLICY DOCUMENTS
+============================================================
+
+28. Document title: Annual Quality Assurance Report of Coimbatore Institute of Technology — Research Policy and Initiatives section
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/6d307fc3ed24c9dd51c867d30f394072.pdf
+Source webpage URL: https://cit.edu.in/research/research-policy
+Category: Research policy / institutional research
+Publication year / applicable academic year: 2023-2024
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: CIT's current Research Policy page is HTML, while the AQAR contains the detailed policy evidence. Do not treat the AQAR as necessarily the latest standalone research policy if a newer policy PDF becomes available.
+
+29. Document title: Code of Conduct — NAAC Criterion 7.1.10 supporting document
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/a492c0bac2372a48294bcd3887a274bd.pdf
+Source webpage URL: https://cit.edu.in/naac/second-cycle
+Category: Student/staff code of conduct / accreditation evidence
+Publication year / applicable academic year: NAAC 2nd-cycle evidence; exact issue year not printed in the extracted text
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: The document is presented as NAAC Criterion 7.1.10 evidence. It should not automatically be assumed to be the current standalone student code of conduct because CIT also has a newer official "Rules & Regulations" PDF and a current HTML Code of Conduct page.
+
+30. Document title: CODE OF CONDUCT
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/8e7c826bf2ddd07adbea376368fbf334.pdf
+Source webpage URL: https://cit.edu.in/life-at-cit/code-of-conduct
+Category: Student handbook / code of conduct
+Publication year / applicable date: Legacy PDF; search record approximately 2023
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Older code of conduct. A current HTML Code of Conduct page exists and a newer Rules & Regulations PDF exists; use date/version metadata to prevent stale answers.
+
+31. Document title: RULES & REGULATIONS
+Direct PDF URL: https://cit.edu.in/uploads/file_manger/1770901570_62f23e6b2687570e4383d25e291270d6.pdf
+Source webpage URL: https://cit.edu.in/life-at-cit/code-of-conduct
+Category: Student rules / regulations / handbook
+Publication year / applicable date: Current-era document; search record published approximately 2026
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: This document contains general rules and code-of-conduct provisions. Some wording may overlap with the older Code of Conduct PDF. Prefer the newer dated/current source when answering current student conduct questions, while preserving both documents for historical retrieval.
+
+32. Document title: Anti-Ragging Squad Report / Annexure I
+Direct PDF URL: https://cit.edu.in/uploads/epdf_documents/f8bd70da76e622eb8e411b4a541b961d.pdf
+Source webpage URL: https://cit.edu.in/ (student safety / anti-ragging official pages)
+Category: Student safety / anti-ragging
+Publication year / applicable date: Current-era document; exact issue date not exposed in extracted text
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: This is a reporting/annexure form, not a general student handbook. It contains fields for incident date/time, persons involved, evidence and recommendations. Include in a policy/form corpus, not as factual evidence of a particular incident.
+
+============================================================
+CATEGORY 8 — SCHOLARSHIP / FINANCIAL AID / FEES
+============================================================
+
+33. Document title: CIT Calendar & Hand Book — Financial Assistance / Scholarships section
+Direct PDF URL: https://www.cit.edu.in/pdf/admission/academic-calendar/CIT-Calendar-Hand-Book.pdf
+Source webpage URL: https://cit.edu.in/ (legacy academic-calendar/handbook material)
+Category: Scholarship / financial assistance
+Publication year / applicable academic year: 2021-2022 handbook
+Opened: YES
+Downloaded: NO
+Text/OCR: Text available; no OCR required
+Version/date concerns: Historical scholarship information. The current Scholarship and Financial Aids HTML pages contain newer scholarship lists and procedures. Do not use this legacy PDF for current scholarship amounts or eligibility without cross-checking.
+
+34. Document title: Scholarship Notice & Fresh Application Forms — Academic Year 2025-2026
+Direct PDF URL: Not found in inspected page
+Source webpage URL: https://cit.edu.in/announcements/scholarship-notice-fresh-application-forms-academic-year-20252026
+Category: Scholarship / application form
+Publication year / applicable academic year: 2025-2026
+Opened: N/A — official page says an attachment exists, but the direct PDF URL was not exposed during inspection
+Downloaded: NO
+Text/OCR: Not assessable
+Version/date concerns: Do not fabricate the attachment URL. The page explicitly says scholarship applications for 2025-26 are open and refers to an attachment.
+
+35. Document title: Tuition Fees Structure
+Direct PDF URL: Not found; current information is presented as HTML
+Source webpage URL: https://cit.edu.in/index.php/admission/tuition-fees
+Category: Fees
+Publication year / applicable academic year: 2026-2027
+Opened: N/A as PDF — page itself was inspected; no direct PDF was identified
+Downloaded: NO
+Text/OCR: Not applicable
+Version/date concerns: Current fee figures are HTML, not a PDF in the inspected source. The page labels the fee structure for 2026-27. Keep HTML as a separate RAG source rather than inventing a PDF.
+
+36. Document title: Tariff For The Year 2025-2026 (HOSTEL)
+Direct PDF URL: Not found in inspected announcement page
+Source webpage URL: https://cit.edu.in/announcements/tariff-for-the-year-2025-2026-hostel
+Category: Hostel fees
+Publication year / applicable academic year: 2025-2026
+Opened: N/A as PDF — announcement page inspected, direct attachment URL not exposed
+Downloaded: NO
+Text/OCR: Not assessable
+Version/date concerns: The announcement page exists and is dated 14 Mar 2025, but the PDF attachment URL was not retrievable during this inspection.
+
+============================================================
+CATEGORY 9 — ANNUAL REPORTS / STUDENT INFORMATION
+============================================================
+
+37. Document title: Annual Reports — Students Achievements For the Year
+Direct PDF URL: Not found
+Source webpage URL: https://cit.edu.in/students/annual-reports
+Category: Annual/student achievement reports
+Publication year / applicable academic year: Multiple years implied, exact PDF years not exposed
+Opened: Page YES; PDF NO
+Downloaded: NO
+Text/OCR: Not assessable
+Version/date concerns: The inspected page contains the heading "Students Achievements For the Year" but did not expose usable PDF links in the page content returned. Do not claim annual-report PDFs were found.
+
+38. Document title: Information for Students
+Direct PDF URL: Not found
+Source webpage URL: https://cit.edu.in/students/information-for-students
+Category: Student information
+Publication year / applicable date: Current webpage
+Opened: Page YES; PDF NO
+Downloaded: NO
+Text/OCR: Not applicable
+Version/date concerns: The page provides current administrative/student contact information and links to admission procedures, scholarships, hostel accommodation and grievance resources, but no direct PDF student handbook was exposed during inspection.
+
+============================================================
+CATEGORY 10 — SOURCE-PAGE / INVENTORY COVERAGE NOTES
+============================================================
+
+Official CIT navigation pages inspected included:
+- https://cit.edu.in/
+- https://cit.edu.in/syllabus
+- https://cit.edu.in/departments
+- https://cit.edu.in/placements/placement-records
+- https://cit.edu.in/students/annual-reports
+- https://cit.edu.in/students/information-for-students
+- https://cit.edu.in/admission/admissions-details
+- https://cit.edu.in/admission/admission-requirements
+- https://cit.edu.in/admission/under-graduate
+- https://cit.edu.in/admission/post-graduate
+- https://cit.edu.in/admission/first-year-be-btech-admissions
+- https://cit.edu.in/index.php/admission/tuition-fees
+- https://cit.edu.in/admission/audited-statement-of-accounts
+- https://cit.edu.in/students/scholarship
+- https://cit.edu.in/admission/financial-aids
+- https://cit.edu.in/naac/aqar
+- https://cit.edu.in/naac/first-cycle
+- https://cit.edu.in/naac/second-cycle
+- https://cit.edu.in/others/nirf
+- https://cit.edu.in/others/ugc
+- https://cit.edu.in/others/2f-12-b-certificate
+- https://cit.edu.in/about-us/autonomous-status
+- https://cit.edu.in/research/research-policy
+- https://cit.edu.in/life-at-cit/code-of-conduct
+
+Also inspected current official home-page announcement/document links including:
+- 2026 examination schedule
+- 2026 lateral-entry hostel circular
+- 2026 faculty recruitment application form
+- current course brochures
+
+============================================================
+SOURCE INVENTORY — DOCUMENT TITLE / URL / ACCESS DATE / MISSING INFORMATION
+============================================================
+
+Access date for all entries above: 2026-10-15.
+
+Documents with direct, successfully opened PDF URLs:
+- ADMISSION BROCHURE — B.E./B.Tech. — https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+- M.Sc. Programmes — 5 Year Integrated — https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf
+- MBA MCA Admission Brochure — https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf
+- CIT Calendar & Hand Book — https://www.cit.edu.in/pdf/admission/academic-calendar/CIT-Calendar-Hand-Book.pdf
+- Mandatory Disclosure 2026-2027 — https://cit.edu.in/uploads/epdf_documents/7f51a25c138f5743c8d7f82d3a1ad7cc.pdf
+- UGC autonomy extension letter — https://cit.edu.in/uploads/epdf_documents/ba69f7887ff1ade453186f4997d0ddd2.pdf
+- Work Schedule Odd Semester 2026-2027 — https://cit.edu.in/uploads/file_manger/1782996798_20260702193056539.pdf
+- Autonomous Examinations Oct/Nov 2026 — https://cit.edu.in/uploads/file_manger/1790864593_November-December_2026_Autonomous_Examinations.pdf
+- Hostel lateral-entry circular — https://cit.edu.in/uploads/file_manger/1790864881_Hostel_-_Lateral_Entry.pdf
+- CSE Syllabus Final 2022 — https://cit.edu.in/uploads/syllabus_document/1769156941_CSE_Syllabus_Final_2022.pdf
+- MCA Syllabus 2022 final — https://cit.edu.in/uploads/syllabus_document/1769160088_MCA_Syllabus_-_2022_final-cit.pdf
+- B.Tech Chemical Syllabus — https://adm.cit.edu.in/assets/files/syllabus/2024/08/SYS8878109/B.Tech%20Chemical%20Syllabus.pdf
+- B.Tech AI & DS R2021 — https://cit.edu.in/uploads/epdf_documents/d46da9e6f7923baf1d77d9a9e66a32e6.pdf
+- B.Tech AI & DS R2023 — https://cit.edu.in/uploads/epdf_documents/fd951bc6503dcd291c421dbbacf32803.pdf
+- PG EEE 2023 document — https://adm.cit.edu.in/assets/files/syllabus/2024/08/SYS8987766/4.%20PG%20EE%202023%2010.07.2024.pdf
+- Placement Report 2021-2022 — https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+- NIRF 2025 submission — https://cit.edu.in/uploads/epdf_documents/1a5a87365c853fcf3afbd733e6ac657b.pdf
+- NAAC 2nd Cycle SSR — https://cit.edu.in/uploads/epdf_documents/5c8e961fdf9495d4e393722da24e1754.pdf
+- AQAR 2023-2024 — https://cit.edu.in/uploads/epdf_documents/6d307fc3ed24c9dd51c867d30f394072.pdf
+- AQAR 2022-2023 — https://cit.edu.in/uploads/epdf_documents/795f5a8011b5c387e744346853e012f5.pdf
+- AQAR 2020-2021 — https://cit.edu.in/uploads/epdf_documents/3c67138b872a3644d46806e918bb2d40.pdf
+- AQAR 2019-2020 — https://cit.edu.in/uploads/epdf_documents/8b0e3b9cce5a102803a2d0643a3dc607.pdf
+- AQAR 2018-2019 — https://cit.edu.in/uploads/epdf_documents/d90e64988ed6151b7e2c550191b5ffdc.pdf
+- Autonomous Status legacy document — https://cit.edu.in/uploads/epdf_documents/606d869410ffd005a745271678770b1f.pdf
+- NAAC Code of Conduct evidence — https://cit.edu.in/uploads/epdf_documents/a492c0bac2372a48294bcd3887a274bd.pdf
+- Legacy Code of Conduct — https://cit.edu.in/uploads/epdf_documents/8e7c826bf2ddd07adbea376368fbf334.pdf
+- Current Rules & Regulations — https://cit.edu.in/uploads/file_manger/1770901570_62f23e6b2687570e4383d25e291270d6.pdf
+- Anti-Ragging Squad Report / Annexure I — https://cit.edu.in/uploads/epdf_documents/f8bd70da76e622eb8e411b4a541b961d.pdf
+- Faculty recruitment application — https://cit.edu.in/uploads/file_manger/1788453881_CIT_FACULTY_RECRUITMENT_APPL_FORM.pdf
+
+Documents/pages where a PDF attachment was referenced but a direct PDF URL was NOT successfully exposed:
+- B.E./B.Tech./MCA II Semester syllabus announcement for AY 2023-2024
+- Scholarship Notice & Fresh Application Forms AY 2025-2026
+- Tuition Fees 2026-2027 (current information is HTML)
+- Hostel Tariff 2025-2026
+- Annual Reports page
+- Information for Students page
+
+KNOWN OFFICIAL-SOURCE VERSION / CONFLICT FLAGS
+1. Autonomous-status date conflict: AQAR 2022-23 reports 01/06/1987, while AQAR 2023-24 reports 08/07/1987. Preserve both values and cite the reporting year.
+2. Autonomy-cycle issue: the 2021 UGC extension letter covers sessions 2021-22 through 2025-26; it should not be used alone to establish the 2026-27 status.
+3. Syllabus versions: CIT exposes historical and newer curricula concurrently. Regulation/admission cohort must be stored as metadata.
+4. Current versus legacy student rules: legacy Code of Conduct, current Rules & Regulations, and current HTML Code of Conduct coexist.
+5. Current fee information is on HTML pages; no verified PDF was found during this inspection.
+6. Current annual-report page did not expose PDF URLs in the returned page content; no annual-report PDF URL was invented.
+7. Course brochures are current 2026 documents, while several syllabus/regulatory PDFs are 2021-2024 or older. A RAG system should use publication/applicability year as a retrieval filter.
+
+RECOMMENDED RAG METADATA FIELDS
+canonical_url
+source_page_url
+document_title
+document_category
+programme
+regulation
+admission_batch
+publication_year
+academic_year
+document_date
+access_date
+content_type
+text_extractable
+ocr_required
+version_status
+supersedes_or_related_document
+source_priority
+duplicate_hash
+
+END OF INVENTORY

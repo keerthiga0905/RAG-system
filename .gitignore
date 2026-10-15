@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Node & Frontend dependencies & production builds
+node_modules/
+dist/
+.DS_Store
+
+# Environment variables & local feedback logs
+.env
+*.local
+feedback_logs.json
+data/feedback_logs.json

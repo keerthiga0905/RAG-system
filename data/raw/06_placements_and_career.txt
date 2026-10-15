@@ -1,0 +1,450 @@
+COIMBATORE INSTITUTE OF TECHNOLOGY (CIT)
+PLACEMENT AND CAREER DEVELOPMENT DATASET
+Suggested filename: 06_placements_and_career.txt
+Access date: 2026-10-15
+Scope note: This file covers the official CIT pages and linked documents inspected for this collection. It does NOT claim that every placement-related page or every linked file across the entire CIT website has been inspected.
+
+============================================================
+1. PLACEMENT CELL OVERVIEW AND RESPONSIBILITIES
+============================================================
+
+Source: https://cit.edu.in/placements/placement-cell
+
+The Institute has a Placement Cell headed by a staff member holding the rank of a Professor. The Cell is actively involved in securing placements for students graduating from the Institute.
+
+The office maintains close associations with industrial establishments. These establishments conduct pre-placement presentations and campus interviews, and select student representatives from each department to coordinate placement activities.
+
+The Placement Cell provides facilities to conduct group discussions, tests, and interviews. It also has a library and a communication lab to enhance students' general aptitude and communication skills.
+
+The official page states that national and multinational companies visit the Institute every year for campus recruitment, and that several reputed companies seek to be the “Day One” recruiter for each academic year.
+
+Information regarding campus recruitment is regularly displayed to students to help them plan their careers and understand the industries approaching the Institute. At the beginning of the academic year, a general body meeting is conducted for final-year students interested in placement activities. Monthly review meetings are convened to plan future activities.
+
+The Cell coordinates pre-placement activities for senior and junior students and motivates students to pursue higher studies by supporting preparation for competitive examinations such as GATE, TOEFL, GRE, CAT, and GMAT.
+
+The Cell also seeks to promote self-employment by facilitating government-supported financial assistance through the banking sector. Workshops are organized to develop students' entrepreneurial potential.
+
+============================================================
+2. TRAINING AND EMPLOYABILITY PROGRAMMES
+============================================================
+
+A. Soft Skills Training & Development
+Source: https://cit.edu.in/placements/soft-skill-training
+
+The official page describes a phased skill-development approach and lists these core training areas:
+- Professional communication skills: verbal clarity, written communication, non-verbal cues, active listening, and workplace articulation.
+- Aptitude and analytical reasoning: quantitative aptitude, logical reasoning, and data interpretation aligned with competitive recruitment assessments.
+- Resume development and professional profiling: resumes, personal statements, and professional digital profiles.
+- Group discussion and team interaction: simulated discussions, collaborative thinking, leadership participation, and constructive problem-solving.
+- Interview readiness: mock technical and HR interviews, confidence, clarity of response, and professional etiquette.
+- Leadership and team effectiveness are also listed as a core training area.
+
+B. Placement aptitude training report
+Source: https://cit.edu.in/uploads/epdf_documents/6bdd1c8b22d884686e463d077f46c32f.pdf
+
+The official report states that placement aptitude training was organized for V-year M.Sc. (SS/DS/DCS/AIML) students by the Department of Computing, CIT, from 24.06.2024 to 28.06.2024. Trainers from Innovative HR & Training Services trained students in quantitative aptitude, logical reasoning, verbal reasoning, and other topics. Trainers named in the report: Mrs. Banu and Mr. Ashok Kumar. Venue: Library Conference Hall and IT 213.
+
+C. MCA placement training proposal
+Source: https://cit.edu.in/uploads/epdf_documents/14306d30fae508a5a9234894cf8709d1.pdf
+
+A proposal dated 08.01.2024 for I-year MCA students (2023–25 batch) planned placement training classes for the placement drive during 2024. Proposed vendor: Innovative HR & Training Services P. Ltd. Duration: 48 hours. Contents: Aptitude & Verbal Training. Number of students: 45. Proposed amount: Rs. 1200 + 18% GST per student. This is a proposal, not proof that the programme was completed.
+
+============================================================
+3. INTERNSHIP INFORMATION
+============================================================
+
+A. Official internship programme page
+Source: https://cit.edu.in/placements/internship
+
+The page describes internships as structured industry exposure intended to help students apply theoretical knowledge in professional environments. It states that internships form part of the curriculum across undergraduate, postgraduate, and integrated programmes, in alignment with AICTE guidelines and outcome-based education practices.
+
+Objectives listed:
+- Bridge academic learning and industrial practice.
+- Expose students to engineering, managerial, and research environments.
+- Enhance technical competency, problem-solving, and professional ethics.
+- Develop communication, teamwork, and time-management skills.
+- Strengthen industry–institute interaction and collaborative learning.
+
+Policy framework features listed:
+- Mandatory internship requirement for all eligible programmes.
+- Academic credits as prescribed in the curriculum.
+- Duration defined by programme structure and semester requirements.
+- Faculty mentorship.
+- Assessment and reporting through internship reports, reviews, and presentations.
+
+Internship types listed:
+- Industry internships in manufacturing, IT, consulting, design, and service sectors.
+- Research internships with R&D organizations, laboratories, and academic research centres.
+- Start-up / entrepreneurial internships.
+- Government / public-sector internships.
+
+Duration may include short-term internships during semester breaks, semester-long internships, and extended internships for integrated and postgraduate programmes. The page does not give a single duration applicable to every programme.
+
+Assessment methods listed: host-organization completion certificate, student internship report, presentation/viva voce according to departmental norms, and continuous assessment by faculty mentors.
+
+B. Placement Report, placement year 2021–2022
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report says M.Sc. (Software Systems, Data Science, Decision and Computing Sciences) and MCA programmes mandate a six-month internship programme during their 10th and 6th semesters respectively. It states that the majority of these internships are converted into job offers at the end of the internship programme. It also says some companies offer internships to UG students pursuing fast-track programmes and that PG students are provided six-month internships by leading firms where they can pursue project work.
+
+Note: The general internship page describes duration as programme-dependent; the 2021–2022 report gives specific six-month information for the named programmes. Preserve these as statements from different source contexts rather than treating either as a universal rule for every current programme.
+
+============================================================
+4. OFFICIALLY LISTED RECRUITERS / COMPANIES
+============================================================
+
+A. Recruiters named in the 2026 B.E./B.Tech brochure
+Source: https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+
+The brochure section “PLACEMENTS AND INTERNSHIPS” lists the following as “FEW OF OUR RECRUITERS” (names transcribed as published, with obvious spacing/capitalization cleaned where safe):
+
+Amazon; DE Shaw & Co; Soliton; KLA+; Oracle; Thorogood; Deloitte; EXL; Accenture; Infosys; IBM; Zoho; EY; Carat Lane; Toshiba; JTC; MiQ; embedUR; rootquotient; konnectify; Justo Global; LSEG; Cognizant; SuperAGI; Yubi; SurveySparrow; ninjacart; SATURAM; Brakes India Private Limited; OptiSol Solutions; Services; Genau Extrusions Limited; SHAACHI; Buckman Chemistry connected; SPAN Child, Career, Cancer; NGP WETSUIT; CMS; FILESURE; CUMI; TATA TECHNOLOGIES; RDC Concrete; IMPECLOX; Delphi - TVS Technologies; Simpolo; RABWIN Excelling Expectations; INFINIUM; Timbertruss; URC Building Values; AARBEE Innovative. Professional. Reliable.; FedEx; ALSTOM.
+
+B. Placement report 2021–2022
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report describes recruiting sectors as software developers, software service providers, telecom and networking companies, e-commerce companies, core production industries, data analytics and market research companies, consultancy companies, and infrastructure management and maintenance services companies.
+
+The report's “Dream Companies 2022–2023” section lists companies across programmes/departments, including: Applied Materials; ARM Embedded Technologies; AQFER; IBM CIO; Groundtruth; Quinbay; Striim; Yulu; Hyperverge; AppViewX; Tally Solutions; D.E. Shaw; Tekion; O9 Solutions; Sobha Hartland; Western Digital; HPE; MaxLinear Technologies; Ittiam Systems; Fanatics; BNY Mellon; Oracle GBU; Samsung Semiconductor; CommVault; UI Path; ConveGenius; Thorogood; ZF Wind Power; Tata Consultancy Services; Jaro Education. The source contains department-wise columns and some OCR/formatting irregularities; this is not asserted to be a complete recruiter list.
+
+C. Placement Records page – companies attached to highest-package entries
+Source: https://cit.edu.in/placements/placement-records
+- 2023–24: D.E. Shaw India – 52 LPA; Oracle – 19 LPA; CommVault – 15.4 LPA.
+- 2024–25: D.E. Shaw India – 58 LPA; KLA – 28 LPA; Akamai – 19 LPA.
+- 2025–26: D.E. Shaw India – 59 LPA; Amazon – 30.8 LPA; KLA – 28 LPA.
+
+These are the entries shown under each year's “Highest Package” heading. The page does not specify whether every value is a campus-wide maximum, programme-specific value, or a complete list of offers; do not infer beyond the page label.
+
+============================================================
+5. PLACEMENT STATISTICS BY ACADEMIC / PLACEMENT YEAR
+============================================================
+
+IMPORTANT: Metrics below are transcribed from the cited official report/page. Definitions and denominators differ by table. Do not compare percentages unless the metric definition is the same.
+
+A. Placement year 2021–2022 report
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report's six-year table “Placement Statistics over the past 6 years (2017–2023)” gives these values, in the column order: placement year; total strength; interested; eligible; placed; placement percentage of total strength; percentage of interested students placed; percentage of eligible students placed.
+
+- 2017–2018: 1007; 819; 616; 492; 48.86%; 60.07%; 79.87%.
+- 2018–2019: 1009; 889; 660; 475; 47.08%; 53.43%; 71.97%.
+- 2019–2020: 917; 723; 567; 420; 45.8%; 58.09%; 74.07%.
+- 2020–2021: 973; 868; 798; 438; 45.02%; 50.46%; 54.89%.
+- 2021–2022: 1030; 965; 914; 650; 63.11%; 67.36%; 71.12%.
+- 2022–2023: 1055; 963; 825; 782; 74.12%; 81.20%; 94.79%.
+
+The same report defines:
+- Total percentage = students placed / total number of students.
+- Interested percentage = students placed / number of interested students.
+- Percentage over eligible = students placed / number of eligible students.
+- Eligible students = students with no active backlogs.
+
+The report also lists the number of recruiters by year as 154, 155, 137, 134, 151, and 168, and the number of dream recruiters as 15, 14, 11, 10, 21, and 29, in the sequence 2017–2018 through 2022–2023.
+
+B. Placement year 2022–2023 – overall summary in the report
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report states:
+- Total students who secured a job through the placement cell: 757.
+- Under Graduation: 560.
+- Post-Graduation: 41.
+- Computing: 156.
+- Total companies visited: 176.
+- Dream companies (>10 LPA): 29.
+- Non-Dream companies (4–10 LPA): 122.
+- Others (<4 LPA): 25.
+- Total offers provided: 1055.
+- Single offers: 510.
+- Dual offers: 218.
+- Triple offers: 28.
+- Quadruple offers: 5.
+- Penta offers: 1.
+
+The same report includes a separate overall-data table labelled “Placement Statistics 2022–2023” with total 1055, 963 interested, 825 eligible, 757 placed, 1055 job offers, 168 recruiters, and percentages 71.75%, 78.61%, and 91.75% in the table's displayed order. Because the report also has a later six-year summary with different totals for 2022–2023 (782 placed), the report contains differing figures in different tables/contexts. This dataset preserves both rather than silently selecting one. See “Conflicts and interpretation cautions.”
+
+C. Salary / pay-scale statistics in the 2021–2022 report
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report's “Overview of Placement 2022–2023” states:
+- Highest paying company: D.E. Shaw & Co – 35.25 LPA.
+- Average CTC offered by companies visiting campus: 6.46 LPA, compared with 6.62 LPA last year.
+- Average pay scale for the student: 6.26 LPA, previously 6.34 LPA.
+- Median pay for the student: 5.25 LPA, described in the report as a 5.00% increase from last year's 5.00 LPA.
+
+The report's programme-wise pay-scale table (labelled within the placement report) gives maximum / minimum / average / median pay in LPA:
+- B.E. Civil Engineering: 13 / 1.8 / 5.54 / 4.5.
+- B.E. Mechanical Engineering: 13 / 2.4 / 5.54 / 5.
+- B.E. Electrical and Electronics Engineering: 21 / 1.8 / 6.22 / 5.
+- B.E. Electronics and Communication Engineering: 21 / 2 / 7.36 / 6.85.
+- B.E. Computer Science and Engineering: 35 / 2.5 / 8.98 / 7.5.
+- B.Tech. Chemical Engineering: 8.5 / 1.8 / 4.82 / 4.15.
+- B.Tech. Information Technology: 35 / 3.6 / 8.54 / 7.5.
+- M.Sc. Software Systems: 14 / 3.24 / 7.51 / 7.5.
+- M.Sc. Data Science: 14 / 3.6 / 7.8 / 7.
+- M.Sc. Decision and Computing Sciences: 14 / 3.24 / 6.91 / 7.
+- Master of Computer Applications: 12 / 3 / 5.3 / 4.5.
+- Master of Engineering: 7 / 2 / 4.41 / 4.8.
+- MBA: 8.46 / 2.5 / 5.11 / 5.25.
+
+The report's category-level table gives maximum / minimum / average / median pay in LPA:
+- Under Graduation: 35 / 1.8 / 6.71 / 5.78.
+- Computing: 14 / 3 / 6.88 / 6.5.
+- Post-Graduation: 7 / 2 / 4.41 / 4.8.
+- Overall: 35 / 1.8 / 6 / 5.78.
+
+The PDF report title/intro identifies the report as covering placement year 2021–2022, but some of its later tables and narrative explicitly refer to placement year 2022–2023. Preserve the printed labels as shown and consult the source PDF directly before using these numbers for formal reporting.
+
+D. Current placement records page
+Source: https://cit.edu.in/placements/placement-records
+- 2023–2024: D.E. Shaw India – 52 LPA; Oracle – 19 LPA; CommVault – 15.4 LPA, shown under “Highest Package 2023 - 24.”
+- 2024–2025: D.E. Shaw India – 58 LPA; KLA – 28 LPA; Akamai – 19 LPA, shown under “Highest Package 2024 - 25.”
+- 2025–2026: D.E. Shaw India – 59 LPA; Amazon – 30.8 LPA; KLA – 28 LPA, shown under “Highest Package 2025 - 26.”
+
+The page does not publish average or median salary values in its visible text.
+
+E. Official NIRF document with historical median salaries
+Source: https://cit.edu.in/uploads/epdf_documents/b7653f4827f34ff78c8688802bde9171.pdf
+
+The official document's UG table (“Placement & higher studies for previous 3 years”) contains:
+- Academic Year 2018–19: 492 students placed; median salary of placed graduates Rs. 360000.
+- Academic Year 2019–20: 482 students placed; median salary of placed graduates Rs. 400000.
+- Academic Year 2020–21: 490 students placed; median salary of placed graduates Rs. 450000.
+
+The official document's PG table contains:
+- Academic Year 2018–19: 16 students placed; median salary of placed graduates Rs. 360000.
+- Academic Year 2019–20: 28 students placed; median salary of placed graduates Rs. 450000.
+- Academic Year 2020–21: 25 students placed; median salary of placed graduates Rs. 450000.
+
+The PDF extraction associates these placement years with admission-year cohorts as well. The values above refer to the “Academic Year” row in the placement/higher-studies tables, not to the intake-year row.
+
+============================================================
+6. PLACEMENT ELIGIBILITY AND OFFER RULES
+============================================================
+
+A. Eligibility definition in the placement report
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report defines eligible students as “students with no active backlogs.” This definition appears with its placement-percentage tables.
+
+B. Offer-category rule described in the report for placement year 2021–2022
+Source: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+
+The report states that companies are categorized as non-dream and dream. Each student is permitted to avail one job offer from each of the two categories. Students can avail additional offers in the same category only after 75% of students get placed. The report says this method is adopted to ensure fairness and equal opportunity.
+
+C. Current full placement eligibility policy
+Not found in the inspected official sources. The rule above is from the placement report and should not be assumed to be the complete current policy.
+
+============================================================
+7. PLACEMENT OFFICE CONTACT DETAILS AND TEAM
+============================================================
+
+A. Placement Cell page
+Source: https://cit.edu.in/placements/placement-cell
+- General placement email: placement@cit.edu.in
+- Address: Civil Aerodrome Post, Coimbatore, India – 641 014
+- Deputy Placement Officer Dr. R. Maheswari: deputypo@cit.edu.in
+- Deputy Placement Officer Dr. P. Muthu Subramanian: dpo@cit.edu.in
+- Training and Placement Officer Mr. R. Vivek Kumar: tp@cit.edu.in
+- Dr. S. Thilaga is listed as Deputy Placement Officer; no email is shown beside the name on this page.
+
+B. Placement Directory page
+Source: https://cit.edu.in/placements/placement-directory
+The page lists:
+- Dr. A. Rajeswari – Placement Officer, Principal & Professor, Department of ECE.
+- Mr. Jacob G Podipara – Deputy Placement Officer, Associate Professor – Civil Engineering.
+- Dr. R. Maheswari – Deputy Placement Officer, Assistant Professor, Department of Humanities; +91 95855 94322.
+- Dr. P. Muthu Subramanian – Deputy Placement Officer, Assistant Professor – ECE; +91 95855 94320.
+- Dr. A. Saravanan – Deputy Placement Officer; +91 98420 06163.
+- Dr. S. Thilaga – Deputy Placement Officer, Assistant Professor – MBA; +91 90030 22171.
+
+The Placement Cell page and Placement Directory page do not show identical staff listings. The pages are recorded separately; no assumption is made about which listing supersedes the other.
+
+C. General CIT contact displayed on the official site
+Source: https://cit.edu.in/placements/placement-cell
+- Phone: 94868 37757
+- Email: principal.citoffice@cit.edu.in
+- Address: Civil Aerodrome Post, Coimbatore, Tamilnadu, India – 641 014
+This is the general institute contact shown in the page header/footer, not labelled as the direct placement-cell number.
+
+============================================================
+8. CAREER GUIDANCE, HIGHER STUDIES, ENTREPRENEURSHIP
+============================================================
+
+Source: https://cit.edu.in/placements/placement-cell
+
+Career guidance / higher studies:
+- Recruitment information is displayed to students to help them plan careers and understand industries approaching the Institute.
+- A general body meeting is held at the beginning of the academic year for final-year students interested in placements.
+- Monthly review meetings are held to plan future actions.
+- The Cell coordinates pre-placement activities for senior and junior students.
+- The Cell supports students pursuing higher studies by providing support for competitive examinations including GATE, TOEFL, GRE, CAT, and GMAT.
+
+Entrepreneurship:
+- The Cell states that it seeks to promote self-employment by facilitating government-supported financial assistance through the banking sector.
+- Workshops are organized to develop students' entrepreneurial potential.
+
+The inspected placement page does not identify a specific entrepreneurship scheme, bank, funding amount, application procedure, or workshop schedule. Those details are not found in the inspected official source.
+
+============================================================
+9. PLACEMENT REPORTS, BROCHURES, AND RELATED DOCUMENTS
+============================================================
+
+1. Placement Report (PDF; intro identifies placement year 2021–2022; includes tables and narrative that also refer to 2022–2023)
+URL: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+Content inspected: placement process, team composition, internship information, placement statistics, offers, recruiters, pay-scale tables, training activities, and year-over-year data.
+
+2. 2026 B.E./B.Tech brochure (placements and internships section)
+URL: https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+Content inspected: “Few of our recruiters” list.
+
+3. Official NIRF placement/higher-studies document
+URL: https://cit.edu.in/uploads/epdf_documents/b7653f4827f34ff78c8688802bde9171.pdf
+Content inspected: UG and PG placement counts and median salary figures for academic years 2018–19, 2019–20, and 2020–21.
+
+4. Placement aptitude training report, June 2024
+URL: https://cit.edu.in/uploads/epdf_documents/6bdd1c8b22d884686e463d077f46c32f.pdf
+Content inspected: training dates, student programme group, trainers, venue, and training topics.
+
+5. MCA placement training proposal, dated 08.01.2024
+URL: https://cit.edu.in/uploads/epdf_documents/14306d30fae508a5a9234894cf8709d1.pdf
+Content inspected: proposed vendor, 48 hours, training contents, 45 students, and proposed fee.
+
+6. Placement Records page
+URL: https://cit.edu.in/placements/placement-records
+Content inspected: highest-package entries for 2023–24, 2024–25, and 2025–26.
+
+7. Soft Skills Training & Development page
+URL: https://cit.edu.in/placements/soft-skill-training
+Content inspected: soft-skills and employability training areas.
+
+8. Internship Programme page
+URL: https://cit.edu.in/placements/internship
+Content inspected: internship objectives, types, duration framing, roles, and assessment.
+
+9. Placement Directory page
+URL: https://cit.edu.in/placements/placement-directory
+Content inspected: placement officers and published phone numbers.
+
+10. Eminent Recruiters page
+URL: https://cit.edu.in/placements/eminent-recruiters
+Content inspected: narrative statements about recruiting sectors and placement support indicators. The visible page text does not provide a complete named recruiter table.
+
+11. CIT homepage
+URL: https://cit.edu.in/
+Content inspected: official navigation and links to placement pages; homepage visible text includes a “PLACED STUDENTS” counter, but the number rendered in the extracted text was incomplete (“8 0”) and is not used as a reliable statistic.
+
+============================================================
+10. CONFLICTS, LIMITATIONS, AND MISSING INFORMATION
+============================================================
+
+1. Placement-year label conflict in the 50-page Placement Report:
+The report's introduction says it covers placement year 2021–2022. However, multiple tables and the narrative on later pages explicitly say “Placement Statistics 2022–2023” and “Overview of Placement 2022–2023.” Both labels are preserved in this file.
+
+2. Conflicting placed-student counts for 2022–2023 within the same PDF:
+- The overall-data table labelled “Placement Statistics 2022–2023” reports 757 placed students.
+- The six-year historical table reports 782 placed students for 2022–2023.
+- The narrative overview also says 757 students secured a job, with 560 UG, 41 PG, and 156 Computing.
+These figures are not reconciled in the source. Do not merge or select one without further official clarification.
+
+3. Different figures may refer to different table definitions:
+The report has programme-wise, overall-data, category-level, and historical summary tables. Denominators and categories vary. Do not treat all figures as directly interchangeable.
+
+4. Current-year salary details:
+The current Placement Records page lists selected “Highest Package” entries for 2023–24, 2024–25, and 2025–26. Average and median salaries for these years were not found in the visible text of that page.
+
+5. Current placement rules:
+A full, current placement policy/eligibility document was not located in the inspected pages. The report's “no active backlogs” definition and offer-category rule are documented, but their current applicability is not confirmed.
+
+6. Internships:
+The general internship page describes programme-dependent durations; the older report specifies six-month internships for named integrated M.Sc. programmes and MCA. The sources may reflect different levels of specificity or different periods.
+
+7. Recruiter list:
+The 2026 brochure calls its list “Few of our recruiters,” so it is illustrative rather than exhaustive. The 2021–2022 report has a department-wise dream-company list with formatting/OCR irregularities.
+
+8. Contact listings:
+The Placement Cell page and Placement Directory page list different staff roles/names and provide different details. Both are recorded above; no unsupported decision is made about which is more current.
+
+9. Placement percentages, highest packages, and salaries:
+No figures have been calculated from other figures in this file. All reported values retain their source labels and academic/placement years wherever those are provided.
+
+10. Information not found in inspected official sources:
+- A current complete placement policy with all eligibility rules and branch-wise criteria.
+- Current average and median salary figures for 2023–24, 2024–25, and 2025–26.
+- A single current consolidated table of number of students placed for every academic year.
+- Complete current internship placement counts, company-wise internship numbers, and internship stipend amounts.
+- A current full list of all recruiters and company-wise numbers of students hired.
+- Specific entrepreneurship schemes, named partner banks, financial assistance amounts, application criteria, and current workshop schedules.
+- A direct placement-office phone number explicitly labelled as such on the Placement Cell page.
+
+============================================================
+11. SOURCE INVENTORY
+============================================================
+
+Access date for all URLs below: 2026-10-15
+
+1. Document/page: Placement Cell
+URL: https://cit.edu.in/placements/placement-cell
+Inspected: cell responsibilities, career guidance, entrepreneurship, emails, team, address.
+Missing: full current placement policy and direct placement-office phone number.
+
+2. Document/page: Placement Records
+URL: https://cit.edu.in/placements/placement-records
+Inspected: highest-package entries for 2023–24, 2024–25, 2025–26.
+Missing: average/median figures and full student placement totals in visible text.
+
+3. Document/page: Internship Programme
+URL: https://cit.edu.in/placements/internship
+Inspected: objectives, policy framework, types, duration, responsibilities, assessment.
+Missing: year-wise internship counts, company names by internship cohort, stipend amounts.
+
+4. Document/page: Soft Skills Training & Development
+URL: https://cit.edu.in/placements/soft-skill-training
+Inspected: communication, aptitude, resume, group discussion, interview readiness, leadership areas.
+Missing: comprehensive year-wise participation data and outcomes in the inspected page text.
+
+5. Document/page: Placement Directory
+URL: https://cit.edu.in/placements/placement-directory
+Inspected: officer names, titles, selected phone numbers.
+Missing: email/phone details for every listed officer.
+
+6. Document/page: Eminent Recruiters
+URL: https://cit.edu.in/placements/eminent-recruiters
+Inspected: narrative on recruiter sectors and placement indicators.
+Missing: a complete named recruiter list in the visible page text.
+
+7. Document/page: Placement Report (PDF)
+URL: https://cit.edu.in/uploads/epdf_documents/d5c3b7e01e8135345c7fcd604060cd8c.pdf
+Inspected: placement year 2021–2022 introduction; 2022–2023-labelled statistics, offers, salary tables, recruiter names, internship information, and training activities.
+Missing/issue: conflicting placement-year labels and differing 2022–2023 placed-student counts within the same report.
+
+8. Document/page: Official NIRF placement and higher-studies PDF
+URL: https://cit.edu.in/uploads/epdf_documents/b7653f4827f34ff78c8688802bde9171.pdf
+Inspected: UG and PG placed-student counts and median salary for 2018–19, 2019–20, and 2020–21.
+Missing: later-year values in this particular document.
+
+9. Document/page: Placement Aptitude Training Report
+URL: https://cit.edu.in/uploads/epdf_documents/6bdd1c8b22d884686e463d077f46c32f.pdf
+Inspected: training held 24.06.2024–28.06.2024 for V-year M.Sc. (SS/DS/DCS/AIML), named trainers, venue, and topics.
+Missing: participant count and measured outcomes in the inspected excerpt.
+
+10. Document/page: MCA Placement Training Proposal
+URL: https://cit.edu.in/uploads/epdf_documents/14306d30fae508a5a9234894cf8709d1.pdf
+Inspected: dated 08.01.2024; proposed 48-hour aptitude/verbal training for 45 I-year MCA students (2023–25 batch), proposed vendor and fee.
+Missing: confirmation of completion and post-training outcomes; this source is a proposal.
+
+11. Document/page: 2026 B.E./B.Tech Brochure
+URL: https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+Inspected: “Few of our recruiters” list in placements and internships section.
+Missing: recruiter-wise hiring counts and complete list beyond the brochure's “few” examples.
+
+12. Document/page: CIT homepage
+URL: https://cit.edu.in/
+Inspected: placement links and homepage placement counter text.
+Missing/issue: extracted counter was incomplete, so it was not used as a statistic.
+
+13. Document/page: Legacy placement records directory index
+URL: https://www.cit.edu.in/placement-cell/
+Inspected: official-domain directory index showing legacy folders for placement records, placement policy, placement cell, placement directory, corporate view, and eminent recruiters.
+Missing/issue: the directory index itself does not supply policy contents; individual legacy folders/documents were not exhaustively inspected in this collection.
+
+END OF DATASET

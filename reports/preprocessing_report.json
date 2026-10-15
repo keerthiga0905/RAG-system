@@ -1,0 +1,81 @@
+{
+  "total_source_documents": 14,
+  "total_chunks_created": 290,
+  "duplicates_filtered": 0,
+  "total_approx_tokens": 55685,
+  "avg_tokens_per_chunk": 192.0,
+  "chunk_size_target": 450,
+  "overlap_tokens_target": 60,
+  "document_breakdown": {
+    "01_college_overview.txt": {
+      "title": "College Overview and Autonomous Administration",
+      "category": "College Overview",
+      "chunks_generated": 23
+    },
+    "02_departments_and_faculty.txt": {
+      "title": "Academic Departments, Faculty Directory and Research Guides",
+      "category": "Departments and Faculty",
+      "chunks_generated": 11
+    },
+    "03_courses_and_programmes.txt": {
+      "title": "Degree Programmes, Curricula and Intake Capacity",
+      "category": "Courses and Academic Programmes",
+      "chunks_generated": 36
+    },
+    "04_admissions_and_eligibility.txt": {
+      "title": "TNEA Engineering Admissions, Cut-offs and Eligibility",
+      "category": "Admissions and Eligibility",
+      "chunks_generated": 43
+    },
+    "05_academics_and_regulations.txt": {
+      "title": "Autonomous Academic Regulations, CBCS and Exam Rules",
+      "category": "Academics and Regulations",
+      "chunks_generated": 29
+    },
+    "06_placements_and_career.txt": {
+      "title": "Placements, Recruiters, Statistics and Career Guidance",
+      "category": "Placements and Career Development",
+      "chunks_generated": 25
+    },
+    "07_scholarships_fees_and_support.txt": {
+      "title": "Scholarships, Tuition Fee Structure, Hostel and Support",
+      "category": "Scholarships, Fees and Student Support",
+      "chunks_generated": 17
+    },
+    "08_research_and_innovation.txt": {
+      "title": "Research Cell, Centers of Excellence, Patents and MoUs",
+      "category": "Research and Innovation",
+      "chunks_generated": 47
+    },
+    "09_campus_facilities_and_faqs.txt": {
+      "title": "Campus Facilities, Library, Hostels, Transport and FAQs",
+      "category": "Campus Facilities and FAQs",
+      "chunks_generated": 15
+    },
+    "10_official_document_inventory.txt": {
+      "title": "Official CIT PDF Document Inventory and Regulatory Archive",
+      "category": "Official Document Inventory",
+      "chunks_generated": 40
+    },
+    "CIT_Academic_Regulations_and_Examination_Rules.pdf": {
+      "title": "CIT Academic Regulations & Exam Rules 2026",
+      "category": "Academics and Regulations",
+      "chunks_generated": 1
+    },
+    "CIT_BTech_AIML_and_CSE_Syllabus_Structure.pdf": {
+      "title": "CIT B.E. CSE & B.Tech AI & ML Syllabus Structure",
+      "category": "Courses and Academic Programmes",
+      "chunks_generated": 1
+    },
+    "CIT_Official_Brochure_and_Governance.pdf": {
+      "title": "CIT Official Institutional Overview & Autonomous Governance 2026",
+      "category": "College Overview",
+      "chunks_generated": 1
+    },
+    "CIT_Placement_Statistics_and_Fee_Structure.pdf": {
+      "title": "CIT Career Placements & Fee Structure 2026",
+      "category": "Placements and Career Development",
+      "chunks_generated": 1
+    }
+  }
+}

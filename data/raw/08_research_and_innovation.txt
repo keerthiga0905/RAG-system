@@ -1,0 +1,792 @@
+COIMBATORE INSTITUTE OF TECHNOLOGY (CIT)
+RESEARCH, INNOVATION AND COLLABORATIONS DATASET
+Suggested filename: 08_research_and_innovation.txt
+Access date: 2026-10-15
+Scope note: This file records information found on the official CIT website pages actually inspected for this collection. It is not a claim that every relevant CIT page or linked document has been inspected. Where a page lists only a category or an image heading without details, that limitation is stated.
+
+======================================================================
+1. INSTITUTIONAL RESEARCH GOVERNANCE AND RESEARCH HIGHLIGHTS
+======================================================================
+
+Source: Research Cell
+URL: https://cit.edu.in/research/research-cell
+
+The Research and Development Cell of Coimbatore Institute of Technology promotes research, innovation and academic excellence. It encourages interdisciplinary research and supports scholars undertaking innovative projects.
+
+The R&D Cell assists faculty members in identifying and applying for research grants from government funding agencies and industry sectors. It facilitates collaboration with national and international research organizations and promotes publications, patents and technology development activities. Workshops, seminars and training programs are organized to enhance research capabilities. The Cell also serves as a central platform for managing funded projects and research documentation and motivates students to participate in research-oriented activities.
+
+Research highlights stated on the page:
+- Total Publications: 250+ (Journals & Conferences)
+- Patents Filed/Granted: 45+
+- Funded Projects: 30+ (₹10+ Crores)
+- Ongoing Projects: 20+
+- Collaborations: 15+ National & International Institutions
+
+These are aggregate figures as displayed on the page. The page does not provide a dated breakdown or a list of every item underlying these totals. Do not interpret these aggregate counts as a verified current status for individual projects, patents or collaborations.
+
+Official contact details displayed on the Research Cell page:
+- Phone: 94868 37757
+- Email: principal.citoffice@cit.edu.in
+- Location: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+
+======================================================================
+2. RESEARCH CENTRES, GROUPS AND LABORATORIES
+======================================================================
+
+2.1 Advanced Integrated Manufacturing and Management Research Group (AIMMRG)
+
+Source: Research Facilities
+URL: https://cit.edu.in/research/research-facilities
+
+The page states that the Advanced Integrated Manufacturing and Management Research Group (AIMMRG) was established in August 2010 and is led by Dr. Rajesh Ranganathan. It describes the group as interdisciplinary, working at the intersection of Engineering, Healthcare and Business Management.
+
+Focus areas stated:
+- Rapid Manufacturing
+- e-Manufacturing
+- RFID integration
+- Internal and external prosthesis design
+- Lean/Agile Manufacturing systems
+
+The page states that the group aims to bridge academics and industry and enhance consultancy capabilities through technology transfer. It also describes the group as hosting international conferences, seminars and workshops to disseminate applied research findings. This description does not establish the current status of any individual event or project.
+
+2.2 National Resource Centre (NRC) – Structural Engineering
+
+Source: National Resource Centre (NRC)
+URL: https://cit.edu.in/others/nrc
+
+The page describes the National Resource Centre (NRC) for Structural Engineering at CIT as a national-level platform for advanced academic engagement, capacity building and applied research. It states that the centre was established with the support of the Ministry of Education, Government of India.
+
+Objectives stated:
+- Knowledge sharing on structural analysis, design methodologies and construction materials.
+- Faculty capacity building through Annual Refresher Programmes in Teaching (ARPIT), faculty development programmes and domain-specific training workshops.
+- Awareness of updated Indian Standards (IS codes) and internationally accepted design practices.
+- Development of digital learning resources, recorded lectures and online modules.
+
+Focus areas stated:
+- High-performance, self-compacting and advanced concrete materials
+- Earthquake engineering, seismic assessment and retrofitting techniques
+- Steel–concrete composite systems for modern infrastructure
+- Smart materials, sensors and structural health monitoring systems
+- Sustainable construction practices and life-cycle assessment
+- Computational mechanics, including finite element modeling and AI-based structural performance prediction
+
+Facilities/resources stated:
+- Structural Engineering Laboratory, equipped with high-capacity loading systems and advanced testing instruments.
+- Digital Content Development Facility for recording online courses, expert lectures and interactive webinars.
+- High-Performance Computing Facilities with access to STAAD, SAP2000, ANSYS and ABAQUS.
+- Library resources including national and international journals, reference books and updated design standards.
+
+2.3 Field Emission Scanning Electron Microscopy (FESEM–EDS) Facility
+
+Source: FESEM - CIT
+URL: https://cit.edu.in/others/field-emission-scanning-electron-microscopy-cit
+
+The page describes the FESEM facility at CIT, Coimbatore, Tamil Nadu, as providing high-resolution imaging and elemental characterization of advanced materials. The FESEM with Energy Dispersive X-ray Spectroscopy (EDS) is stated to be available to researchers, students, academic institutions and industries for materials characterization and consultancy services.
+
+Published characterization capabilities:
+- High-resolution surface morphology and topographical studies
+- Microstructural characterization of engineering materials
+- Particle-size and particle-morphology analysis
+- Fractography and failure-surface examination
+- Elemental composition and qualitative elemental analysis using EDS
+- Identification and comparison of different phases and constituents
+- Study of particle dispersion and reinforcement distribution in composites
+- Examination of interfaces between matrix and reinforcement
+- Analysis of pores, voids, cracks, defects and surface irregularities
+- Characterization of coatings, thin surface layers and modified surfaces
+- Examination of corrosion and degradation-induced surface changes
+- Morphological studies of powders, fibres and particulate materials
+- Characterization of additively manufactured materials and components
+- Comparative analysis of materials before and after processing or surface treatment
+
+Facility personnel/contact details published:
+- Dr. G. Suganya Priyadharshini — Laboratory Incharge, Department of Mechanical; Mobile: 98439 80133
+- Dr. P. Balraju — Department of Physics; Mobile: 99419 96894
+- Dr. R. Sathiskumar — Department of Mechanical; Mobile: 99433 50848
+
+The page mentions “Analysis Charges” and “Downloads” but the inspected page text did not expose readable details for the charges or downloadable documents. Specific fees and instrument model/specifications: Not found in the inspected official sources.
+
+2.4 Other facility and laboratory names displayed by the Research Facilities page
+
+Source: Research Facilities
+URL: https://cit.edu.in/research/research-facilities
+
+Equipment/facility headings displayed:
+- Field Emission Scanning Electron Microscope
+- Photo Luminescence Spectrometer
+- Hall Effect Measurement System
+- Magnetron DC Sputtering unit
+- 3D Printer
+- Cloud Computing Infrastructure
+
+Some headings appear more than once on the page; duplicates are removed here. The page links to a dedicated FESEM page, documented above. Specifications, make/model, booking procedure and contact person for the other listed facilities: Not found in the inspected official sources.
+
+2.5 Interdisciplinary research domains listed institutionally
+
+Source: Research Facilities
+URL: https://cit.edu.in/research/research-facilities
+
+Domains listed:
+- Sustainable Tech: Smart Materials, Smart Structures and Green Building technologies.
+- Robotics: Development of Robots for specific industrial and medical applications.
+- Intelligent Systems: Nanotechnology, Modeling & Simulation and Embedded Sensors.
+- Digital Infrastructure: Advanced Cloud and Grid Computing frameworks.
+
+These are institutional research-domain descriptions, not evidence of a separately named formal centre for each domain.
+
+2.6 Departmental research facilities
+
+Source: Research Facilities
+URL: https://cit.edu.in/research/research-facilities
+
+The page links to departmental research facilities for:
+- Department of Chemical Engineering
+- Department of Civil Engineering
+- Department of Mechanical Engineering
+- Department of Electrical and Electronics Engineering
+- Department of Electronics and Communication Engineering
+- Department of Computer Science Engineering
+- Department of Information Technology
+- Department of Artificial Intelligence and Data Science
+- Department of Mathematics
+- Department of Physics
+- Department of Chemistry
+- Department of Humanities
+- Department of Software Systems
+- Department of Data Science
+- Department of Decision and Computing Sciences
+- Department of Artificial Intelligence and Machine Learning
+- Department of Department of Management Studies (wording as displayed on the source page)
+
+Full details for every linked departmental facility were not inspected as part of this collection. Where details are not recorded elsewhere in this file: Not found in the inspected official sources.
+
+======================================================================
+3. DEPARTMENT RESEARCH FOCUS AREAS
+======================================================================
+
+3.1 Department of Physics
+
+Source: Physics
+URL: https://cit.edu.in/physics
+
+The page states that the Department of Physics conducts research across:
+- Condensed-matter physics
+- Materials science
+- Thin film physics
+- Nanoscience and nanotechnology
+- Photovoltaics
+- Computational materials science
+
+The department laboratory is described as preparing thin films and nanomaterials by physical and chemical methods. Instruments listed:
+- Atomic force microscope
+- Spectrophotometer
+- Raman Spectrometer
+- Hall effect measurement system
+- Photoluminescence arrangement
+
+The page states that Coimbatore Institute of Technology and Western Norway University of Applied Sciences (HVL), previously known as Bergen University College, started joint academic and research collaboration activities in 2010; the first MoU between the institutions was signed in 2011. Current MoU status/renewal details: Not found in the inspected official sources.
+
+3.2 Department of Electronics and Communication Engineering (ECE)
+
+Source: Research Activities
+URL: https://cit.edu.in/electronics-communication-engineering/research-activities
+
+The page includes Ph.D. scholar thesis titles and research-grant details. The thesis titles below are examples of topics explicitly listed on the page, not a complete list of the department's research.
+
+Published thesis/research topics include:
+- “Certain Investigations on Improved interference management schemes for ultra wide band communication systems”
+- “Certain Investigations on Improved Meta-Heuristic Algorithms For Real Time Task Assignment in Heterogeneous processors”
+- “Development of Improved Algorithms for removal of Baseline Wander and Powerline Interference in ECG”
+- “QoS and Security provisioning for Wireless Heterogeneous networks”
+- “Certain Investigations on Channel Estimation Techniques for OFDM based Wireless Communication Systems”
+- “Certain Investigations on Energy Efficient Spatial Correlation Based Network Protocols For Wireless Sensor Networks”
+- “Contribution to 3D reconstruction using passive and active methods”
+- “Certain Investigations on the development of planar antennas for unlicensed microwave wireless communications”
+- “A Study on Heuristic And Hybrid Heuristic Scheduling Algorithms in 4G Radio Access Networks for Heterogeneous Traffic”
+- “Security Architecture for Embedded Devices using Watermarking and Side channel Analysis”
+- “DESIGN AND DEVELOPMENT OF MIMO ANTENNAS FOR WIRELESS COMMUNICATION”
+- “IMPROVED SPECTRUM SENSING TECHNIQUES AND IMPLEMENTATION IN COGNITIVE RADIO TEST BED”
+- “CERTAIN INVESTIGATIONS ON MACHINE LEARNING TECHNIQUES FOR CRACK IDENTIFICATION IN COMPOSITE MATERIAL IMAGES”
+- “DEVELOPMENT OF EFFICIENT DEEP LEARNING MODELS FOR HAND TRACKING AND GESTURE RECOGNITION”
+- “DEVELOPMENT OF DECENTRALIZED APPLICATION FOR AGRICULTURAL FOOD SUPPLY CHAIN IN DISTRIBUTED NETWORKS USING BLOCKCHAIN TECHNOLOGY”
+
+Research grant details explicitly displayed on the ECE page are transcribed in Section 4.
+
+3.3 Other departmental focus areas
+
+The official Research at CIT page links to research pages for Civil Engineering, Mechanical Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Computer Science and Engineering, Chemical Engineering, Information Technology, Artificial Intelligence and Data Science, MCA, MBA, Mathematics, Physics, Chemistry, Humanities and Department of Computing.
+
+Source: Research at CIT
+URL: https://cit.edu.in/research/research-at-cit
+
+The page displays departmental labels/links but the inspected text does not expose a readable description of each department's research focus. Except where individually recorded in this file: Not found in the inspected official sources.
+
+======================================================================
+4. FUNDED RESEARCH PROJECTS AND GRANTS
+======================================================================
+
+4.1 ECE research grant details
+
+Source: Research Activities — Electronics and Communication Engineering
+URL: https://cit.edu.in/electronics-communication-engineering/research-activities
+
+The following records are transcribed from the published research-grant table. Wording, dates, values and blank fields are retained as closely as possible.
+
+Academic year: 2024-2025
+Title: All India Seminar on Design of Advanced 5G Antenna and Prototype Technologies
+Funding agency: The Institute of Engineers (India)
+Investigator: Dr.A.Rajeswari & Dr.I.S.Akila
+Co-investigator: NA
+Duration: 02-03 May 2024
+Amount received: Rs.39,982/-
+
+Academic year: 2024-2025
+Title: IoT Based Smart Energy Management with Indoor CO2 concentration prediction using real-time occupancy approximation algorithm
+Funding agency: Tamilnadu State Council For Science And Technology
+Investigator: Dr.M.Poongothai & Ms.S.Dhanalakshmi
+Co-investigator: [blank on source table]
+Duration: 6 Months
+Amount received: Rs.7500
+
+Academic year: 2023-2024
+Title: PCB Fabrication Unit
+Funding agency: Seed Money from CIT
+Investigator: Dr.A.Rajeswari & Dr.I.S.Akila
+Co-investigator: Ms.D.Diana Josephine
+Duration: August 2023 - August 2024
+Amount received: Rs.90,000
+
+Academic year: 2023-2024
+Title: Design of Advanced 5G Antenna and Prototype Technologies
+Funding agency: The Institution of Engineers (India)
+Investigator: Dr.A.Rajeswari & Dr.I.S.Akila
+Co-investigator: -
+Duration: 02.05.2024 and 03.05.2024
+Amount received: Rs.39,982/-
+
+Academic year: 2023-2024
+Title: Analysis and Reductions of Electromagnetic radiation from Wi-Fi routers/5G smartphones
+Funding agency: Seed Money from CIT
+Investigator: Dr.T.Balakumaran
+Co-investigator: Ms.T.Yathavi & Ms.M.AbithaThangam
+Duration: August 2023 - August 2024
+Amount received: Rs. 34,000
+
+Academic year: 2022-2023
+Title: Effects of 5G and Beyond in Global Economy
+Funding agency: The Institute of Engineers (India)
+Investigator: Dr.A.Rajeswari & Dr.I.S.Akila
+Co-investigator: -
+Duration: March 31st, 2023
+Amount received: Rs.10,500/-
+
+Academic year: 2021-2022
+Title: Advancements in Next Generation Networks
+Funding agency: The Institute of Engineers (India)
+Investigator: Dr.A.Rajeswari & Dr.I.S.Akila
+Co-investigator: -
+Duration: 04.03.2022
+Amount received: Rs. 15, 000/-
+
+Academic year: 2020-2021
+Title: COMPRESSIVE SENDING BASED REAL TIME MULTIMODAL EMOTION RECOGNITION SYSTEM
+Funding agency: Coimbatore Institute of Technology, Coimbatore
+Investigator: Dr. B. Premalatha & Ms. Cynthia Joseph
+Co-investigator: –
+Duration: 1st April 2021 to 31st March 2022
+Amount received: Rs. 1,00,000
+
+Academic year: 2019-2020
+Title: IoT BASED INDOOR AIR QUALITY (IAQ) MONITORING AND CONTROLLING SYSTEM FOR CIT CAMPUS
+Funding agency: Coimbatore Institute of Technology, Coimbatore
+Investigator: Dr. M. Poongothai
+Co-investigator: Ms. S. Dhanalakshmi
+Duration: 19th August 2019- 18th August 2020
+Amount received: Rs1,25,000.00
+
+Academic year: 2018-2019
+Title: IOT BASED ENERGY MANAGEMENT SYSTEM
+Funding agency: Tamilnadu state Council and Technology
+Investigator: Dr.M.Poongothai
+Co-investigator: –
+Duration: Sanctioned date : 18.02.2019 & UC sent : 20.04.2019
+Amount received: Rs.7500/-
+
+Note: The source uses some different spellings and formatting for the same organization/title across rows. These are not silently normalized. Academic-year grouping and duration fields are reproduced as displayed; a listed grant does not itself establish that a project is still active.
+
+4.2 Institution-wide funded research information
+
+Source: Research Cell
+URL: https://cit.edu.in/research/research-cell
+
+The Research Cell page states: “Funded Projects: 30+ (₹10+ Crores)” and “Ongoing Projects: 20+”. Individual project names, funders, project periods and amounts are not enumerated on this page.
+
+======================================================================
+5. PATENTS AND INNOVATIONS
+======================================================================
+
+5.1 Institution-wide patent count
+
+Source: Research Cell
+URL: https://cit.edu.in/research/research-cell
+
+The page states “Patents Filed/Granted: 45+”. It does not provide the patent titles, inventors, application/grant numbers, filing dates, grant dates or legal status in the inspected page text.
+
+5.2 Department of Artificial Intelligence and Data Science
+
+Source: Patents and MOU
+URL: https://cit.edu.in/artificial-intelligence-and-data-science/patents-and-mou
+
+The page contains sections titled “Patents” and “MOU” and general descriptions of their role. The inspected text did not expose an itemized patent list or an itemized MoU list. Individual patent information: Not found in the inspected official sources.
+
+5.3 Department of Chemical Engineering
+
+Source: Patents And MOU
+URL: https://cit.edu.in/chemical-engineering/patents-and-mou
+
+The inspected page contains MoU, consultancy-work and student-project tables, reproduced in Sections 6 and 4 where relevant. An itemized patent title/list was not visible in the inspected text. Individual patent information: Not found in the inspected official sources.
+
+5.4 Innovation support framework
+
+Source: Research Areas
+URL: https://cit.edu.in/research/research-areas
+
+The page states that the institute provides specialized grants, patent filing assistance and laboratory access to encourage faculty and students to convert graduation projects into intellectual property. The page also describes a focus on indigenous technologies, low-cost solutions for the Indian context and industrially relevant research.
+
+Individual innovation titles, patent numbers and inventor affiliations beyond the specific details above: Not found in the inspected official sources.
+
+======================================================================
+6. INDUSTRY PARTNERSHIPS, COLLABORATIONS AND MoUs
+======================================================================
+
+6.1 Industry–institute research collaborations listed by CIT
+
+Source: Research Facilities
+URL: https://cit.edu.in/research/research-facilities
+
+The page lists the following collaborations/programs:
+- Indo Norwegian Collaborative Project (INCP 2014 & UTFORSK 2017)
+- Workforce Development Program (WDP) with Oracle Corporation
+- Virtualization Center of Excellence with Novell
+- Pioneer Research in Medical Engineering in Collaboration with Leading Hospitals
+- OpenCL Technology collaboration with AMD
+- Mobile Application Development in ANDROID and BADA with Samsung
+- High Performance Computing (HPC) with IBM
+
+The page does not provide dates, agreement periods, named contacts or current status for each item. These are recorded as collaborations listed on the page, not as independently verified active partnerships.
+
+6.2 Chemical Engineering MoUs
+
+Source: Patents And MOU
+URL: https://cit.edu.in/chemical-engineering/patents-and-mou
+
+Details of Memorandum of Understanding (Mou), as displayed:
+
+1. Company: M/s. Wafe Auxiliary Chemicals Pvt Ltd, Renga’s Triyambhava Complex, SITRA, Coimbatore – 641014
+   Date of MoU signed: 7th October 2023
+   Duration: Three years from the date of MoU signed
+
+2. Company: Jacobi Group, Coimbatore & Tirunelveli, Tamil Nadu, India
+   Date of MoU signed: 7th October 2023
+   Duration: Three years from the date of MoU signed
+
+3. Company: Sim Info systems Pvt Ltd., Kottivakkam, Chennai, Tamil Nadu
+   Date of MoU signed: 3rd June 2024
+   Duration: Three years from the date of MoU signed
+
+The page does not state the detailed scope of each of these three MoUs in the MoU table. The duration is transcribed as published; no independent conclusion is made about renewal or current active status.
+
+6.3 Chemical Engineering consultancy work
+
+Source: Patents And MOU
+URL: https://cit.edu.in/chemical-engineering/patents-and-mou
+
+1. Industry: M/s. Wafe Auxiliary Chemicals Pvt Ltd, Renga’s Triyambhava Complex, SITRA, Coimbatore – 641014
+   Problem statement: The transformation of byproduct (salt) derived from the evaporator within the effluent treatment facility.
+   Status: Ongoing (10th November 2022 Onwards)
+
+2. Industry: Jacobi Group, Coimbatore & Tirunelveli, Tamil Nadu, India
+   Problem statement: Designing an efficient mixing system for the production of highly viscous polymer products.
+   Status: Ongoing (7th October 2023 Onwards)
+
+These are explicitly marked “Ongoing” on the source page. The status is recorded as the page states it; no separate verification was performed.
+
+6.4 Civil Engineering MoU with Construction Management Training Institute (CMTI)
+
+Source: Patents And MOU
+URL: https://cit.edu.in/civil-engineering/patents-and-mou
+
+Department of Civil Engineering, Coimbatore Institute of Technology (CIT)
+Address: Avinashi Road, Civil Aerodome Post, Peelamedu, Coimbatore, Tamil Nadu 641 014, India
+
+Construction Management Training Institute (CMTI)
+Address: 4th Floor, 177/1, 7th B Main Road, Jayanagar 1st Block, Jayanagar, Bengaluru, Karnataka 560011
+
+Date of Agreement: 08.10.2024
+
+Objectives/scope stated:
+- Training and Development: Provide comprehensive training to faculty and students on design and construction techniques.
+- Industry Exposure: Facilitate industrial visits, internships and placement opportunities for Civil Engineering students.
+- Incubation Center: Jointly develop an incubation center that simulates a design office, allowing students to gain practical experience.
+- Project Support: Offer guidance and resources for student projects, enhancing their practical skills and knowledge.
+
+CIT responsibilities listed:
+- Prepare students for industry readiness through practical training.
+- Arrange industry visits and training sessions on construction practices.
+- Provide infrastructure for training seminars and workshops.
+- Involve CMTI experts in research projects as external examiners or co-guides.
+
+CMTI responsibilities listed:
+- Propose training modules tailored for faculty and students.
+- Suggest practical projects relevant to Civil Engineering.
+- Offer consultancy services to CIT based on mutual agreement.
+
+6.5 Civil Engineering MoU with BACE India
+
+Source: Patents And MOU
+URL: https://cit.edu.in/civil-engineering/patents-and-mou
+
+Department of Civil Engineering, Coimbatore Institute of Technology (CIT)
+Address: Avinashi Road, Civil Aerodome Post, Peelamedu, Coimbatore, Tamil Nadu 641 014, India
+
+M/s. Builders and Constructor's Enterprises India Private Limited (BACE India)
+Address: No.6, George Town, Nanjappa Nagar Extn, Singanallur, Coimbatore, Tamil Nadu 641 005, India
+
+Date of Agreement: 04.10.2024
+
+CIT roles/responsibilities listed:
+- Propose training modules for faculty and students.
+- Suggest practical projects for students related to the field and design.
+- Offer testing and consultancy services to M/s. BACE India at mutually agreed terms.
+- Collaborate and jointly execute design projects proposed by M/s. BACE India.
+- Involve experts from M/s. BACE India as external examiners or co-guides for Master's and Doctorate research projects.
+
+M/s. BACE India roles/responsibilities listed:
+- Arrange industry visits for CIT faculty and students, extending training on construction practices.
+- Provide internships to students in the construction sector.
+- Participate in programs and projects of mutual benefit, including visits and exchanges of technical personnel.
+- Deploy experts as resource persons for guest lectures and site visits.
+
+The inspected page did not show a date of expiry or renewal. Current active status: Not independently established.
+
+6.6 Computing – Decision and Computing Sciences consultancy/MoU records
+
+Source: Consultancies / MoUs
+URL: https://cit.edu.in/msc-decision-and-computing-sciences/consultancies-mous
+
+Consultancy works listed:
+
+Academic year: 2020-2021
+Department: Computing - Decision and Computing Sciences
+Faculty: Dr.A.Kannammal
+Work: Machine Learning Models for Customer Segmentation and Sales Forecasting Super Transports Private Limited, Coimbatore, November 2020 - May 2021, November 2020 - May 2021, Mou Signed, Not funded, student internship
+
+Academic year: 2020-2021
+Department: Computing - Decision and Computing Sciences
+Faculty: Dr.A.Kannammal
+Work: Ordinal Regression (Shallow Learning Algorithm), Samsung PRISM Worklet Jan 2021-August 2021 MoU, Not Funded, Research Project
+
+Academic year: 2020-2021
+Department: Computing - Decision and Computing Sciences
+Faculty: Dr.A.Kannammal
+Work: Digital Marketing Consultancy Super Transports Private Limited, Coimbatore November 2020 - May 2021 Mou Signed, Not funded, student internship
+
+Academic year: 2020-2021 2021-2022 (as displayed)
+Department: Computing - Decision and Computing Sciences
+Faculty: Dr.A.Kannammal
+Work: Mobile Application Development Consultancy Super Transports Private Limited, Coimbatore February 2021 - August 2021 Mou Signed, Not funded, student internship
+
+MoU table listed:
+- I-Soft Solutions, Coimbatore — 2024
+- University MALAYA, Malaysia — 2024
+- Sprout Knowledge Solutions Private Limited, Coimbatore — 2024
+- Super Transports Private Limited, Coimbatore — 2020
+
+The MoU table provides organization names and signing years only; detailed scopes and end dates are not supplied in the inspected table.
+
+6.7 International Affairs and Industry Collaboration (IAIC)
+
+Source: International Affairs and Industry Collaboration
+URL: https://cit.edu.in/admission/international-affairs-and-industry-collaboration
+
+The IAIC office describes itself as a point of contact for international collaboration, student overseas study experiences, overseas or local internships, and companies interested in partnering with CIT.
+
+The page states that the IAIC office facilitates signing of generic MoUs for new partnerships and renewals. MoU templates are to be followed and vetted by the Head of Institution before signing. One signed copy is to be submitted to the IAIC office for filing. Departments can coordinate with IAIC on financial aspects of programs, events, MoU signing and industry visits.
+
+The page lists possible collaboration activities:
+- Student support: internships, industry mentorship programs, skills training workshops, seminars, industry visits, mock interviews and job shadowing opportunities.
+- Curriculum development: Industry Advisory Boards, guest lectures and real-world projects.
+- Research & Development: joint research projects, contract research and technology transfer agreements.
+
+These describe the office's processes and possible activity types, not proof that a particular agreement or activity is currently active.
+
+6.8 Department of Physics / Western Norway University of Applied Sciences
+
+Source: Physics
+URL: https://cit.edu.in/physics
+
+The page states that Coimbatore Institute of Technology and Western Norway University of Applied Sciences (HVL), previously known as Bergen University College, started joint academic and research collaboration activities in 2010 and signed their first MoU in 2011. Specific current validity, renewal dates and project titles: Not found in the inspected official sources.
+
+6.9 ECE / Agrowvitz Innovations Pvt. Ltd.
+
+Source: Electronics & Communication Engineering department page
+URL: https://cit.edu.in/index.php/electronics-communication-engineering
+
+The department page announces the signing of a Memorandum of Understanding (MoU) with Agrowvitz Innovations Pvt. Ltd., Bengaluru. The stated collaboration areas are IoT, Embedded Systems, AI/GenAI, precision agriculture and applied research. The page says the collaboration aims to enable hands-on learning, joint R&D, internships and real-world problem solving for students and faculty. It also thanks alumnus Mr. Bharathi Athinarayanan and Mr. Rajender Satyanarayana, Directors of Agrowvitz Innovations Pvt. Ltd., for support and collaboration, and notes that Mr. Bharathi Athinarayanan provided a Hydroponics Tower for third-year student research activities. The inspected page text does not give the MoU signing date or duration. Current status beyond the announcement: Not independently established.
+
+6.10 Historical linkages and MoUs in an official CIT-hosted PDF
+
+Source document title as indexed: “Linkages with institutions/industries for internship, on-the-job training, project work, sharing of research facilities etc. during the year”
+URL: https://cit.edu.in/uploads/epdf_documents/606d869410ffd005a745271678770b1f.pdf
+
+The indexed table includes:
+- Nature of linkage: MoU
+- Title: Nanomaterials for energy and health applications with ICT as enabling technology
+- Partner: Western Norway University of Applied Sciences
+- Years shown in the table: 2017 and 2020 (the extracted table's column alignment indicates a duration from 2017 to 2020)
+
+The same PDF's MoUs-signed table includes:
+- Utvyakta Solutions Private Limited, Coimbatore — 05/12/2018 — Research and Development — 1 Student
+- pi chain innovation pvt limited, Bangalore — 19/11/2018 — Research and Development — 3 students
+- ZanComputech, Coimbatore — 05.12.2018 — Consultancy, Internship and Placement — 2
+- Redhat — 3.12.2018 — RedHat Academy Courses — Access to 200 Students/Teachers of CIT
+- Capial Engineering consultancy- Sharjah, UAE — August 9th 2019 — Organization of joint conferences and seminars, sharing of R&D facilities — participant count shown as “-”
+
+These are historical entries in the cited PDF and should not be represented as currently active without further evidence.
+
+======================================================================
+7. STUDENT PROJECTS LINKED TO INDUSTRY
+======================================================================
+
+7.1 Chemical Engineering, academic year 2023–24
+
+Source: Patents And MOU
+URL: https://cit.edu.in/chemical-engineering/patents-and-mou
+
+Project table headings: sno; regnumber; name of student; project guide; project title academic year 2023 24.
+
+Rows displayed:
+- Regnumber 2006021; Karthikeyan K; guide Dr.M.Thirumarimurugan; “Design and simulation studies of Industrial Static Mixer (Wafe Auxillary Pvt Ltd.)”
+- Regnumber 2006043; Surendar M. No separate project title or guide is visible in this row.
+- Regnumber 2006029; Pranneshram S R; guide Dr.D.Prabhakaran; “Design and Performance characteristic studies of Stirred Tank Reactor (Wafe Auxillary Pvt Ltd.)”
+- Regnumber 2006030; Prasath Singh V. No separate project title or guide is visible in this row.
+
+The table layout appears to associate some student rows with shared project entries. The record above avoids assigning an unshown title to rows where the source table does not display one.
+
+======================================================================
+8. RESEARCH PUBLICATIONS AND SCHOLARLY OUTPUT
+======================================================================
+
+8.1 Institution-wide count
+
+Source: Research Cell
+URL: https://cit.edu.in/research/research-cell
+
+The page reports “Total Publications: 250+ (Journals & Conferences)”. The inspected page does not list the individual publications, authors, journal/conference names, DOIs or publication years.
+
+8.2 Faculty research profiles
+
+Source: Research Cell navigation / official CIT page
+URL: https://cit.edu.in/research/research-cell
+Linked faculty research profiles: https://cit.irins.org/
+
+The CIT Research Cell page links to faculty research profiles on cit.irins.org. That external subdomain was not inspected for this file because the collection is limited to the main official CIT website and its official linked documents. Individual publication records: Not found in the inspected official sources.
+
+8.3 ECE Ph.D. research theses
+
+Source: Research Activities — Electronics and Communication Engineering
+URL: https://cit.edu.in/electronics-communication-engineering/research-activities
+
+The ECE page lists Ph.D. scholar names, register numbers, thesis titles and viva-voce dates. Representative thesis titles are recorded in Section 3.2. The page is a thesis/research scholar record, not a complete list of journal and conference publications.
+
+======================================================================
+9. INCUBATION, ENTREPRENEURSHIP AND INNOVATION INITIATIVES
+======================================================================
+
+9.1 Innovation and intellectual property support
+
+Source: Research Areas
+URL: https://cit.edu.in/research/research-areas
+
+The page states that the institute provides specialized grants, patent filing assistance and access to laboratories to encourage faculty and students to convert graduation projects into intellectual property. It describes research goals including indigenous technologies and low-cost solutions for the Indian context.
+
+9.2 Incubation center in the Civil Engineering–CMTI MoU
+
+Source: Patents And MOU
+URL: https://cit.edu.in/civil-engineering/patents-and-mou
+
+The stated objective is to jointly develop an incubation center that simulates a design office, allowing students to gain practical experience. The agreement date displayed is 08.10.2024. The source page does not establish whether the center has since been implemented or is currently operating.
+
+9.3 Other entrepreneurship/incubation initiatives
+
+Incubation centres, startup cohorts, incubated company names, funding amounts, entrepreneurship program dates and application criteria beyond the item above: Not found in the inspected official sources.
+
+======================================================================
+10. CONFERENCES, WORKSHOPS, SEMINARS AND RESEARCH EVENTS
+======================================================================
+
+10.1 AIMMRG activities
+
+Source: Research Facilities
+URL: https://cit.edu.in/research/research-facilities
+
+The page states that AIMMRG hosts international conferences, seminars and workshops to disseminate applied research findings. Specific event names and dates are not provided on this page.
+
+10.2 ECE-funded seminar
+
+Source: Research Activities — Electronics and Communication Engineering
+URL: https://cit.edu.in/electronics-communication-engineering/research-activities
+
+- Title: All India Seminar on Design of Advanced 5G Antenna and Prototype Technologies
+- Academic year: 2024-2025
+- Funding agency: The Institute of Engineers (India)
+- Investigator: Dr.A.Rajeswari & Dr.I.S.Akila
+- Co-investigator: NA
+- Duration/date: 02-03 May 2024
+- Amount received: Rs.39,982/-
+
+The ECE table also lists “Design of Advanced 5G Antenna and Prototype Technologies” under academic year 2023-2024 with dates “02.05.2024 and 03.05.2024” and amount “Rs.39,982/-”. Both table entries are preserved because both appear on the source page.
+
+10.3 National Resource Centre programs
+
+Source: National Resource Centre (NRC)
+URL: https://cit.edu.in/others/nrc
+
+The NRC page states that it organizes Annual Refresher Programmes in Teaching (ARPIT), faculty development programmes and domain-specific training workshops. It also describes digital content development for online courses, expert lectures and interactive webinars. Specific event titles and dates: Not found in the inspected official sources.
+
+10.4 Other research events
+
+A complete event calendar, conference proceedings list, event-specific attendance figures and outcomes: Not found in the inspected official sources.
+
+======================================================================
+11. OFFICIAL CONTACT DETAILS
+======================================================================
+
+11.1 CIT general contact details as displayed on Research Cell and Research Facilities pages
+
+Source URLs:
+- https://cit.edu.in/research/research-cell
+- https://cit.edu.in/research/research-facilities
+
+Phone: 94868 37757
+Email: principal.citoffice@cit.edu.in
+Location: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+
+11.2 FESEM facility contacts
+
+Source: https://cit.edu.in/others/field-emission-scanning-electron-microscopy-cit
+
+- Dr. G. Suganya Priyadharshini, Laboratory Incharge, Department of Mechanical — Mobile: 98439 80133
+- Dr. P. Balraju, Department of Physics — Mobile: 99419 96894
+- Dr. R. Sathiskumar, Department of Mechanical — Mobile: 99433 50848
+
+11.3 Project-specific contact details
+
+Named project contact persons, other than the FESEM personnel and faculty/investigator names shown in the project tables above: Not found in the inspected official sources.
+
+======================================================================
+12. CONFLICTS, CAVEATS AND INFORMATION NOT FOUND
+======================================================================
+
+- Research Cell reports aggregate totals of 250+ publications, 45+ patents filed/granted, 30+ funded projects (₹10+ Crores), 20+ ongoing projects and 15+ national/international collaborations. The page does not show the date range, underlying itemized lists or methodology for these counts.
+- ECE grant tables contain similar seminar/project titles in different academic-year rows and show slightly different spellings, date formats and funding-agency names. Both records are retained as published rather than merged.
+- The CIT Research Facilities page repeats some equipment headings. Repeated headings have been deduplicated in this file without implying duplicate equipment.
+- Historical MoU records from the official CIT-hosted PDF are reported as historical records. No claim is made that those arrangements remain active.
+- An MoU's stated term does not by itself prove whether it was renewed, terminated or implemented.
+- The current active status of individual partnerships, patents, projects and incubators is not asserted unless the cited source explicitly provides a status.
+- Complete department-by-department research focus areas, full research facilities inventories, instrument specifications and charges, comprehensive patent lists, publication-level records, full institution-wide funded-project register, and full event history were not established from the pages inspected.
+- Where specific information was not visible in the inspected official source text, the status is: “Not found in the inspected official sources.”
+
+======================================================================
+13. SOURCE INVENTORY
+======================================================================
+
+Access date for all sources below: 2026-10-15.
+All sources are on the official CIT domain cit.edu.in, except where the URL explicitly identifies a CIT-hosted PDF or an official faculty-profile link noted as not inspected.
+
+1. Document/page title: Research Cell
+   URL: https://cit.edu.in/research/research-cell
+   Used for: Institutional R&D remit, aggregate publication/patent/project/collaboration counts, general contact details.
+   Missing information: Itemized project, patent, publication and collaboration lists; date range for aggregate counts.
+
+2. Document/page title: Research Facilities
+   URL: https://cit.edu.in/research/research-facilities
+   Used for: AIMMRG, interdisciplinary domains, listed equipment, institutional collaboration/program names, departmental facility links.
+   Missing information: Specifications and contacts for most equipment; dates/status/scope of listed collaborations; full linked department pages.
+
+3. Document/page title: Research Areas
+   URL: https://cit.edu.in/research/research-areas
+   Used for: Institutional research framework, innovation/patent support and broad research approach.
+   Missing information: Individual project and patent details; readable descriptions for each departmental research-area graphic/label.
+
+4. Document/page title: Research at CIT
+   URL: https://cit.edu.in/research/research-at-cit
+   Used for: Official list of departments linked from the Research at CIT page.
+   Missing information: The inspected text did not expose detailed focus areas behind the department links.
+
+5. Document/page title: FESEM - CIT
+   URL: https://cit.edu.in/others/field-emission-scanning-electron-microscopy-cit
+   Used for: FESEM–EDS capabilities, facility use and named contacts.
+   Missing information: Readable fee schedule, instrument model/specifications and downloadable document contents.
+
+6. Document/page title: National Resource Centre (NRC)
+   URL: https://cit.edu.in/others/nrc
+   Used for: Structural Engineering NRC purpose, focus areas, facilities and training activities.
+   Missing information: Specific event dates, full contact details and itemized projects.
+
+7. Document/page title: Physics
+   URL: https://cit.edu.in/physics
+   Used for: Physics research focus, listed equipment and Western Norway University of Applied Sciences collaboration history.
+   Missing information: Current MoU status, renewal details and individual project lists.
+
+8. Document/page title: Research Activities
+   URL: https://cit.edu.in/electronics-communication-engineering/research-activities
+   Used for: ECE thesis titles and funded project/grant details.
+   Missing information: Full project reports and independently verified present status of listed grants/projects.
+
+9. Document/page title: Patents And MOU
+   URL: https://cit.edu.in/chemical-engineering/patents-and-mou
+   Used for: Chemical Engineering MoUs, consultancy work and industry-linked student project records.
+   Missing information: Itemized patent details; detailed scope of the listed MoUs; status beyond what is explicitly stated.
+
+10. Document/page title: Patents And MOU
+    URL: https://cit.edu.in/civil-engineering/patents-and-mou
+    Used for: Civil Engineering MoUs with CMTI and BACE India and their stated objectives/roles.
+    Missing information: Expiry/renewal and implementation status; further project contacts.
+
+11. Document/page title: Consultancies / MoUs
+    URL: https://cit.edu.in/msc-decision-and-computing-sciences/consultancies-mous
+    Used for: Decision and Computing Sciences consultancy entries and MoU names/years.
+    Missing information: Detailed scopes/end dates for MoUs; some table formatting is ambiguous in the published content.
+
+12. Document/page title: International Affairs and Industry Collaboration
+    URL: https://cit.edu.in/admission/international-affairs-and-industry-collaboration
+    Used for: IAIC's stated role and MoU/collaboration process and activity types.
+    Missing information: Complete named active partner register and specific partnership agreements.
+
+13. Document/page title: Electronics & Communication Engineering department page
+    URL: https://cit.edu.in/index.php/electronics-communication-engineering
+    Used for: Announcement of MoU with Agrowvitz Innovations Pvt. Ltd. and stated collaboration areas.
+    Missing information: MoU date, duration, detailed agreement and independently verified current status.
+
+14. Document title as indexed: Linkages with institutions/industries for internship, on-the-job training, project work, sharing of research facilities etc. during the year
+    URL: https://cit.edu.in/uploads/epdf_documents/606d869410ffd005a745271678770b1f.pdf
+    Used for: Historical linkage/MoU entries and stated purposes/participation counts.
+    Missing information: Whether historical agreements were renewed or remain active.
+
+15. Document/page title: Patents and MOU
+    URL: https://cit.edu.in/artificial-intelligence-and-data-science/patents-and-mou
+    Used for: Confirmation that the department page contains Patents and MOU sections.
+    Missing information: Itemized patent and MoU records were not visible in the inspected page text.
+
+16. Document/page title: Coimbatore Institute of Technology (CIT) — homepage
+    URL: https://cit.edu.in/
+    Used for: Official institutional domain confirmation and institutional context.
+    Missing information: The homepage alone does not enumerate research projects, patents or collaborations.
+
+17. Document/page title: Faculty Research Profiles (linked from CIT Research Cell)
+    URL: https://cit.irins.org/
+    Used for: Recorded as an official linked profile destination only; not inspected for extraction in this file.
+    Missing information: Publication-level faculty profiles and records were not collected from this linked subdomain.
+
+END OF FILE

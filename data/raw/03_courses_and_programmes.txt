@@ -1,0 +1,528 @@
+================================================================================
+COIMBATORE INSTITUTE OF TECHNOLOGY (CIT) - COURSES AND ACADEMIC PROGRAMMES
+File: 03_courses_and_programmes.txt
+Access date for all sources: 15 October 2026
+Institution address (as published): Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+================================================================================
+
+--------------------------------------------------------------------------------
+0. SCOPE, METHOD AND LIMITS (READ FIRST)
+--------------------------------------------------------------------------------
+- Only the official website https://cit.edu.in/ and official documents linked from it were used.
+- Pages and PDFs actually opened and read are listed in the Source Inventory (Section 12). Links that appear on the site but were NOT opened are marked "link only, not opened".
+- This file does NOT cover the entire website. Not inspected: individual department pages for B.E./B.Tech./MBA/MCA/M.E., the Data Science / Decision and Computing Sciences / AI&ML department and curriculum pages, the Research pages, the Board of Studies and Academic Council pages, the Admissions Details page, and the contents of every syllabus PDF except the M.Sc. Software Systems curriculum.
+- "Listed" below means the programme appears on the cited official page. It does not by itself prove that the programme admits students in any given year. Where evidence of current offering is weaker or conflicting, this is stated.
+- Programme names follow the admission pages and the 2026 brochures. The Departments page and Syllabus page use minor punctuation variants (for example "B.E Civil Engineering", "B.E. Electrical and Electronics Engineering", "Computer Applications (MCA)" / "Computer Application (MCA)").
+- Academic year in force for current admissions: the application forms on the admission pages are titled "2026-27" / "2026 - 2027", and the brochures are titled 2026.
+
+--------------------------------------------------------------------------------
+1. INSTITUTION-LEVEL PROGRAMME OVERVIEW
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/ (homepage, "About Us" text)
+- "Established in 1956 by the V. Rangaswamy Naidu Educational Trust (VRET)... An autonomous institution since 1987, CIT is proudly affiliated to Anna University, Chennai."
+- Homepage text: the campus "is home to 14 departments" and programmes range "from traditional engineering and cutting-edge digital technologies to five-year integrated M.Sc. degrees, MCA, and MBA programmes."
+- Brochures describe CIT as "A Government Aided Autonomous Institution, Affiliated to Anna University".
+
+Source: https://cit.edu.in/admission/admission-requirements ("PROGRAMMES OFFERED")
+UG Programmes (Engineering):
+  - B.E. Computer Science & Engineering
+  - B.Tech. Chemical Engineering
+  - B.E. Civil Engineering
+  - B.E. Mechanical Engineering
+  - B.E. Electrical & Electronics Engineering
+  - B.E. Electronics & Communication Engineering
+  - B.Tech. Information Technology
+  - B.Tech. Artificial Intelligence and Data Science
+  - B.E. Electronics Engineering (VLSI Design and Technology)   [see conflict note C1]
+PG Programmes:
+  - M.E. - Construction Management
+  - MBA - Business Administration
+  - MCA - Computer Application
+Five-year Integrated Programmes:
+  - M.Sc Software Systems
+  - M.Sc Data Science
+  - M.Sc Decision & Computing Sciences
+  - M.Sc Artificial Intelligence and Machine Learning
+
+Department entries as listed on https://cit.edu.in/departments:
+  Engineering: B.E Civil Engineering; B.E Computer Science & Engineering; B.E Electrical & Electronics Engineering; B.E Electronics & Communication Engineering; B.E Mechanical Engineering; B.Tech Artificial Intelligence and Data Science; B.Tech Chemical Engineering; B.Tech Information Technology
+  PG Programmes: M.Sc. Artificial Intelligence and Machine Learning; M.Sc. Data Science; M.Sc. Decision and Computing Sciences; M.Sc. Software Systems
+  Master Programmes: Computer Applications (MCA); Management Studies (MBA)
+  Science & Humanities: Chemistry; Humanities; Mathematics; Physics
+  (The Departments page does not list the VLSI programme or M.E. Construction Management.)
+  No degree programme offered by Chemistry, Humanities, Mathematics or Physics was found in the inspected sources, except the Applied Chemistry Ph.D. noted in Section 8 (the page does not name the offering department).
+
+"Since" years printed in the B.E./B.Tech. Admission Brochure 2026 (https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf):
+  B.E. Civil Engineering - 1956 | B.E. Mechanical Engineering - 1956 | B.E. Electrical and Electronics Engineering - 1956 | B.E. Electronics and Communication Engineering - 1968 | B.E. Computer Science & Engineering - 1986 | B.E. Electronics Engineering (VLSI Design and Technology) - 2026, marked "* awaiting approval" | B.Tech. Chemical Engineering - 1963 | B.Tech. Information Technology - 2000 | B.Tech. Artificial Intelligence and Data Science - 2021 | M.E. Construction Management - 2011 | Master of Computer Applications - 1994 | Master of Business Administration - 2021 | M.Sc. Software Systems - 1998 | M.Sc. Data Science - 2016 | M.Sc. Decision and Computing Sciences - 2017 | M.Sc. Artificial Intelligence and Machine Learning - 2019
+  (Extracted brochure text lists M.Sc. Software Systems directly after the MBA entry and before the "5 YEAR INTEGRATED PROGRAMMES" label; the M.Sc. brochure and department page both describe it as a 5-year integrated programme.)
+
+================================================================================
+2. UNDERGRADUATE PROGRAMMES (B.E. / B.Tech.) - FULL-TIME
+================================================================================
+Common information
+Source: https://cit.edu.in/admission/under-graduate
+- Duration: "a diverse range of disciplines across eight semesters". B.Tech. Chemical Engineering is described as "an intensive eight-semester course".
+- "The first year of the B.E. program serves as a universal foundation. Every student, regardless of their specific branch, dives into the core mathematical, scientific, and technological concepts that underpin all engineering disciplines. While students are allocated to their specific branches during the initial counseling process..."
+- Pages carry B.E. / B.Tech. Admissions 2026 application forms (Aided, Self Supporting, Lateral Entry, First Graduate). See Section 9.
+- Homepage displays: "TNEA COUNSELLING CODE" followed by "2007".
+
+Eligibility (all UG engineering programmes)
+Source: https://cit.edu.in/admission/admission-requirements
+Minimum Qualifications - UG Programmes (Engineering):
+  - A pass in HSC (Academic) with Maths, Physics and Chemistry (OR)
+  - A pass in HSC (Vocational Stream) with Engineering Vocational subjects and any one or two of related subjects (Maths, Physics and Chemistry) (OR)
+  - Diploma in one of the Engineering Courses (Civil, Mechanical, Electrical or Electronics) (OR)
+  - Any other Equivalent qualification approved by the State Board of Technical Education/Higher Secondary Board of Tamilnadu.
+  - Candidates belonging to communities other than SC/ST should have passed the qualifying examination in not more than two appearances. Candidates belonging to SC/ST should have passed the qualifying examination in not more than three appearances.
+Minimum Marks:
+  - For SC/ST candidates, a mere pass in the qualifying examination will suffice.
+  - Candidates belonging to communities other than SC/ST should have obtained the following minimum percentage of marks.
+  A) H.S.C. (Academic) and other equivalent candidates: OC - 45% average in the related subjects; BC - 40%; MBC & DNC - 40%; SC/ST - 40% (all "average in the related subjects")
+  B) H.S.C. (Vocational) Candidates: OC - 45%; BC - 40%; MBC & DNC - 40%; SC/ST - 40%
+  C) Diploma Holders: OC - 45%; BC - 40%; MBC & DNC - 40%; SC/ST - 40%
+  Age Limit: No Age Limit
+  (The page states both "a mere pass ... will suffice" for SC/ST and "SC/ST - 40%" in each table; both are reproduced as published. See conflict note C7.)
+Lateral-entry eligibility: Not found in the inspected official sources (only application-form links and a "Hostel facilities for Lateral Entry Students" circular were seen).
+Branch-specific eligibility: Not found in the inspected official sources.
+
+Programme entries (department listing -> programme). Duration for each: eight semesters (source above). Syllabus links are those on https://cit.edu.in/syllabus (link only, content not opened).
+
+2.1 B.E. Civil Engineering
+  Department entry: B.E Civil Engineering - https://cit.edu.in/civil-engineering
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 1956)
+  Syllabus documents on Syllabus page:
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769146664_civil.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769146616_B_E__Civil.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1767603638_B_E_CIVIL_ENGG_2023_10_07_2024.pdf
+
+2.2 B.E. Mechanical Engineering
+  Department entry: B.E Mechanical Engineering - https://cit.edu.in/mechanical-engineering
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 1956)
+  Syllabus documents:
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769148576_mechanical.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769148550_B_E__Mechanical.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769148466_B_E_MECHANICAL_Syllabus_16_07_24.pdf
+
+2.3 B.E. Electrical & Electronics Engineering
+  Department entry: B.E Electrical & Electronics Engineering - https://cit.edu.in/electrical-electronics-engineering
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 1956)
+  Syllabus documents (Syllabus page name: "B.E. Electrical and Electronics Engineering"):
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769148743_BE_EEE_SYLLABUS.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769148721_EEE.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769148682_B_E__EEE_-_R_2023_UG_REGULAR_-_CURRICULUM_and_SYLLABI.pdf
+
+2.4 B.E. Electronics & Communication Engineering
+  Department entry: B.E Electronics & Communication Engineering - https://cit.edu.in/electronics-communication-engineering
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 1968)
+  Syllabus documents (Syllabus page name: "B.E. Electronics and Communication Engineering"):
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769156231_BE_ECE.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769156194_B_E_ECE_2023_Syllabus.pdf
+
+2.5 B.E. Computer Science & Engineering
+  Department entry: B.E Computer Science & Engineering - https://cit.edu.in/computer-science-engineering
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 1986)
+  Syllabus documents (Syllabus page name: "B.E. Computer Science and Engineering"):
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769157017_BE_CSE_SYLLABUS.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769156941_CSE_Syllabus_Final_2022.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769156816_B_E_CSE_2023_Syllabus_(I_to_VIII).pdf
+
+2.6 B.E. Electronics Engineering (VLSI Design and Technology)
+  STATUS: NOT CONFIRMED AS AN APPROVED/RUNNING PROGRAMME (see C1).
+  Listed on: homepage "Our Departments" (Engineering block, "B.E. Electronics Engineering (VLSI Design and Technology)"); Admission Requirements; UG Admissions ("Our B.E. Specializations include: ... Electronics Engineering (VLSI Design and Technology)"); B.E. Brochure 2026, which prints "Since 2026" and "* awaiting approval".
+  Not listed on: https://cit.edu.in/departments; the site navigation menus; the "Select Departments" contact form; https://cit.edu.in/syllabus.
+  Department entry / department page URL: Not found in the inspected official sources.
+  Syllabus: Not found in the inspected official sources.
+
+2.7 B.Tech. Chemical Engineering
+  Department entry: B.Tech Chemical Engineering - https://cit.edu.in/chemical-engineering
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 1963)
+  Programme description (UG Admissions page): "offers a sophisticated balance between Unit Processes and Unit Operations".
+  Syllabus documents (Syllabus page name: "B.Tech Chemical Engineering"):
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769157392_B_Tech_Chemical_Syllabus.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769157323_chemical.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769157193_B_E_B_Tech_Chemical_Engineering_2023_Institute_Template.pdf
+
+2.8 B.Tech. Information Technology
+  Department entry: B.Tech Information Technology - https://cit.edu.in/information-technology
+  Listed on: Departments page; Admission Requirements; UG Admissions; B.E. Brochure 2026 (since 2000)
+  Syllabus documents:
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769157607_B_Tech__IT_SYLLABUS.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769157555_BTech_IT_final_2022.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769157499_B_Tech_IT_R2023_Syllabus.pdf
+
+2.9 B.Tech. Artificial Intelligence and Data Science
+  Department entry: B.Tech Artificial Intelligence and Data Science - https://cit.edu.in/artificial-intelligence-and-data-science
+  Listed on: Departments page; Admission Requirements; UG Admissions ("Our newest specialized track"); B.E. Brochure 2026 (since 2021)
+  Syllabus document (only one linked; in the second "2021 - 22" column):
+    https://cit.edu.in/uploads/syllabus_document/1769157729_AIDS_SYLLABI_2021_Final.pdf
+  No 2023 - 24 syllabus is linked for this programme on the Syllabus page.
+
+Specialisations / electives for B.E. / B.Tech.: Not found in the inspected official sources (syllabus PDFs other than M.Sc. Software Systems were not opened).
+
+================================================================================
+3. UNDERGRADUATE - PART-TIME B.E. FOR DIPLOMA HOLDERS
+================================================================================
+Source: https://cit.edu.in/admission/post-graduate and https://cit.edu.in/admission/under-graduate
+- Programmes: Part-time B.E. in Civil Engineering; Mechanical Engineering; Electrical and Electronics Engineering.
+- Duration: "eight-semester part-time" programmes.
+- Eligibility conditions (post-graduate page):
+    - The diploma must have been completed at least two years prior to the date of application.
+    - The applicant's place of employment should be located within a 90 km radius of the institute.
+- Class timings: "evening hours, from 6:00 PM to 9:00 PM".
+- Selection: weighted merit system - Academic Performance (75%) based on diploma examination results; Work Experience (25%): 2 marks for each year of relevant professional experience; 1 mark for each year after diploma completion without employment.
+- Application process: "The Directorate of Technical Education (DOTE), Chennai will publish admission notifications in leading newspapers. Application forms can be obtained directly from the Institute Office during the notified period."
+- Not listed on the Departments page, Admission Requirements page or Syllabus page. A homepage notice (Supplementary Examinations Fee Circular, Nov/Dec 2026) refers to "B.E. (Part Time) (2020, 2021, 2022 Batch)", indicating part-time batches exist; no 2026 intake notice for part-time programmes was found in the inspected pages.
+- Part-time syllabus links: Not found in the inspected official sources.
+- Formatting note: on the post-graduate page the third programme ("Electrical and Electronics Engineering") appears after the first two eligibility bullet points; the UG Admissions page lists all three together.
+
+================================================================================
+4. POSTGRADUATE PROGRAMMES
+================================================================================
+
+4.1 M.E. (Master of Engineering) - Construction Management
+  Department entry: Not found as a department entry on https://cit.edu.in/departments (see C2).
+  Listed on: homepage (PG Programmes block, "M.E. Construction Management"); Admission Requirements ("M.E. - Construction Management"); B.E. Brochure 2026 ("M.E. Construction Management", since 2011); Syllabus page.
+  Duration: "full-time M.E. programmes of four semesters duration" (https://cit.edu.in/admission/post-graduate). That page names the discipline as "Civil Engineering" (see C2).
+  Eligibility:
+    - Admission Requirements page: "B.E. / B.Tech. in, Civil Engineering (Or) Civil Engineering with any specialisation (Or) Civil and 'any specialisation'".
+    - PG page: "Applicants must possess a B.E. degree in the relevant specialization from Anna University or any other recognized equivalent institution."
+  Financial support (PG page): "Students admitted to the full-time M.E. programme who have qualified in the GATE examination may be considered for a Government of India stipend of Rs. 12,400 per month, subject to the availability of central funding." (published with the rupee sign.)
+  Intake: Not found in the inspected official sources.
+  Syllabus documents (Syllabus page name: "M.E. Construction Management"):
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769158334_ME_Construction_Management_Final.pdf
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769158275_2019_ME_Construction_Management_Final_2021_feb_.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769158224_5__PG_CM_2023_10_07_2024.pdf
+
+4.2 MBA (Master of Business Administration)
+  Department: Department of Management Studies, "established in 2021" (MCA/MBA Brochure 2026). Departments-page entry: Management Studies (MBA) - https://cit.edu.in/management-studies-mba
+  Listed on: Departments page; Admission Requirements; PG Admissions; MCA/MBA Brochure 2026.
+  Duration: "Two Year Full Time PG Programmes" / "a 2 year MBA programme" (MCA/MBA Brochure 2026).
+  Annual intake: 60 (brochure: "ANNUAL INTAKE : 60").
+  Specialisations (brochure, "SPECIALIZATIONS OFFERED"): Financial Management; Marketing Management; Human Resource Management; Operations Management; Information Systems Management. The brochure also prints "Integrated with Digital Technologies" and "Data Analytics and AI" next to this list; how these attach to the specialisations is not clear in the extracted text.
+  Eligibility (PG page): "Applicants must have a recognized Bachelor's degree of at least three years duration with 50% marks (45% for reserved categories). B.E./B.Tech graduates and AMIE holders with a minimum of two years of work experience are also eligible to apply." Described as "open to graduates from all academic backgrounds".
+  Admissions 2026 note (PG page): "MBA admission date : 17.08.2026". Entrance-exam names are not stated in the page body (see C6).
+  Syllabus documents (Syllabus page name: "MBA"):
+    2021 - 22 (second "2021 - 22" column): https://cit.edu.in/uploads/syllabus_document/1769160370_MBA_Syllabus_2021-2022.pdf
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769160299_Syllabus_-_2023.pdf
+
+4.3 MCA (Master of Computer Applications)
+  Department: Department of Computer Applications, "established in 1994" (MCA/MBA Brochure 2026). Departments-page entry: Computer Applications (MCA) - https://cit.edu.in/computer-applications-mca
+  Listed on: Departments page; Admission Requirements; PG Admissions; MCA/MBA Brochure 2026.
+  Duration: "A two-year, full-time programme" (PG page); "2 year MCA Programme" (brochure).
+  Annual intake: 45 (brochure: "ANNUAL INTAKE : 45").
+  Key domains (brochure, "KEY DOMAINS" - not labelled as specialisations): Full Stack Development; Data Analytics; Artificial Intelligence; DevOps; Cloud Computing; Cyber Security.
+  Eligibility (PG page): "Candidates must hold a three-year degree such as BCA or B.Sc. (Computer Science/Information Technology) with Mathematics as a subject, securing a minimum of 50% aggregate marks (45% for reserved categories)."
+  Admissions 2026 note (PG page): "MCA Admission date : 14.08.2026".
+  Syllabus documents (Syllabus page name: "MCA"):
+    2018 - 19: https://cit.edu.in/uploads/syllabus_document/1769160150_MCA_Syllabus_-_2018.pdf
+    2020 - 21 column: https://cit.edu.in/uploads/syllabus_document/1769160088_MCA_Syllabus_-_2022_final-cit.pdf   (file name says 2022; see C5)
+    2023 - 24: https://cit.edu.in/uploads/syllabus_document/1769159974_MCA_2023_Syllabus_-_27-10-2023.pdf
+
+================================================================================
+5. FIVE-YEAR INTEGRATED M.Sc. PROGRAMMES
+================================================================================
+Source: https://cit.edu.in/admission/msc-five-year-integrated
+- Offering unit (as published there): "The Department of Computing". See C3 for how departments are named across pages.
+- Duration: five years ("Five-Year Integrated M.Sc. Programmes"; "5 Year Integrated").
+- Programmes, "each with an approved intake of 60 seats":
+    1. M.Sc. Software Systems
+    2. M.Sc. Data Science
+    3. M.Sc. Decision and Computing Sciences
+    4. M.Sc. Artificial Intelligence and Machine Learning
+- Listed on: Departments page (under "PG Programmes"); homepage (under "Integrated Programmes"); Admission Requirements ("Five-year Integrated Programmes"); M.Sc. Brochure 2026.
+- Department-page URLs: Software Systems https://cit.edu.in/msc-software-systems | Data Science https://cit.edu.in/msc-data-science | Decision and Computing Sciences https://cit.edu.in/msc-decision-and-computing-sciences | AI and Machine Learning https://cit.edu.in/msc-artificial-intelligence-and-machine-learning (only the Software Systems page was opened).
+- "Since" years (M.Sc. Brochure 2026): Software Systems 1998; Data Science 2016; Decision and Computing Sciences 2017; Artificial Intelligence and Machine Learning 2019.
+
+Eligibility: M.Sc. Software Systems / Data Science / AI and Machine Learning (admission page and M.Sc. Brochure 2026 agree)
+  - A pass in HSC (or equivalent) examination with Mathematics, Physics, and Chemistry as subjects is required.
+  - Candidates (other than SC/ST) must have a minimum aggregate of 70% in Mathematics + Physics + (Chemistry or Computer Science).
+  - Note (as published): this does not mean 70% in each subject individually; the requirement is based on the total combined marks. Example given: out of 300 marks (100 per subject), a minimum of 210 marks in total.
+
+Eligibility: M.Sc. Decision and Computing Sciences
+  - A pass in HSC (or equivalent) examination with Mathematics, Physics, and Chemistry as subjects; candidates (other than SC/ST) must have a minimum aggregate of 70% in Mathematics + Physics + (Chemistry or Computer Science)
+    (OR)
+  - A pass in HSC / equivalent exam with one subject from Category A and two subjects from Category B as the subjects of study.
+      CATEGORY A - Mathematics / Applied Mathematics / Statistics / Business Mathematics / Business Mathematics & Statistics.
+      CATEGORY B - Commerce / Economics / Accountancy / Computer Science.
+    Candidates (other than SC/ST) with an aggregate of 70% and above in the three subjects in total, one from Category A and two from Category B, only need to apply.
+
+Admission process (admission page): two-stage evaluation - (1) marks obtained in the Higher Secondary qualifying board examination; (2) an institute-level entrance examination ("internal entrance test conducted by the institute"). "Note: The examination center is located only in Coimbatore."
+
+M.Sc. admission schedule 2026 (https://cit.edu.in/admission/msc-admissions):
+  Application Closing Date: 25 May 2026 | Announcement of Shortlisted Candidates: 1 June 2026 | Entrance Test followed by Interview (Same day): 7 June 2026 to 10 June 2026 | Announcement of final selected candidates: 13 June 2026 | Last date for Fees Payment: 19 June 2026
+  (Dates published for 2026 intake; they are past as of the access date.)
+
+Programme features and specialisations (M.Sc. Brochure 2026, https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf)
+  - "Two 6-month internships during 7th and 10th semesters of the programme in industries, institutions of eminence and R&D laboratories".
+  - Department of Computing: "offers 5-year integrated M.Sc. Programmes in emerging domains of software and digital technologies".
+  - Two specialisation lists are printed. Their text blocks are:
+      List 1: "Specializations : Quantum Computing | Cloud computing | Full Stack | IoT | AI | Data Analytics" (sits in the first programme text block, the one preceding the "Seamless Progression and Lifelong Learning ... Mathematics, Statistics and Computer Science" block)
+      List 2: "Specializations: Software | Business Analytics | AI & ML | Decision Intelligence" (sits in the block that reads "Curriculum integrates Technology and Management / Ideal for Science & Commerce Students ... Preparing Industry-Ready Decision Scientists")
+    Attribution of each list to a specific programme is inferred from text order in the extraction and has not been verified against the PDF layout. The brochure does not state that these are formal specialisation tracks in the regulations.
+
+5.1 M.Sc. Software Systems - curriculum structure (opened and read)
+  Department: department page title "Department Of M.Sc. Software Systems"; page text: "The Department of Software Systems, established in 1998, has been a pioneer in offering the prestigious 5-Year Integrated M.Sc. Software Systems programme". The curriculum PDF header reads "DEPARTMENT OF COMPUTING". (See C3.)
+  Curriculum link on department page https://cit.edu.in/msc-software-systems/course-offered (labelled "Regulation 2022"):
+    https://cit.edu.in/uploads/epdf_documents/597b76b5d772d1fb5a7a185c471594eb.pdf
+  PDF heading: "M.SC. (SOFTWARE SYSTEMS) Curriculum - For the Students admitted during 2020 - 2021 and onwards" (see C5 for the label mismatch).
+  Structure: 10 semesters; "GRAND TOTAL OF CREDITS 212".
+  How to read the lists below: each course is given as "Code Name | four numbers as published | category". Category codes in the PDF: HS, BS, PC, PE, EEC. The extracted header row and the "Semester" headings are out of position in the text; semesters below are assigned by the semester digit in the course code (20MSS1x = Semester I, 20MSS2x = Semester II, ... 20MSS91 = Semester IX, 20MSS101 = Semester X). Per-semester credit totals assigned this way add up to the printed grand total of 212.
+
+  Semester I (22 credits)
+    20MSS11 Technical English | 2 0 0 2 | HS
+    20MSS12 Applied Algebra and Calculus | 3 1 0 4 | BS
+    20MSS13 Structured Systems Analysis and Design | 3 0 0 3 | PC
+    20MSS14 Digital Electronics | 3 0 0 3 | PC
+    20MSS15 Problem Solving using C Programming | 3 1 0 4 | PC
+    20MSS16 Computing Laboratory | 0 0 4 2 | PC
+    20MSS17 Programming Laboratory in C | 0 0 4 2 | PC
+    20MSS18 Digital Electronics Laboratory | 0 0 2 1 | PC
+    20MSS19 Employability Skills | 0 0 2 1 | EEC
+  Semester II (23 credits)
+    Language Elective | 2 0 0 2 | HS
+    20MSS21 Probability and Statistics - I | 3 1 0 4 | BS
+    20MSS22 Data Structures and Algorithms | 3 1 0 4 | PC
+    20MSS23 Fundamentals of Web Technology | 3 0 0 3 | PC
+    20MSS24 Object Oriented Programming | 3 0 0 3 | PC
+    20MSS25 Web Application Development Laboratory | 0 0 4 2 | PC
+    20MSS26 Data Structures and Algorithms Laboratory | 0 0 4 2 | PC
+    20MSS27 Object Oriented Programming Laboratory | 0 0 4 2 | PC
+    20MSS28 English for Employability | 0 0 2 1 | EEC
+  Semester III (22 credits)
+    20MSS31 Theoretical Computer Science | 3 0 0 3 | BS
+    20MSS32 Probability and Statistics - II | 3 1 0 4 | BS
+    20MSS33 Advanced Data Structures | 3 0 0 3 | PC
+    20MSS34 Computer Architecture | 3 0 0 3 | PC
+    20MSS35 Operating Systems | 3 0 0 3 | PC
+    20MSS36 Python Programming Laboratory | 0 0 4 2 | PC
+    20MSS37 Advanced Data Structures Laboratory | 0 0 4 2 | PC
+    20MSS38 Operating Systems Laboratory | 0 0 4 2 | PC
+  Semester IV (22 credits)
+    20MSS41 Resource Management Techniques | 3 0 0 3 | BS
+    20MSS42 Microprocessors and Microcontrollers | 3 0 0 3 | PC
+    20MSS43 Software Engineering | 3 0 0 3 | PC
+    20MSS44 Database Management Systems | 3 0 0 3 | PC
+    20MSS45 Java Programming | 3 0 0 3 | PC
+    20MSS46 Microprocessors and Microcontrollers Laboratory | 0 0 4 2 | PC
+    20MSS47 Database Management Systems Laboratory | 0 0 4 2 | PC
+    20MSS48 Java Programming Laboratory | 0 0 4 2 | PC
+    20MSS49 Personality Development | 0 0 2 1 | EEC
+  Semester V (23 credits)
+    20MSS51 Full Stack Application Development | 3 0 0 3 | PC
+    20MSS52 Computer Networks | 3 0 0 3 | PC
+    20MSS53 Design and Analysis of Algorithms | 3 1 0 4 | PC
+    20MSS54 Machine Learning | 3 0 0 3 | PC
+    Elective I | 3 0 0 3 | PC
+    20MSS55 Full Stack Application Development Laboratory | 0 0 4 2 | PC
+    20MSS56 Network Programming Laboratory | 0 0 4 2 | PC
+    Elective Laboratory I | 0 0 4 2 | PC
+    20MSS57 Communications Skills | 0 0 2 1 | EEC
+  Semester VI (22 credits)
+    20MSS61 Software Testing and Quality Assurance | 3 0 0 3 | PC
+    20MSS62 Mobile Computing | 3 0 0 3 | PC
+    20MSS63 Cloud Computing | 3 0 0 3 | PC
+    20MSS64 Software Architecture | 3 0 0 3 | PC
+    Elective II | 3 0 0 3 | PC
+    20MSS65 Software Engineering Laboratory | 0 0 4 2 | PC
+    20MSS66 Cloud and Mobile Application Development Lab | 0 0 4 2 | PC
+    Elective Laboratory II | 0 0 4 2 | PC
+    20MSS67 Hackathon | 0 0 2 1 | EEC
+  Semester VII (18 credits)
+    20MSS71 Project Work and Viva Voce-I | 0 0 0 18 | EEC
+  Semester VIII (21 credits)
+    20MSS81 Software Project Management | 3 0 0 3 | PC
+    20MSS82 Smart Sensors and Internet of Things | 3 0 0 3 | PC
+    20MSS83 Artificial Intelligence | 3 0 0 3 | PC
+    Elective III | 3 0 0 3 | PC
+    Elective IV | 3 0 0 3 | PC
+    20MSS84 Internet of Things Laboratory | 0 0 4 2 | PC
+    20MSS85 Artificial Intelligence Laboratory | 0 0 4 2 | PC
+    Elective Laboratory III | 0 0 4 2 | PC
+  Semester IX (21 credits)
+    20MSS91 Agile Methods for Software Development | 3 0 0 3 | PC
+    20MSS92 Information Security | 3 0 0 3 | PC
+    20MSS93 Professional Ethics | 3 0 0 3 | EEC
+    Elective V | 3 0 0 3 | PC
+    Elective VI | 3 0 0 3 | PC
+    20MSS94 Information Security Laboratory | 0 0 4 2 | PC
+    Elective Laboratory IV | 0 0 4 2 | PC
+    Elective Laboratory V | 0 0 4 2 | PC
+  Semester X (18 credits)
+    20MSS101 Project Work and Viva Voce-II | 0 0 0 18 | EEC
+
+  Elective theory courses (all category PE, "3 0 0 3"), grouped by stream as published:
+    DISTRIBUTED AND NETWORKED SYSTEMS STREAM: 20MSSE01 SOA and Web Services; 20MSSE02 Distributed Computing; 20MSSE03 Parallel Computing; 20MSSE04 Blockchain Technologies
+    DATA ANALYTICS STREAM: 20MSSE05 Big Data Architecture; 20MSSE06 Information Retrieval; 20MSSE07 Advanced Database Management Systems; 20MSSE08 Predictive Analytics; 20MSSE09 Data Mining
+    INTELLIGENT SYSTEMS STREAM: 20MSSE10 Computer Vision; 20MSSE11 Natural Language Processing; 20MSSE12 Meta-Heuristic Learning; 20MSSE13 Deep Learning; 20MSSE14 Decision Support Systems; 20MSSE15 Business Intelligence
+    GENERAL STREAM: 20MSSE16 Virtual and Augmented Reality; 20MSSE17 Compiler Design; 20MSSE18 Software User Interface Design; 20MSSE19 Enterprise Application Development; 20MSSE20 Design Thinking; 20MSSE21 Business Process Management; 20MSSE22 Software Language Engineering; 20MSSE23 Accounting and Financial Management; 20MSSE24 Human Computer Interaction and Interface; 20MSSE25 Quantum Computing; 20MSSE26 Real Time Systems
+  Elective laboratory courses (all category PE, "0 0 4 2"):
+    DISTRIBUTED AND NETWORKED SYSTEMS STREAM: 20MSSL01 SOA and Web Services Laboratory (published as "S0A and Web Services Laboratory"); 20MSSL02 Parallel Computing Laboratory; 20MSSL03 Blockchain Technologies Laboratory
+    DATA ANALYTICS STREAM: 20MSSL04 Data Mining Laboratory; 20MSSL05 Big Data Architecture Laboratory; 20MSSL06 Predictive Analytics Laboratory
+    INTELLIGENT SYSTEMS STREAM: 20MSSL07 Natural Language Processing Laboratory; 20MSSL08 Meta-Heuristic Learning Laboratory; 20MSSL09 Deep Learning Laboratory; 20MSSL10 Business Intelligence Laboratory; 20MSSL11 Computer Vision Laboratory; 20MSSL12 Machine Learning Laboratory
+    GENERAL STREAM: 20MSSL13 Virtual and Augmented Reality Laboratory; 20MSSL14 Compiler Construction Laboratory; 20MSSL15 Enterprise Application Development Laboratory; 20MSSL16 Accounting and Financial Management Laboratory; 20MSSL17 Quantum Computing Laboratory
+  Language electives (HS, "2 0 0 2"): 20MSSLE01 Professional English; 19FYG21 Basic German; 19FYF21 Basic French
+  (Placement of the headings "Elective Theory Courses", "Elective Labs" and "Language Electives" in the extracted text trails the lists they describe; the grouping above follows the course-code prefixes E, L and LE/19FY.)
+
+Syllabus documents on https://cit.edu.in/syllabus for the integrated M.Sc. programmes (link only, content not opened except where noted above):
+  M.Sc. Software Systems
+    2015 - 16: https://cit.edu.in/uploads/syllabus_document/1769160497_M_Sc_SOFTWARE_SYSTEMS.pdf
+    2020 - 21 column: https://cit.edu.in/uploads/syllabus_document/1769160432_MSc_Software_2022.pdf   (see C5)
+  M.Sc. Data Science
+    2016 - 17: https://cit.edu.in/uploads/syllabus_document/1769160727_M_Sc_Data_Science_PDF.pdf
+    2021 - 22 (first "2021 - 22" column): https://cit.edu.in/uploads/syllabus_document/1769160608_2021-MSc_Data_Science.pdf
+  M.Sc. Decision and Computing Sciences
+    2017 - 18: https://cit.edu.in/uploads/syllabus_document/1769161306_M_SC__Decision_Computer_Sciences.pdf
+    2022 - 23: https://cit.edu.in/uploads/syllabus_document/1769160956_22MDC_Curriculum_Final_Updated.pdf
+  M.Sc. Artificial Intelligence and Machine Learning
+    2019 - 20: https://cit.edu.in/uploads/syllabus_document/1769161531_2019_Syllabus-AIML.pdf
+  Curriculum structure, electives and specialisations for Data Science, Decision and Computing Sciences, and AI and Machine Learning: Not found in the inspected official sources.
+
+M.Sc. Admission Brochure (five-year integrated), link only, not opened:
+  https://cit.edu.in/uploads/epdf_documents/f7bccfc900ef6e3f02902e14643a91f5.pdf
+
+================================================================================
+6. INTEGRATED PROGRAMMES OTHER THAN M.Sc.
+================================================================================
+Not found in the inspected official sources. The only integrated programmes listed are the four five-year integrated M.Sc. programmes in Section 5.
+
+================================================================================
+7. OTHER PROGRAMME CATEGORIES CHECKED
+================================================================================
+- M.Tech. programmes: none listed in any programme list inspected (see C6 about the PG page's meta description).
+- Diploma, certificate, lateral-entry degree programme descriptions: Not found in the inspected official sources.
+- Dual-degree / twinning programmes: the B.E. Brochure 2026 lists "Foreign Collaborations" (Taylors University; Asia Pacific University of Technology and Innovation; Western Norway University of Applied Sciences (HVL), Norway; University of Jaffna, Sri Lanka; University Malaya, Malaysia; Telekom University Bandung, Indonesia; Swinburne University of Technology Sarawak/Melbourne; LA Academia - French Reunion Island; and others) and "Credit Transfer", "Short-term Semester-Abroad opportunities". No degree programme jointly awarded with these institutions was found in the inspected sources. See also https://cit.edu.in/admission/academic-collaboration (link only, not opened).
+
+================================================================================
+8. DOCTORAL (Ph.D.) AND OTHER RESEARCH PROGRAMMES
+================================================================================
+Source: https://cit.edu.in/admission/post-graduate ("Doctoral Programmes (Ph.D.)")
+- Engineering disciplines - "Both full-time and part-time Ph.D. registrations are available in": Civil Engineering; Mechanical Engineering; Electrical and Electronics Engineering; Electronics and Communication Engineering; Chemical Engineering; Computer Science and Engineering; Information Technology.
+  Eligibility: "Applicants must hold an M.E. or M.Tech degree in the corresponding field."
+- Applied Chemistry: "A part-time Ph.D. programme is offered for candidates with an M.Phil in Applied Chemistry or Chemistry, enabling working professionals to engage in advanced research." (The page does not name the offering department.)
+- Not found in the inspected official sources: Ph.D. in Mathematics, Physics, Management Studies, Computer Applications or Humanities; duration and coursework rules; Ph.D. regulations document; current Ph.D. admission notification.
+- Research pages exist on the site (https://cit.edu.in/research/research-cell, https://cit.edu.in/research/research-policy, https://cit.edu.in/research/research-areas) but were not opened.
+- Part-time research option wording on the page: "flexible part-time research options".
+- No M.Phil. or M.S. (by research) programme was found.
+
+================================================================================
+9. OFFICIAL BROCHURES, APPLICATION FORMS AND OTHER DOWNLOADABLE PDFs
+================================================================================
+Brochures (homepage "Course Brochure" block; also on every page footer):
+  BE Brochure 2026 (read): https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+  MSc Brochure 2026 (read): https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf
+  MCA / MBA Brochure 2026 (read): https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf
+M.Sc. (Five Year Integrated) - Admission Brochure (link only): https://cit.edu.in/uploads/epdf_documents/f7bccfc900ef6e3f02902e14643a91f5.pdf
+Final Selection List for M.Sc. Admissions 2026 (link only): https://cit.edu.in/uploads/epdf_documents/9f87606c5ee900aa58eac713b4a8a321.pdf
+Application forms, link only, not opened:
+  On https://cit.edu.in/admission/under-graduate (B.E. / B.Tech. 2026-27):
+    Aided: https://cit.edu.in/uploads/epdf_documents/7ff28219f901943d4ce61638a51d7c4a.pdf
+    Self Supporting: https://cit.edu.in/uploads/epdf_documents/5390e2969d6437f7f2b8ee9e3697626e.pdf
+    Lateral Entry: https://cit.edu.in/uploads/epdf_documents/2f35f162e0084b720b15c6c5a2d93846.pdf
+    First Graduate Form: https://cit.edu.in/uploads/epdf_documents/7b09dc81a9ba80ba76a437e95738bdbd.pdf
+  On https://cit.edu.in/admission/first-year-be-btech-admissions (B.E. / B.Tech. 2026-27; different file addresses from the above):
+    Aided: https://cit.edu.in/uploads/epdf_documents/9d5b2df7049df80cc599e8f75bf25faa.pdf
+    Self Supporting: https://cit.edu.in/uploads/epdf_documents/bb31aebd099cf228ca2284d5f71ce011.pdf
+    Lateral Entry: https://cit.edu.in/uploads/epdf_documents/bc4bc39d58fb4cf9a0470a11e66ae2ba.pdf
+    First Graduate: https://cit.edu.in/uploads/epdf_documents/1c34154a29f8824cd3cf7577f16a7b93.pdf
+  On https://cit.edu.in/admission/post-graduate:
+    MBA Application Form 2026-2027: https://cit.edu.in/uploads/epdf_documents/556140b45c919ef2fe734122b0b39658.pdf
+    MCA Application Form 2026-2027: https://cit.edu.in/uploads/epdf_documents/6267fdca5210ace6256fc8a39242f4d8.pdf
+Academic Calendar (navigation link; link only, not opened; applicable academic year not verified): https://cit.edu.in/uploads/file_manger/1782996798_20260702193056539.pdf
+Admission contacts (as published on every page): B.E. / B.Tech. - Admissions: 94868 37757 | M.Sc. - Admissions: 94883 16334 | Email: principal.citoffice@cit.edu.in. The brochures name "Mr. K. DHANDAPANI, Admission Coordinator, 94883 16334".
+
+================================================================================
+10. CURRICULUM, SYLLABUS AND REGULATIONS - STRUCTURE OF THE SYLLABUS PAGE
+================================================================================
+Source: https://cit.edu.in/syllabus (navigation label "Regulations and Syllabi"; page title "Syllabus")
+- The page is a table of 15 programmes by year columns: 2015 - 16, 2016 - 17, 2017 - 18, 2018 - 19, 2019 - 20, 2020 - 21, 2021 - 22, 2021 - 22 (the header repeats "2021 - 22" twice), 2022 - 23, 2023 - 24. Empty cells show a dash.
+- The 15 programmes in the table: B.E. Civil Engineering; B.E. Mechanical Engineering; B.E. Electrical and Electronics Engineering; B.E. Computer Science and Engineering; B.Tech Chemical Engineering; B.Tech Information Technology; M.E. Construction Management; M.Sc. Software Systems; M.Sc. Data Science; M.Sc. Decision and Computing Sciences; MCA; B.E. Electronics and Communication Engineering; M.Sc. Artificial Intelligence and Machine Learning; B.Tech Artificial Intelligence and Data Science; MBA.
+- The latest year column with any link is 2023 - 24. No 2024 - 25, 2025 - 26 or 2026 - 27 regulation or syllabus document is linked on the page. Which regulation applies to the 2026 intake is therefore: Not found in the inspected official sources.
+- Programmes with no 2023 - 24 link on this page: M.Sc. Software Systems (latest 2020 - 21 column), M.Sc. Data Science (latest 2021 - 22), M.Sc. Decision and Computing Sciences (latest 2022 - 23), M.Sc. Artificial Intelligence and Machine Learning (latest 2019 - 20), B.Tech Artificial Intelligence and Data Science (latest 2021 - 22). Absence of a link does not show that a newer regulation does not exist.
+- A separate academic regulations (rules) document, apart from these syllabus PDFs: Not found in the inspected official sources. Regulation 2022 is the label used on the M.Sc. Software Systems department page; 2023 appears in several file names (for example "R_2023", "R2023").
+- Per-programme syllabus links are given in Sections 2, 4 and 5. None of these PDFs was opened except the M.Sc. Software Systems curriculum (Section 5.1), so regulation names and credit structures for other programmes are not reported.
+- Board of Studies: https://cit.edu.in/board-of-studies and Academic Council: https://cit.edu.in/academic-council (link only, not opened). M.Sc. Software Systems department Board of Studies page: https://cit.edu.in/msc-software-systems/board-of-studies (link only).
+
+================================================================================
+11. CONFLICTS, AMBIGUITIES AND FLAGS
+================================================================================
+C1. B.E. Electronics Engineering (VLSI Design and Technology)
+    Listed on: homepage; https://cit.edu.in/admission/admission-requirements; https://cit.edu.in/admission/under-graduate; B.E. Brochure 2026 ("Since 2026", "* awaiting approval").
+    Absent from: https://cit.edu.in/departments; site navigation menus; contact-form department list; https://cit.edu.in/syllabus.
+    Not resolved. The brochure's "awaiting approval" note means the programme should not be treated as an approved, running programme on this evidence alone.
+
+C2. M.E. Construction Management vs M.E. "Civil Engineering"
+    https://cit.edu.in/admission/admission-requirements, the homepage and the B.E. Brochure 2026 name "M.E. - Construction Management". https://cit.edu.in/admission/post-graduate lists the M.E. discipline as "Civil Engineering" (four semesters). Eligibility wording also differs between the two pages (quoted in Section 4.1). M.E. Construction Management is absent from https://cit.edu.in/departments and from the site navigation PG list, although it is on the homepage "PG Programmes" block and the Syllabus page. Not resolved. M.E. intake: Not found.
+
+C3. Department naming for the integrated M.Sc. programmes
+    https://cit.edu.in/admission/msc-five-year-integrated, the M.Sc. Brochure 2026 and the Software Systems curriculum PDF say "Department of Computing". https://cit.edu.in/departments lists each M.Sc. as its own department entry, and https://cit.edu.in/msc-software-systems says "The Department of Software Systems, established in 1998" while its vision statement begins "Department of Computing endeavors...". Whether there is one department or several is not resolved. The homepage also says "14 departments" while the Departments page shows 18 entries (8 Engineering, 4 M.Sc., 2 MCA/MBA, 4 Science & Humanities). Not resolved.
+
+C4. Category labels for the integrated M.Sc. programmes
+    Departments page and site navigation: "PG Programmes". Homepage: "Integrated Programmes" ("Five-Year Integrated Programmes"). Admission Requirements page and M.Sc. Brochure: "Five-year Integrated Programmes". MCA and MBA appear under "Master Programmes" on the Departments page and "PG Programmes" on the homepage and navigation. This is a labelling difference, not a difference of fact.
+
+C5. Syllabus-year label mismatches
+    M.Sc. Software Systems: the file in the "2020 - 21" column is named "MSc_Software_2022.pdf"; the department page labels its linked curriculum "Regulation 2022"; the PDF itself says "For the Students admitted during 2020 - 2021 and onwards".
+    MCA: the file in the "2020 - 21" column is named "MCA_Syllabus_-_2022_final-cit.pdf".
+    B.E. Computer Science and Engineering: the "2019 - 20" file is named "CSE_Syllabus_Final_2022.pdf"; B.Tech Information Technology: the "2019 - 20" file is named "BTech_IT_final_2022.pdf".
+    The page header also repeats "2021 - 22" in two columns. Not resolved; the labelled column is reported next to each link.
+
+C6. PG admissions page - minor inconsistencies
+    The heading reads "MBA and MBA ADMISSIONS 2026" (the dates beneath it are given for MCA and MBA). The page's meta description mentions "M.Tech programs through TANCET or GATE", but the page body lists no M.Tech programme and does not name TANCET; it mentions GATE only in the M.E. stipend sentence. Entrance-exam names for MBA and MCA: Not found in the inspected official sources.
+
+C7. UG minimum marks for SC/ST
+    https://cit.edu.in/admission/admission-requirements says "a mere pass in the qualifying examination will suffice" for SC/ST candidates and also prints "SC/ST - 40% average in the related subjects" in each table. Not resolved.
+
+C8. Duplicate application-form files
+    The B.E. / B.Tech. 2026-27 forms linked from https://cit.edu.in/admission/under-graduate and https://cit.edu.in/admission/first-year-be-btech-admissions have different file addresses. Neither was opened, so whether their content differs is unknown.
+
+C9. Brochure layout ambiguities
+    In the B.E. Brochure 2026 the M.Sc. Software Systems entry follows the PG programme entries (see Section 1). In the M.Sc. Brochure 2026 the attribution of the two "Specializations" lists to programmes is inferred (see Section 5). In the MBA brochure, "Integrated with Digital Technologies" and "Data Analytics and AI" are printed beside the specialisation list without a stated link to it (see Section 4.2).
+
+================================================================================
+12. SOURCE INVENTORY
+================================================================================
+Opened and read (access date for each: 15 October 2026)
+ 1. Coimbatore Institute of Technology (CIT) - homepage - https://cit.edu.in/
+    Used for: programme blocks, brochure links, TNEA code display, navigation structure, notices.
+ 2. Departments at CIT Coimbatore | Engineering - https://cit.edu.in/departments
+    Used for: department entries by category.
+ 3. CIT Syllabus | Courses & Curriculum Details - https://cit.edu.in/syllabus
+    Used for: syllabus PDF links by programme and year.
+ 4. Admission Requirements | CIT Coimbatore - https://cit.edu.in/admission/admission-requirements
+    Used for: programmes offered, UG eligibility, M.E. eligibility.
+ 5. M.Sc 5 Year Integrated Programme | CIT - https://cit.edu.in/admission/msc-five-year-integrated
+    Used for: integrated programmes, intake, eligibility, admission process.
+ 6. Postgraduate Admissions | CIT Coimbatore - https://cit.edu.in/admission/post-graduate
+    Used for: M.E., Ph.D., MCA, MBA, part-time B.E., application forms.
+ 7. Undergraduate Admissions | CIT Coimbatore - https://cit.edu.in/admission/under-graduate
+    Used for: B.E./B.Tech. programmes, duration, part-time B.E., application forms.
+ 8. First Year BE BTech Admissions | CIT Coimbatore - https://cit.edu.in/admission/first-year-be-btech-admissions
+    Used for: application-form links.
+ 9. M.Sc Admissions | CIT Coimbatore - https://cit.edu.in/admission/msc-admissions
+    Used for: 2026 M.Sc. admission schedule.
+10. B.E. / B.Tech. Admission Brochure (PDF) - https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+    Used for: programme list with "Since" years, VLSI "awaiting approval" note, foreign collaborations.
+11. M.Sc. Programmes 5 Year Integrated brochure (PDF) - https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf
+    Used for: integrated programme features, internships, specialisation lists, eligibility.
+12. MBA / MCA Admission Brochure (PDF) - https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf
+    Used for: MBA and MCA duration, intake, specialisations, key domains.
+13. M.Sc Software Systems at CIT Coimbatore - https://cit.edu.in/msc-software-systems
+    Used for: department description, curriculum link.
+14. MSc Software Systems Course | CIT 5-Year Program - https://cit.edu.in/msc-software-systems/course-offered
+    Used for: curriculum link labelled "Regulation 2022".
+15. M.Sc. (Software Systems) Curriculum, students admitted 2020 - 2021 and onwards (PDF) - https://cit.edu.in/uploads/epdf_documents/597b76b5d772d1fb5a7a185c471594eb.pdf
+    Used for: semester-wise structure, electives, credits.
+
+Linked but not opened (names/URLs only): all syllabus PDFs on https://cit.edu.in/syllabus except item 15; all application-form PDFs; M.Sc. Admission Brochure; Final Selection List for M.Sc. Admissions 2026; Academic Calendar PDF; department home pages for B.E./B.Tech./MBA/MCA/Data Science/Decision and Computing Sciences/AI and Machine Learning; https://cit.edu.in/admission/admissions-details; https://cit.edu.in/admission/academic-collaboration; Research, Board of Studies and Academic Council pages.
+
+Information not found in the inspected official sources
+ - Department page and syllabus for B.E. Electronics Engineering (VLSI Design and Technology).
+ - Intake figures for B.E./B.Tech. programmes and for M.E. Construction Management.
+ - Specialisations, electives and curriculum structure for all B.E./B.Tech./M.E./MBA/MCA programmes and for M.Sc. Data Science, Decision and Computing Sciences, and AI and Machine Learning.
+ - Regulation names/years inside syllabus PDFs other than M.Sc. Software Systems; the regulation applicable to the 2026 intake of any programme.
+ - A standalone academic regulations document.
+ - Lateral-entry eligibility; MBA/MCA entrance-exam names.
+ - Ph.D. duration, coursework, regulations and admission notice; Ph.D. in any discipline other than those in Section 8.
+ - Semester counts for the integrated M.Sc. programmes other than Software Systems.
+================================================================================
+END OF FILE
+================================================================================

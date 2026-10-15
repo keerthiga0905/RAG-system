@@ -1,0 +1,553 @@
+================================================================================
+COIMBATORE INSTITUTE OF TECHNOLOGY (CIT) - ACADEMIC CALENDAR, REGULATIONS AND EXAMINATIONS
+File: 05_academics_and_regulations.txt
+Access date for all sources: 15 October 2026
+Sources: https://cit.edu.in/ and official documents linked from it
+================================================================================
+
+SCOPE AND LIMITATIONS OF THIS FILE (READ FIRST)
+- Only pages and PDFs on https://cit.edu.in/ were used.
+- Several key PDFs on the site are scanned images with no machine-readable text.
+  The text extractor returned "empty or no machine-readable text" for: the Academic
+  Calendar PDF, the Nov/Dec 2026 examination schedule PDF, the April/May 2026
+  transparency/revaluation circular PDF, and the Anna University malpractice
+  guidelines PDF. Their contents could NOT be read and are NOT reproduced here.
+  Their links are listed so they can be read manually.
+- Not every page or PDF on the site was inspected. Section 15 lists what was and
+  was not inspected. This file does not claim to cover the whole website.
+- Numerical rules (attendance percentage, internal/external mark split, pass marks,
+  grade points, CGPA formula, revaluation fees) were NOT found in any inspected,
+  readable official source. They are marked "Not found in the inspected official
+  sources." and have not been filled in from outside knowledge.
+
+--------------------------------------------------------------------------------
+1. ACADEMIC CALENDAR (BY ACADEMIC YEAR)
+--------------------------------------------------------------------------------
+Source page (menu link "Academics > Academic Calendar"): https://cit.edu.in/
+Linked document:
+  https://cit.edu.in/uploads/file_manger/1782996798_20260702193056539.pdf
+Status: The PDF could not be read (no machine-readable text). Its academic year,
+version and contents are therefore not confirmed. The website menu labels it only
+"Academic Calendar" and does not state an academic year in the link text.
+Other academic calendars (earlier years): Not found in the inspected official sources.
+
+--------------------------------------------------------------------------------
+2. SEMESTER START AND END DATES
+--------------------------------------------------------------------------------
+Not found in the inspected official sources (the only calendar PDF was unreadable).
+
+Related published item (not a calendar; dates unread):
+  "I year Work schedule for B.E/ B.Tech/ MCA/ MBA/ WP" - posted 22 Sep (homepage news).
+  Link (PDF not inspected):
+  https://cit.edu.in/uploads/file_manger/1790073816_DOC-20260922-WA0074.pdf
+  Source page: https://cit.edu.in/
+
+--------------------------------------------------------------------------------
+3. EXAMINATION SCHEDULES (OFFICIALLY PUBLISHED LINKS)
+--------------------------------------------------------------------------------
+Source page: https://cit.edu.in/coe/exam-related-notification (Exam Related
+Notifications, COE). Homepage https://cit.edu.in/ also lists the latest items.
+None of the timetable PDFs below were readable/inspected; titles are recorded as
+published. Session labels are as stated by CIT.
+
+3.1 CURRENT / MOST RECENT SESSION
+- Examination Schedule - Nov / Dec 2026 Autonomous Examinations (Regular & Arrear)
+  Posted 01 Oct (homepage news; year not shown beside the date, title says 2026).
+  https://cit.edu.in/uploads/file_manger/1790864593_November-December_2026_Autonomous_Examinations.pdf
+  Contents not readable.
+- Supplementary Examinations Fee Circular - November/December 2026 Examinations
+  Posted 12 Oct. Homepage wording: "Supplementary Examinations Fee Circular -
+  November/December 2026 Examinations(B.E/B.Tech-2019,2020,2021 Batch-B.E. (Part
+  Time) (2020, 2021, 2022 Batch) -M.Sc.(2019, 2020 and 2021 Batch- M.E /M.C.A/
+  M.B.A( 2023 and 2024 Batch)Students Only". Linked to
+  https://cit.edu.in/coe/exam-related-notification (the circular PDF itself was not
+  identifiable on the fetched page).
+
+3.2 APRIL/MAY 2026 SESSION (PAST)
+- EXAMINATION TIME TABLE APRIL-MAY 2026:
+  https://cit.edu.in/uploads/epdf_documents/56269959c8fd921e4a93c832b02d74ba.pdf
+- Changes in the April/May 2026 Examination Schedule for the Courses (23FYC113,
+  19MEOE03,22MDCE73,22MDCE61,21MDSE21):
+  https://cit.edu.in/uploads/epdf_documents/b6feeb91a22f251c195dea2d61188a48.pdf
+- Supplementary Examination Schedule for April/May 2026 Autonomous Examinations:
+  https://cit.edu.in/uploads/epdf_documents/5f1820f304b6a2627c8933f4025e3005.pdf
+- Examination Fee - Regular / Arrears 2026:
+  https://cit.edu.in/uploads/epdf_documents/cf2480e01fe727cb88fb01fe0deeec45.pdf
+- Supplementary Exam Fees April 2026:
+  https://cit.edu.in/uploads/epdf_documents/be7c86eff37579fcb2eabd0db94b7ba8.pdf
+
+3.3 NOV/DEC 2025 SESSION (PAST)
+- FEES CIRCULAR NOV 2025:
+  https://cit.edu.in/uploads/epdf_documents/4f1b757966e44601ec2b7fd9903350f9.pdf
+- PHD FEES CIRCULAR NOV 2025:
+  https://cit.edu.in/uploads/epdf_documents/12a2179e729744da31c2f9d3f22e13f5.pdf
+- Supplementary Examinations Fee Circular - Nov/Dec 2025:
+  https://cit.edu.in/uploads/epdf_documents/15cd85343a0ff1431f0790e51f07edd5.pdf
+- A Nov/Dec 2025 examination timetable: Not found in the inspected official sources.
+
+3.4 APRIL/MAY 2025 SESSION (OUTDATED)
+- Examination Schedule for April-May 2025 Autonomous Examinations (Regular & Arrear):
+  https://cit.edu.in/uploads/epdf_documents/066110002f231412660837b869b37f0a.pdf
+- April-May 2025 Schedule for Special Permission Students (2001 to 2018 Batch)
+  (Supplementary Time Table):
+  https://cit.edu.in/uploads/epdf_documents/2cd7eb5affd4962500214a66e149bef0.pdf
+- Changes in the April/May 2025 Examination Schedule for the Courses (19CE34, 19ME34,
+  19EE34, 19EC34, 19CI33, 19CH35, 21AD35, 19CEM31, 19MEM31, 19EEEM31, 20MSS13,
+  21MDS13, 22MDC13, 19MAM13, 23MSE113, 23MENE01, 19CE35, 19EE35, 21AD54):
+  https://cit.edu.in/uploads/epdf_documents/3ce9ad4d1f205681219e90210f24e755.pdf
+- Changes in the April/May 2025 Examination Schedule for the Courses (19CEOE07,
+  19HOE02, 19MEE40, 19EEE28, 19ECE40, 19CIE20, 19IT61, 19CHE02, 19ITE08, 19CIE04,
+  21ADE26, 23MCA114, 23MBAE137, 23MBAE164):
+  https://cit.edu.in/uploads/epdf_documents/ad87de4bc627aeb753ee7749a2001688.pdf
+- Fee Circulars (Apr-May 2025): for 2022, 2023, 2024 batch B.E/B.Tech etc.:
+  https://cit.edu.in/uploads/epdf_documents/5a14572f27605d8e6747773ce7d53d2e.pdf ;
+  for 2021 batch B.E/B.Tech, 2020 batch M.Sc., 2023 M.E./M.C.A/M.B.A.:
+  https://cit.edu.in/uploads/epdf_documents/d7cf994d1ee398cedbabd9bc897e63ac.pdf ;
+  for 2018, 2019, 2020 batch B.E/B.Tech etc.:
+  https://cit.edu.in/uploads/epdf_documents/f5fa70e22ddafcb911c4baaff6b43792.pdf
+- Fee Circular for Special Supplementary Apr-May 2025 Examinations (2001 to 2018
+  Batch Students):
+  https://cit.edu.in/uploads/epdf_documents/16ed6f50764254f825407d3e6bac221a.pdf
+  Page note: after payment, students are asked to fill a Google Form to upload payment
+  details and receipt; the linked form URL on the page ends in "closedform".
+
+3.5 NOV/DEC 2024 SESSION (OUTDATED)
+- Nov-Dec 2024 Examinations Schedule (2019 to 2020 Batch Students):
+  https://cit.edu.in/uploads/epdf_documents/7be90bb98e7328ae4b75a2910ba1dd6c.pdf
+- Schedule for 2024 Admitted B.E (PART TIME), M.E., M.C.A & M.B.A. Students:
+  https://cit.edu.in/uploads/epdf_documents/a31de6c1716e04c67204bec8466f8408.pdf
+- Schedule for 2024 Admitted M.Sc. Students:
+  https://cit.edu.in/uploads/epdf_documents/124cd2ac3f6d949bea82f428deac770f.pdf
+- Schedule for Special Permission Students (2001 to 2018 Batch):
+  https://cit.edu.in/uploads/epdf_documents/71e77bb5c58a1359429dcfb630bc16ab.pdf
+- Changes for courses 19FYM21, 19EE21:
+  https://cit.edu.in/uploads/epdf_documents/58cd6cb9d2ad903cdf10907802bafdb4.pdf
+- Changes for courses 23FYC116, 23FYH111, 19CE45, 19CEE21, 19EEE39 (four PDFs listed on
+  the page under https://cit.edu.in/coe/exam-related-notification).
+- Fee Circular - Nov/Dec 2024 (2024 Admitted Students):
+  https://cit.edu.in/uploads/epdf_documents/627d6ca468b312fe736119cae1846fae.pdf
+- Fee Circular for Special Supplementary Nov-Dec 2024:
+  https://cit.edu.in/uploads/epdf_documents/025be766a880a47e4a3c56553cdd9288.pdf
+- Fee Circular - Ph.D Course Examinations Nov-Dec 2024:
+  https://cit.edu.in/uploads/epdf_documents/78e6fabc49eecd8ab2340b6d6c9b7768.pdf
+
+3.6 APRIL/MAY 2024 SESSION AND EARLIER (OUTDATED)
+Listed on https://cit.edu.in/coe/exam-related-notification, including:
+- APR-MAY 2024 Examination Schedule (Regular & Arrear) for B.E (2021, 2022, 2023
+  batch), B.E (Part Time 2021, 2022 batch), M.Sc. (2021, 2022, 2023 batch):
+  https://cit.edu.in/uploads/epdf_documents/f6dfe2836af905997cd55caeb3eb2a90.pdf
+- APR/MAY 2024 Examinations (Arrear & Regular) Schedule for B.E/B.Tech (2020 batch),
+  M.Sc. (2019 & 2020 batches), M.C.A. (2021 & 2022 batches):
+  https://cit.edu.in/uploads/epdf_documents/5d3dc2eb3b2740685178534cfedbe952.pdf
+- APR-MAY 2024 Schedule for B.E (Part Time 2023), M.E. (2023), M.C.A (2023),
+  M.B.A (2023) & Ph.D. course work:
+  https://cit.edu.in/uploads/epdf_documents/07d3a515361d96cc1d5f703d3f7cbb76.pdf
+- Examinations Schedule for M.E. Environmental Engineering - 2021 Batch:
+  https://cit.edu.in/uploads/epdf_documents/7c00bb27eb0544a2202b5a90c653da87.pdf
+- Arrear Examinations Schedule for M.E. Students:
+  https://cit.edu.in/uploads/epdf_documents/9ddc9dd9540260f4bfb82c065798346c.pdf
+- Ph.D Autonomous Examination Time Table - II:
+  https://cit.edu.in/uploads/epdf_documents/5caa54937cf6e982db97dd93f46fc798.pdf
+(Additional fee circulars and change notices for 2023-24 are on the same page.)
+
+--------------------------------------------------------------------------------
+4. EXAMINATION ADMINISTRATION AND PROCEDURES
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/coe/about-the-office-of-the-controller-of-examinations
+
+The Office of the Controller of Examinations (COE) "plays a vital role in
+safeguarding the academic credibility of the Institute. It is responsible for
+planning, administering, and monitoring all examination-related activities,
+ensuring that assessment processes are conducted with fairness, accuracy, and
+transparency."
+
+Key responsibilities listed on the page:
+- Conduct of Examinations: planning and administering all internal and end-semester
+  examinations in accordance with the approved academic schedule for every programme.
+- Appointment of Examiners: identifying and appointing competent faculty members and
+  external experts for question paper preparation and theory paper evaluation.
+- Assessment of Practical and Project Work: constituting specialized Examination
+  Committees to evaluate laboratory examinations, project reviews, and viva-voce
+  assessments.
+- Result Compilation and Declaration: processing, verification and finalization of
+  results, followed by official publication after approval by the Result Passing
+  Board (RPB).
+- Issue of Academic Records: official grade sheets and academic statements.
+- Academic Reporting: performance analysis reports presented to the Academic Council.
+- Recommendation for Degree Award: verifying eligibility and recommending qualified
+  candidates for degrees.
+Additional services: certified transcripts and duplicate academic records;
+verification of certificates and mark statements; organizing the Annual Graduation Day.
+Office administration: headed by the Controller of Examinations, assisted by a Deputy
+Controller, supported by thirteen staff members.
+
+Named officials (source: https://cit.edu.in/about-us/autonomous-status): Dr. R. Sriram,
+Controller of Examinations; Dr. R. Sathyanarayan Sridhar, Deputy Controller of
+Examinations.
+
+COE sub-pages (names as shown in the COE menu; not all inspected):
+Faculty https://cit.edu.in/coe/faculty ; Exam Fees Payment Portal
+https://cit.edu.in/coe/exam-fees-payment-portal ; Education Qualification Verification
+https://cit.edu.in/coe/education-qualification-verification ; Downloads
+https://cit.edu.in/coe/downloads
+
+COE Downloads page (https://cit.edu.in/coe/downloads) lists:
+- ANNA UNIVERSITY GUIDELINES FOR AWARDING PUNISHMENTS TO MALPRACTICE CASES:
+  https://cit.edu.in/uploads/epdf_documents/ce91f281df4527aa4b23f5bc0e6770fd.pdf
+  (PDF unreadable - scanned; contents not captured)
+- Guidelines Conduct Examinations Persons With Disabilities:
+  https://cit.edu.in/uploads/epdf_documents/edbd6777aa2fc4e55d6e0a67ae26f205.pdf
+  (not inspected)
+- APPLICATION FOR WITHDRAWL FROM EXAMINATION(S) and APPLICATION FOR CREDIT TRANSFER:
+  Google Docs forms linked from the page (not inspected; hosted outside cit.edu.in).
+
+Body that governs examination discipline (source: autonomous-status page): the
+Institute lists a non-statutory "Examination Disciplinary Committee" and "Result
+Passing Board" among its bodies.
+
+--------------------------------------------------------------------------------
+5. ATTENDANCE REQUIREMENTS
+--------------------------------------------------------------------------------
+Numerical minimum attendance percentage: Not found in the inspected official sources.
+
+Published wording (source: https://cit.edu.in/coe/exam-related-notification, section
+"Examination Fee Circular for Nov/Dec 2025 Autonomous Examinations"; applies to the
+2025-2026 odd semester, i.e. an earlier session):
+"Students who have not paid the tuition fess for the odd semester / academic year
+2025- 2026 will not be able to pay the end semester fees. Students who do not meet the
+minimum attendance requirements in the courses as per the academic regulations of the
+programme, will not be allowed to write the end semester examinations even if the exam
+fess is paid in advance by the student."
+(Spelling "fess" is as published.)
+
+--------------------------------------------------------------------------------
+6. INTERNAL ASSESSMENT AND END-SEMESTER EXAMINATION RULES
+--------------------------------------------------------------------------------
+Numerical internal/external mark weightage and pass minimums: Not found in the
+inspected official sources.
+
+Statements published on https://cit.edu.in/about-us/autonomous-status (no academic year
+or regulation version is stated on the page):
+- Continuous assessment in laboratory practicals, workshop practice and engineering
+  drawing "has been introduced under the Autonomous scheme since 2001."
+- "All the question papers for U.G. programmes are set by external/internal examiners,
+  and valuation is done both by internal and external examiners."
+- "Complete autonomy is given for the conduct of PG programmes. Setting of question
+  papers and valuation of answer scripts are done internally."
+- "Conduct of examination, publication of results, and issue of grade sheets are done
+  systematically and with a fixed time frame."
+- Industrial training: "Four weeks of industrial training is compulsory for the
+  students to become eligible for the award of a degree by the University. This has
+  been in practice since 2009."
+- "A mini project of 2 credits is offered to the students of the V and VI semesters."
+- Students may study German/French as an alternative to English in the II semester.
+
+--------------------------------------------------------------------------------
+7. GRADING SYSTEM AND CGPA CALCULATION
+--------------------------------------------------------------------------------
+Grade scale, grade points, GPA/CGPA formula, classification of degree:
+Not found in the inspected official sources.
+
+What is published (https://cit.edu.in/about-us/autonomous-status):
+- "In assessment, grades are awarded instead of marks."
+- "The credit system has been introduced to all the programmes since 2001."
+- "The Choice Based Credit System has been followed from 2015."
+
+--------------------------------------------------------------------------------
+8. PASSING CRITERIA AND ARREAR EXAMINATION RULES
+--------------------------------------------------------------------------------
+Passing criteria (marks/grade thresholds) and arrear limits: Not found in the
+inspected official sources.
+
+Published information:
+- Arrear examinations are conducted alongside regular ones ("Regular & Arrear" is used
+  in the Nov/Dec 2026 and Apr/May 2025 schedule titles; see Section 3).
+- Arrear result announcements exist, e.g. "APRIL/MAY 2026 END-SEMESTER ARREAR
+  EXAMINATIONS RESULTS": https://cit.edu.in/announcements/aprilmay-2026-end-semester-arrear-examinations-results
+  (not inspected). Arrear results were published on 13.07.2026 (per transparency
+  circular title).
+- April/May 2025 arrear results were released for "2024 Batch | 2023 Batch | 2022
+  Batch | 2021 Batch | 2020 Batch and Supplementary Candidates" (outdated session).
+- "A special supplementary examination is conducted for students of outgoing batches
+  who have arrears in the final semester." (autonomous-status page)
+- Special permission examinations for 2001 to 2018 batch students are scheduled
+  separately (Sections 3.4, 3.5).
+
+--------------------------------------------------------------------------------
+9. REVALUATION, TRANSPARENCY AND SUPPLEMENTARY EXAMINATION PROCEDURES
+--------------------------------------------------------------------------------
+9.1 General procedure as published
+Source: https://cit.edu.in/about-us/autonomous-status
+"The introduction of transparency in the valuation of answer scripts has instilled
+confidence among students in the examination system under the autonomous scheme. The
+students have the option to go through their valued answer scripts, accompanied by
+another student/teacher of their choice, and apply for revaluation if they desire."
+
+Source: https://cit.edu.in/coe/exam-related-notification (April/May 2025 circular
+summary, outdated session): for students whose arrear results were declared on
+25.07.2025, "the Transparency Session and the Revaluation Process will be conducted."
+Students "can: View their valued answer scripts of the April-May 2025 Regular
+Examinations (Transparency Session), or Directly apply for Revaluation without viewing
+the scripts." Dates, timings and venue are stated in the circular PDF (not inspected):
+https://cit.edu.in/uploads/epdf_documents/c58c397ec8cd06dc760adcb1273c96f6.pdf
+Students with discrepancies are asked to approach the Controller of Examinations
+(CoE) Office within the stipulated time.
+Revaluation fee amounts and deadlines: Not found in the inspected official sources.
+
+9.2 Transparency/revaluation circulars - April/May 2026 session (PDFs not readable)
+- TRANSPERANCY CIRCULAR (arrear results published 13.07.2026):
+  https://cit.edu.in/uploads/epdf_documents/8f8230908dbada8644e07ec0fe75b73f.pdf
+- TRANSPARENCY SCHEDULE (arrear results published 13.07.2026):
+  https://cit.edu.in/uploads/epdf_documents/1af3050d0f9b1d5b353f00355654e5ac.pdf
+- TRANSPERANCY SCHEDULE (results published 30.06.2026):
+  https://cit.edu.in/uploads/epdf_documents/6120ee16dc51d1568a5df6e8b7233d41.pdf
+- TRANSPARENCY SESSION & REVALUATION - APRIL/MAY 2026:
+  https://cit.edu.in/uploads/epdf_documents/9e8d03957ddfc6d90ac7036b2cb591ec.pdf
+- TRANSPERANCY SCHEDULE (results published 09.06.2026):
+  https://cit.edu.in/uploads/epdf_documents/9824dcbf01f543668ccb94e067be00c9.pdf
+- CIRCULAR FOR TRANSPARENCY SESSION & REVALUATION - APRIL/MAY 2026 EXAMINATIONS
+  (results published 09.06.2026):
+  https://cit.edu.in/uploads/epdf_documents/1bfd7dc9a6bf8d488aca3657080c6400.pdf
+  (confirmed unreadable scanned PDF)
+- Revaluation Results of Apr/May 2026 Examinations (Regular & Arrear): per-programme
+  PDFs (B.E. CSE, ECE, EEE, MECH, CIVIL, AIDS; B.Tech. CHEMICAL, IT; M.E. CIVIL;
+  M.Sc AIML, DCS, DS, SS; MBA; MCA; Part Time Civil/EEE/Mech & Working Professionals)
+  are listed at https://cit.edu.in/coe/exam-related-notification
+
+9.3 Earlier revaluation/transparency material (OUTDATED sessions; listed on the same
+COE page): Revaluation results for Apr/May 2025, Nov/Dec 2024, Apr/May 2024, Nov/Dec
+2023 and Apr/May 2023; transparency circulars for results published 17.07.2025,
+25.07.2025, 06.06.2024, 09.05.2024, 01.03.2024, 05.03.2024, 24.01.2024, 19.12.2023.
+
+9.4 Supplementary examinations
+Fee circulars are published per session (Sections 3.1-3.5). Payment wording for
+Nov/Dec 2025 (outdated session): "All payments must be made only through electronic
+modes such as Online Transfer, GPay, NEFT, or IMPS. No cash payments will be accepted.
+Students are instructed to complete the payment within the stipulated time to avoid
+any inconvenience." Issued by: Controller of Examinations.
+Supplementary eligibility rules and fee amounts: Not found in the inspected readable
+sources.
+
+--------------------------------------------------------------------------------
+10. CURRICULUM AND SYLLABUS REGULATIONS
+--------------------------------------------------------------------------------
+Source page: https://cit.edu.in/syllabus ("Regulations and Syllabi")
+The page is a table of programmes by year of regulation/syllabus. The site does not
+state which version applies to which batch and does not mark any version as
+superseded. Labels below: "LATEST LISTED" = the most recent year column that has a
+file for that programme on this page; "OLDER VERSION" = an earlier listing, which may
+be outdated for current batches (validity not stated by CIT).
+Note: the page header repeats the column "2021 - 22" twice; both are recorded as
+published. Some file names do not match their column year (flagged below).
+Base path for files: https://cit.edu.in/uploads/syllabus_document/
+
+B.E. Civil Engineering
+  2015-16 (OLDER VERSION): 1769146664_civil.pdf
+  2019-20 (OLDER VERSION): 1769146616_B_E__Civil.pdf
+  2023-24 (LATEST LISTED): 1767603638_B_E_CIVIL_ENGG_2023_10_07_2024.pdf
+B.E. Mechanical Engineering
+  2015-16 (OLDER VERSION): 1769148576_mechanical.pdf
+  2019-20 (OLDER VERSION): 1769148550_B_E__Mechanical.pdf
+  2023-24 (LATEST LISTED): 1769148466_B_E_MECHANICAL_Syllabus_16_07_24.pdf
+B.E. Electrical and Electronics Engineering
+  2015-16 (OLDER VERSION): 1769148743_BE_EEE_SYLLABUS.pdf
+  2019-20 (OLDER VERSION): 1769148721_EEE.pdf
+  2023-24 (LATEST LISTED): 1769148682_B_E__EEE_-_R_2023_UG_REGULAR_-_CURRICULUM_and_SYLLABI.pdf
+B.E. Computer Science and Engineering
+  2015-16 (OLDER VERSION): 1769157017_BE_CSE_SYLLABUS.pdf
+  2019-20 (OLDER VERSION; file name says 2022): 1769156941_CSE_Syllabus_Final_2022.pdf
+  2023-24 (LATEST LISTED): 1769156816_B_E_CSE_2023_Syllabus_(I_to_VIII).pdf
+B.Tech Chemical Engineering
+  2015-16 (OLDER VERSION): 1769157392_B_Tech_Chemical_Syllabus.pdf
+  2019-20 (OLDER VERSION): 1769157323_chemical.pdf
+  2023-24 (LATEST LISTED): 1769157193_B_E_B_Tech_Chemical_Engineering_2023_Institute_Template.pdf
+B.Tech Information Technology
+  2015-16 (OLDER VERSION): 1769157607_B_Tech__IT_SYLLABUS.pdf
+  2019-20 (OLDER VERSION; file name says 2022): 1769157555_BTech_IT_final_2022.pdf
+  2023-24 (LATEST LISTED): 1769157499_B_Tech_IT_R2023_Syllabus.pdf
+M.E. Construction Management
+  2015-16 (OLDER VERSION): 1769158334_ME_Construction_Management_Final.pdf
+  2019-20 (OLDER VERSION): 1769158275_2019_ME_Construction_Management_Final_2021_feb_.pdf
+  2023-24 (LATEST LISTED): 1769158224_5__PG_CM_2023_10_07_2024.pdf
+M.Sc. Software Systems
+  2015-16 (OLDER VERSION): 1769160497_M_Sc_SOFTWARE_SYSTEMS.pdf
+  2020-21 (LATEST LISTED; file name says 2022): 1769160432_MSc_Software_2022.pdf
+M.Sc. Data Science
+  2016-17 (OLDER VERSION): 1769160727_M_Sc_Data_Science_PDF.pdf
+  2021-22 (first column) (LATEST LISTED): 1769160608_2021-MSc_Data_Science.pdf
+M.Sc. Decision and Computing Sciences
+  2017-18 (OLDER VERSION): 1769161306_M_SC__Decision_Computer_Sciences.pdf
+  2022-23 (LATEST LISTED): 1769160956_22MDC_Curriculum_Final_Updated.pdf
+MCA
+  2018-19 (OLDER VERSION): 1769160150_MCA_Syllabus_-_2018.pdf
+  2020-21 (OLDER VERSION; file name says 2022): 1769160088_MCA_Syllabus_-_2022_final-cit.pdf
+  2023-24 (LATEST LISTED): 1769159974_MCA_2023_Syllabus_-_27-10-2023.pdf
+B.E. Electronics and Communication Engineering
+  2019-20 (OLDER VERSION): 1769156231_BE_ECE.pdf
+  2023-24 (LATEST LISTED): 1769156194_B_E_ECE_2023_Syllabus.pdf
+M.Sc. Artificial Intelligence and Machine Learning
+  2019-20 (LATEST LISTED): 1769161531_2019_Syllabus-AIML.pdf
+B.Tech Artificial Intelligence and Data Science
+  2021-22 (second column) (LATEST LISTED): 1769157729_AIDS_SYLLABI_2021_Final.pdf
+MBA
+  2021-22 (second column) (OLDER VERSION): 1769160370_MBA_Syllabus_2021-2022.pdf
+  2023-24 (LATEST LISTED): 1769160299_Syllabus_-_2023.pdf
+Programmes with no syllabus file on this page: B.E. Electronics Engineering (VLSI
+Design and Technology) - named on the homepage department card but no row on the
+syllabus page. Not found in the inspected official sources.
+
+10.1 Content read from one curriculum document
+Document: B.E. Computer Science and Engineering, REGULATIONS 2023 CHOICE BASED CREDIT
+SYSTEM (2023-24 column), first part of the PDF read (through Semester VI course
+content; the remainder, including Semester VI-VIII course syllabi and elective
+details beyond the tables, was not read).
+Source URL:
+https://cit.edu.in/uploads/syllabus_document/1769156816_B_E_CSE_2023_Syllabus_(I_to_VIII).pdf
+- Heading: "COIMBATORE INSTITUTE OF TECHNOLOGY, COIMBATORE - 641 014 (An Autonomous
+  Institution affiliated to ANNA UNIVERSITY, CHENNAI)".
+- Credits per semester (from the semester tables): I = 22, II = 23, III = 23, IV = 21,
+  V = 22, VI = 22, VII = 21, VIII = 12. Summary table: "TOTAL CREDITS 166".
+- Credit categories shown: HSC, BSC, ESC, PCC, PEC/OEC, EEC, MC (definitions given in
+  the document's summary: BSC Basic sciences, HSC Humanities and Social Sciences, ESC
+  Engineering sciences, PCC Professional Core, PEC Professional Elective, OEC Open
+  Elective Course, EEC Employability Enhancement Course, MC Mandatory Course).
+- Mandatory/other items in tables: Induction Programme (semester I and III tables),
+  Heritage of Tamils (1 credit), Tamils and Technology (1 credit), Project Work and
+  Viva-Voce (Semester VIII, 6 credits).
+- Open elective offerings and "Professional Electives for Major Verticals" (Web
+  Technology Frameworks, Cloud Computing Technologies, AI/ML/Data Science, Creative
+  Media) and a "Minor Vertical - Cyber Physical Systems" are listed.
+- This document contains curriculum and syllabi only in the portion read. Attendance,
+  internal assessment, grading and passing regulations: Not found in the inspected
+  portion of this document.
+
+CONFLICTS / INCONSISTENCIES FLAGGED (not resolved)
+(a) Industrial/in-plant training duration and credit:
+    - https://cit.edu.in/about-us/autonomous-status: "Four weeks of industrial training
+      is compulsory ... This has been in practice since 2009."
+    - B.E. CSE Regulations 2023 curriculum (Semester V table): "Inplant Training EEC
+      2 weeks ... 1" credit.
+    - Same document, course page: "INPLANT TRAINING L T P C 0 0 12 6".
+    The CSE document therefore shows both 1 credit (semester table) and 6 credits (course
+    page); the autonomous-status page states four weeks. Which applies to a given batch
+    is not stated. Both sources should be confirmed with the COE/Department.
+(b) Mini project: the autonomous-status page says a 2-credit mini project is offered in
+    semesters V and VI; the B.E. CSE R2023 semester tables read do not list a "mini
+    project" course (Semester VI lists "Innovation and Practices", 2 credits). Applicability
+    across regulations is not stated.
+(c) Syllabus page: two columns are both labelled "2021 - 22", and several file names
+    carry a year different from the column year (flagged above).
+
+--------------------------------------------------------------------------------
+11. ACADEMIC GOVERNANCE BODIES RELATED TO REGULATIONS
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/about-us/autonomous-status
+Statutory bodies named: Governing Council, Academic Council, Finance Committee, Board
+of Studies. Non-statutory bodies named: Planning and Evaluation Committee, Library
+Committee, Curriculum Development Cell, Examination Disciplinary Committee, Result
+Passing Board.
+Curriculum revision: "A thorough revision of syllabi every 4 years, or whenever
+necessary, and the introduction of elective courses as and when required to suit the
+needs of industry".
+Pages exist for Academic Council https://cit.edu.in/academic-council and Board of
+Studies https://cit.edu.in/board-of-studies (not inspected).
+Governing statutes: "Anna University Statutes 2023":
+https://cit.edu.in/uploads/epdf_documents/abf7a35da740b114023da0ab4df316b5.pdf
+(listed at https://cit.edu.in/others/anna-university-statutes; PDF not inspected).
+"Autonomous-Status" PDF: https://cit.edu.in/uploads/epdf_documents/ba69f7887ff1ade453186f4997d0ddd2.pdf
+(linked from the autonomous-status page; not inspected).
+
+--------------------------------------------------------------------------------
+12. ACADEMIC HOLIDAYS
+--------------------------------------------------------------------------------
+Not found in the inspected official sources (the Academic Calendar PDF was unreadable).
+
+--------------------------------------------------------------------------------
+13. IMPORTANT ACADEMIC DATES FOUND IN READABLE TEXT
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/ (News & Updates; the page shows day and month without a
+year; item titles refer to 2026) and https://cit.edu.in/coe/exam-related-notification
+- 22 Sep: I year Work schedule for B.E/ B.Tech/ MCA/ MBA/ WP posted (PDF not read).
+- 01 Oct: Examination Schedule - Nov / Dec 2026 Autonomous Examinations (Regular &
+  Arrear) posted (PDF not read).
+- 12 Oct: Supplementary Examinations Fee Circular - November/December 2026 Examinations
+  posted.
+- Results published 09.06.2026, 30.06.2026 and (arrear) 13.07.2026 for April/May 2026
+  examinations (as stated in circular titles).
+- Earlier: results published 17.07.2025 (regular) and 25.07.2025 (arrear) for
+  April/May 2025 (outdated); Commencement Ceremony circulars for 2024 and 2025:
+  https://cit.edu.in/uploads/epdf_documents/329b965ad282355692dd2cb1ddf74fc2.pdf (2024),
+  https://cit.edu.in/uploads/epdf_documents/42c00bb2bccfb5d8dab2f6fe0b68b27c.pdf (2025).
+Semester start/end dates, commencement of classes, internal test dates, holidays:
+Not found in the inspected official sources.
+
+--------------------------------------------------------------------------------
+14. MISSING INFORMATION SUMMARY
+--------------------------------------------------------------------------------
+- Academic calendar contents for any year (PDF unreadable); calendars for other years.
+- Semester start/end dates; academic holidays; internal test dates.
+- Contents of all examination timetables (Nov/Dec 2026 and earlier PDFs).
+- Minimum attendance percentage and condonation rules.
+- Internal assessment / end-semester mark split; minimum passing marks.
+- Grade scale, grade points, GPA/CGPA formula, degree classification.
+- Arrear limits and supplementary eligibility rules; revaluation fee and deadlines.
+- Contents of Anna University malpractice guidelines, PwD examination guidelines, Anna
+  University Statutes 2023, withdrawal and credit-transfer forms.
+- Regulations text for batches other than those whose curriculum PDFs were read
+  (only B.E. CSE R2023 was read, and only in part).
+
+--------------------------------------------------------------------------------
+15. SOURCE INVENTORY (ACCESS DATE: 15 OCTOBER 2026)
+--------------------------------------------------------------------------------
+Status key: READ = text inspected; UNREADABLE = fetched but no machine-readable text;
+LISTED = link recorded from an inspected page, not opened.
+
+1. Coimbatore Institute of Technology (CIT) - Home
+   https://cit.edu.in/ - READ
+   Missing: calendar dates, regulations.
+2. Academic Calendar (PDF)
+   https://cit.edu.in/uploads/file_manger/1782996798_20260702193056539.pdf - UNREADABLE
+   Missing: all content.
+3. Syllabus / Regulations and Syllabi
+   https://cit.edu.in/syllabus - READ
+   Missing: regulation text; batch-version mapping.
+4. B.E. CSE Regulations 2023 curriculum (PDF)
+   https://cit.edu.in/uploads/syllabus_document/1769156816_B_E_CSE_2023_Syllabus_(I_to_VIII).pdf
+   - READ (partial; truncated after Semester VI)
+   Missing: general academic regulations text, later semesters.
+5. Controller of Examinations Office (About)
+   https://cit.edu.in/coe/about-the-office-of-the-controller-of-examinations - READ
+6. Exam Related Notification
+   https://cit.edu.in/coe/exam-related-notification - READ
+   Missing: all linked PDFs' contents.
+7. COE Downloads
+   https://cit.edu.in/coe/downloads - READ
+8. Nov/Dec 2026 Autonomous Examinations schedule (PDF)
+   https://cit.edu.in/uploads/file_manger/1790864593_November-December_2026_Autonomous_Examinations.pdf
+   - UNREADABLE
+9. Circular for Transparency Session & Revaluation - April/May 2026 (PDF)
+   https://cit.edu.in/uploads/epdf_documents/1bfd7dc9a6bf8d488aca3657080c6400.pdf
+   - UNREADABLE
+10. Anna University Guidelines for Awarding Punishments to Malpractice Cases (PDF)
+   https://cit.edu.in/uploads/epdf_documents/ce91f281df4527aa4b23f5bc0e6770fd.pdf
+   - UNREADABLE
+11. Autonomous Status
+   https://cit.edu.in/about-us/autonomous-status - READ
+12. Anna University Statutes (page)
+   https://cit.edu.in/others/anna-university-statutes - READ (page only; PDF LISTED)
+13. Information for Students
+   https://cit.edu.in/students/information-for-students - READ (no academic
+   regulation content found)
+14. Other LISTED, not opened: Academic Council https://cit.edu.in/academic-council ;
+   Board of Studies https://cit.edu.in/board-of-studies ; Announcements
+   https://cit.edu.in/announcements ; Exam Fees Payment Portal
+   https://cit.edu.in/coe/exam-fees-payment-portal ; Anna University Statutes 2023 PDF;
+   Autonomous-Status PDF; Guidelines for PwD examinations PDF; all per-programme
+   syllabus PDFs other than item 4; all timetable, fee-circular and revaluation-result
+   PDFs listed in Sections 3 and 9.
+
+Coverage statement: This file is based on the pages and documents in the inventory
+above only. The full website has not been covered.
+================================================================================
+END OF FILE
+================================================================================

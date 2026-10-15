@@ -1,0 +1,499 @@
+================================================================================
+04_ADMISSIONS_AND_ELIGIBILITY
+Coimbatore Institute of Technology (CIT), Coimbatore - 641 014
+Dataset compiled from the official website https://cit.edu.in/ and its official linked PDFs
+Access date: 15 October 2026
+================================================================================
+
+READ FIRST - SCOPE AND METHOD
+- Only https://cit.edu.in/ pages and official documents linked from them were used.
+- Content is reproduced as published. Obvious formatting glitches were corrected without changing facts.
+- Where information was not found: "Not found in the inspected official sources."
+- Where official pages disagree, both values are recorded and flagged "CONFLICT".
+- This file does NOT claim coverage of the entire website. See Section 18 (Source Inventory) for exactly which pages and PDFs were inspected and which were not.
+- Primary academic year in the sources: 2026-27 (admission forms, fee tables, hostel tariff, brochures titled 2026). Some pages carry 2025-26 data; these are labelled.
+
+--------------------------------------------------------------------------------
+SECTION 1. ADMISSION ROUTES OVERVIEW
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/admission/admissions-details
+(Page heading as published: "Coimbatore Institute Of Technology, Coimbatore - 641014 Admissions 2025-26". The page also carries 2026 M.Sc. dates; see conflicts in Section 16.)
+
+Programme | Eligibility (as published) | Selection | Announcements
+B.E. / B.Tech. | As per Government of Tamilnadu Norms | Single Window Counseling by Directorate of Technical Education (DoTE), Chennai, as per their norms | By DoTE, Chennai, in leading daily newspapers and on the DoTE website
+M.E. | As per Anna University, Chennai Norms | Single Window Counseling by Anna University, Chennai | By Anna University, Chennai, in leading daily newspapers and on the Anna University website
+MBA / MCA | As per Directorate of Technical Education (DoTE) Norms | Single Window Counseling by DoTE, Chennai | By DoTE, Chennai, in leading daily newspapers and on the DoTE website
+5-Year Integrated M.Sc. (SS / DS / DCS / AIML) | See Section 5 | Institute-level process: HSC marks + internal entrance test (see Section 5) | Dates in Section 5
+
+Additional routes documented on the official site:
+- B.E. / B.Tech. Lateral Entry (second year) - admission documents reference "Allotment order from ACCET, Karaikudi" and "TNLEA Reg No" (Source: Lateral Entry PDF, https://cit.edu.in/uploads/epdf_documents/bc4bc39d58fb4cf9a0470a11e66ae2ba.pdf).
+- Part-Time B.E. for Diploma Holders (Civil, Mechanical, Electrical and Electronics) - admission notified by DoTE, Chennai; application forms from the Institute Office (Source: https://cit.edu.in/admission/post-graduate).
+- Ph.D. (full-time and part-time) - eligibility stated; admission procedure not documented (see Section 7).
+- First Graduate concession (fee waiver declaration form) - see Section 12.
+
+Programmes listed as offered
+Source: https://cit.edu.in/admission/admission-requirements and https://cit.edu.in/admission/admissions-details
+UG (Engineering):
+ 1. B.E. Civil Engineering
+ 2. B.E. Mechanical Engineering
+ 3. B.E. Electrical & Electronics Engineering
+ 4. B.E. Electronics & Communication Engineering
+ 5. B.E. Computer Science & Engineering
+ 6. B.Tech. Chemical Engineering
+ 7. B.Tech. Information Technology
+ 8. B.Tech. Artificial Intelligence and Data Science
+ 9. B.E. Electronics Engineering (VLSI Design and Technology)
+ NOTE: The B.E. Brochure 2026 marks B.E. Electronics Engineering (VLSI Design and Technology) "Since 2026" with an asterisk reading "* awaiting approval". The admission web pages list it without that qualification. Flagged in Section 16.
+PG:
+ - M.E. Construction Management
+ - MBA - Business Administration
+ - MCA - Computer Application
+Five-year Integrated M.Sc.:
+ - M.Sc. Software Systems
+ - M.Sc. Data Science
+ - M.Sc. Decision & Computing Sciences
+ - M.Sc. Artificial Intelligence and Machine Learning
+Part-Time B.E. (eight semesters): Mechanical Engineering, Civil Engineering, Electrical & Electronics Engineering (Source: https://cit.edu.in/admission/under-graduate and https://cit.edu.in/admission/post-graduate).
+
+Intake figures stated in official sources
+- Each 5-year integrated M.Sc. programme: approved intake of 60 seats (https://cit.edu.in/admission/msc-five-year-integrated).
+- MBA: Annual intake 60. MCA: Annual intake 45 (MBA/MCA Brochure 2026, https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf).
+- B.E./B.Tech. intake: Not found in the inspected official sources.
+
+Counselling code
+- Home page (https://cit.edu.in/) displays "TNEA COUNSELLING CODE" followed by the number 2007. (Read from page layout; the label and number are adjacent in the page text.)
+
+--------------------------------------------------------------------------------
+SECTION 2. GENERAL ELIGIBILITY vs PROGRAMME-SPECIFIC ELIGIBILITY - HOW THIS FILE IS ORGANISED
+--------------------------------------------------------------------------------
+- General eligibility = rules applying to a whole category of programmes (e.g., "UG Engineering" minimum qualifications) - Section 3.
+- Programme-specific eligibility = rules stated for a named programme (e.g., M.Sc. DCS alternative subject route, MCA, MBA, M.E., Part-Time B.E., Ph.D.) - Sections 4 to 7.
+- Government counselling norms (TNEA / DoTE / Anna University) are referenced by CIT but are NOT reproduced on the inspected CIT pages beyond what is quoted below.
+
+--------------------------------------------------------------------------------
+SECTION 3. UNDERGRADUATE (B.E. / B.Tech.) - GENERAL ELIGIBILITY AND PROCEDURE
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/admission/admission-requirements (academic year not stated on this page)
+
+3.1 Minimum qualifications - UG Programmes (Engineering)
+- A pass in HSC (Academic) with Maths, Physics and Chemistry (OR)
+- A pass in HSC (Vocational Stream) with Engineering Vocational subjects and any one or two of related subjects (Maths, Physics and Chemistry) (OR)
+- Diploma in one of the Engineering Courses (Civil, Mechanical, Electrical or Electronics) (OR)
+- Any other Equivalent qualification approved by the State Board of Technical Education / Higher Secondary Board of Tamilnadu.
+- Candidates belonging to communities other than SC/ST should have passed the qualifying examination in not more than two appearances. Candidates belonging to SC/ST should have passed the qualifying examination in not more than three appearances.
+
+3.2 Minimum marks (as published)
+- "For SC/ST candidates, a mere pass in the qualifying examination will suffice."
+- Candidates belonging to communities other than SC/ST should have obtained the following minimum percentage of marks:
+ A) H.S.C. (Academic) and other equivalent candidates:
+   OC - 45% average in the related subjects
+   BC - 40% average in the related subjects
+   MBC & DNC - 40% average in the related subjects
+   SC/ST - 40% average in the related subjects
+ B) H.S.C. (Vocational) candidates: OC 45%; BC 40%; MBC & DNC 40%; SC/ST 40% (average in the related subjects)
+ C) Diploma holders: OC 45%; BC 40%; MBC & DNC 40%; SC/ST 40% (average in the related subjects)
+ CONFLICT (within the same page): the page first says a mere pass suffices for SC/ST candidates, and then lists "SC/ST - 40%" in each category table. Not resolved; see Section 16.
+- "Related subjects" are not defined on the inspected page beyond the HSC subject list above.
+
+3.3 Age limit
+- "No Age Limit" (https://cit.edu.in/admission/admission-requirements).
+
+3.4 Selection route (B.E./B.Tech. first year)
+- Single Window Counseling by DoTE, Chennai (https://cit.edu.in/admission/admissions-details).
+- The page https://cit.edu.in/admission/under-graduate describes admission "through TNEA counselling" in its search-engine description; the page body states "students are allocated to their specific branches during the initial counseling process". The admission paperwork refers to "TNEA Application No." (Aided call letter PDF).
+- Minimum cut-off marks, rank cut-offs or seat matrix: Not found in the inspected official sources.
+
+3.5 Programme descriptions on the UG page (https://cit.edu.in/admission/under-graduate)
+- B.E. (full-time, eight semesters): Civil; Mechanical; Electrical & Electronics; Electronics & Communication; Computer Science and Engineering; Electronics Engineering (VLSI Design and Technology).
+- B.Tech. (full-time): Chemical Engineering (eight semesters); Information Technology; Artificial Intelligence and Data Science.
+- Part-Time B.E. (eight semesters, for Engineering Diploma holders): Mechanical, Civil, Electrical & Electronics.
+- Programme-specific subject or marks requirements for individual B.E./B.Tech. branches (beyond Section 3.1/3.2): Not found in the inspected official sources.
+
+3.6 B.E./B.Tech. admission process at CIT (Aided call letter and checklist PDF, academic year 2026-27)
+Source: https://cit.edu.in/uploads/epdf_documents/9d5b2df7049df80cc599e8f75bf25faa.pdf (linked as "Download Application (Aided)" on https://cit.edu.in/admission/first-year-be-btech-admissions)
+- A seat is "provisionally allotted"; admission "is purely provisional and shall be confirmed only after: (1) Verification of all original certificates; (2) Establishment of your eligibility for admission; (3) Approval by the Directorate of Technical Education (DoTE), Government of Tamil Nadu, and Anna University, Chennai."
+- Candidates report on the scheduled date for certificate verification; reporting time options on the template: 9.00 a.m. / 11.00 a.m. / 2.00 p.m.; venue: Auditorium, Coimbatore Institute of Technology. (Date left blank in the template.)
+- Admission fee is paid at the time of admission "only by UPI payment / Debit, credit cards / Internet banking."
+- "Failure to report on the scheduled date and time with the required documents and prescribed fees may result in forfeiture of the admission opportunity."
+- False information: forfeiture of admission at any stage; debarment from pursuing studies for three years; legal action (as stated in the document).
+
+--------------------------------------------------------------------------------
+SECTION 4. LATERAL ENTRY (B.E./B.Tech. SECOND YEAR) AND PART-TIME B.E.
+--------------------------------------------------------------------------------
+4.1 Lateral Entry (academic year 2026-27)
+Source: https://cit.edu.in/uploads/epdf_documents/bc4bc39d58fb4cf9a0470a11e66ae2ba.pdf
+- Provisional selection for Second Year B.E./B.Tech. (Lateral entry); "valid and final only after the establishment of complete eligibility by the actual verification of all certificates in original and subject to the approval of the Directorate of Technical Education and the Anna University."
+- Report with original certificates and fees at 9:00 am, Main building conference hall (date left blank in template).
+- Fees payable at admission (as stated in the letter): Aided courses - Rs. 33350 per year; S.S. courses - Rs. 56,000 per semester; B.Tech (AI & DS) - Rs. 53,000 per semester.
+- "The fees, once paid, will not be refunded. No extension of time for admission will be granted under any circumstances."
+- Eligibility for lateral entry (diploma in Civil, Mechanical, Electrical or Electronics is listed as a UG qualification in Section 3.1). Programme-specific lateral-entry marks cut-off: Not found in the inspected official sources.
+- A separate notice "Hostel facilities for Lateral Entry Students" (dated 01 Oct on the home page; https://cit.edu.in/uploads/file_manger/1790864881_Hostel_-_Lateral_Entry.pdf) is linked from the home page; it was NOT opened.
+
+4.2 Part-Time B.E. Programmes for Diploma Holders
+Source: https://cit.edu.in/admission/post-graduate (academic year not stated)
+- Eight-semester part-time B.E. in Civil Engineering, Mechanical Engineering, Electrical and Electronics Engineering.
+- Eligibility conditions: the diploma must have been completed at least two years prior to the date of application; the applicant's place of employment should be located within a 90 km radius of the institute.
+- Class timings: evening hours, 6:00 PM to 9:00 PM.
+- Selection (weighted merit): Academic Performance (75%) based on diploma examination results; Work Experience (25%): 2 marks for each year of relevant professional experience; 1 mark for each year after diploma completion without employment.
+- Application process: DoTE, Chennai publishes admission notifications in leading newspapers; application forms can be obtained directly from the Institute Office during the notified period.
+- Part-time B.E. fees: see Section 11 (listed as "PTBE / B.E. for Working Professionals").
+
+--------------------------------------------------------------------------------
+SECTION 5. FIVE-YEAR INTEGRATED M.Sc. PROGRAMMES
+--------------------------------------------------------------------------------
+Sources: https://cit.edu.in/admission/msc-five-year-integrated ; https://cit.edu.in/admission/msc-admissions ; M.Sc. Brochure 2026 (https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf) ; M.Sc. Admission Brochure (https://cit.edu.in/uploads/epdf_documents/f7bccfc900ef6e3f02902e14643a91f5.pdf)
+Offered by the Department of Computing. Approved intake: 60 seats each. The M.Sc. Brochure and the M.Sc. Admission Brochure PDF contain identical text.
+
+5.1 Eligibility - M.Sc. Software Systems (SS) / Data Science (DS) / Artificial Intelligence and Machine Learning (AIML)
+- A pass in HSC (or equivalent) examination with Mathematics, Physics, and Chemistry as subjects is required.
+- Candidates (other than SC/ST) must have a minimum aggregate of 70% in Mathematics + Physics + (Chemistry or Computer Science).
+- Note on the page: this does not mean 70% in each subject individually; the requirement is based on the total combined marks. Example given: out of 300 marks (100 per subject), a minimum of 210 marks in total.
+- The website page 5-year integrated page and the brochures state the 70% aggregate applies to candidates "other than SC/ST". A numeric minimum for SC/ST candidates: Not found in the inspected official sources (the "pass in HSC with Mathematics, Physics and Chemistry" condition is stated for all).
+
+5.2 Eligibility - M.Sc. Decision and Computing Sciences (DCS) (programme-specific; two routes)
+Route 1:
+- A pass in HSC (or equivalent) with Mathematics, Physics, and Chemistry as subjects.
+- Candidates (other than SC/ST) must have a minimum aggregate of 70% in Mathematics + Physics + (Chemistry or Computer Science).
+Route 2 (OR):
+- A pass in HSC / equivalent exam with one subject from Category A and two subjects from Category B as the subjects of study.
+ CATEGORY A - Mathematics / Applied Mathematics / Statistics / Business Mathematics / Business Mathematics & Statistics.
+ CATEGORY B - Commerce / Economics / Accountancy / Computer Science.
+- Candidates (other than SC/ST) with an aggregate of 70% and above in the three subjects in total (one from Category A and two from Category B) only need to apply.
+(The brochure describes DCS as "Ideal for Science & Commerce Students".)
+
+5.3 Entrance examination and selection (stated on the M.Sc. page)
+- Two-stage evaluation: (1) Higher Secondary Examination performance - marks in the qualifying board examination are considered; (2) Institute-Level Entrance Examination - eligible candidates must appear for an internal entrance test conducted by the institute.
+- Note: "The examination center is located only in Coimbatore."
+- Syllabus, pattern, duration or weightage of the entrance test or interview: Not found in the inspected official sources.
+
+5.4 M.Sc. 2026 application details and important dates
+Source: https://cit.edu.in/admission/msc-admissions
+- Application Closing Date: 25 May 2026
+- Announcement of Shortlisted Candidates: 1 June 2026
+- Entrance Test followed by Interview (Same day): 7 June 2026 to 10 June 2026
+- Announcement of final selected candidates: 13 June 2026
+- Last date for Fees Payment: 19 June 2026
+- "Final Selection List for M.Sc. Admissions 2026" is linked as a PDF: https://cit.edu.in/uploads/epdf_documents/9f87606c5ee900aa58eac713b4a8a321.pdf (NOT opened; contents not recorded).
+CONFLICT: https://cit.edu.in/admission/admissions-details lists the same schedule but gives "Last date for Fees Payment: 22 June 2026". Both recorded; see Section 16.
+
+5.5 M.Sc. application form / online application link
+- A downloadable application form or online application portal for the M.Sc. programmes: Not found in the inspected official sources (only the closing date and the Admission Brochure PDF were found).
+
+--------------------------------------------------------------------------------
+SECTION 6. POSTGRADUATE PROGRAMMES (M.E., MCA, MBA)
+--------------------------------------------------------------------------------
+Sources: https://cit.edu.in/admission/post-graduate ; https://cit.edu.in/admission/admission-requirements ; https://cit.edu.in/admission/admissions-details
+
+6.1 M.E. (full-time, four semesters)
+- Disciplines listed on the PG page: Civil Engineering. The Admission Requirements page lists M.E. - Construction Management.
+- Eligibility (PG page): "Applicants must possess a B.E. degree in the relevant specialization from Anna University or any other recognized equivalent institution."
+- Eligibility table (Admission Requirements page): M.E. - Construction Management: "B.E. / B.Tech. in Civil Engineering (Or) Civil Engineering with any specialisation (Or) Civil and 'any specialisation'."
+- Selection: Single Window Counseling by Anna University, Chennai (Admissions Details page).
+- Financial support: "Students admitted to the full-time M.E. programme who have qualified in the GATE examination may be considered for a Government of India stipend of Rs. 12,400 per month, subject to the availability of central funding." (PG page; the figure appears there as shown, with the rupee symbol.)
+- Minimum marks for M.E.: Not found in the inspected official sources.
+- Note: the search-engine description of the PG page mentions "TANCET or GATE"; the page body itself mentions GATE only in the stipend context. No M.E. entrance exam name is given in the page body.
+
+6.2 Master of Computer Applications (MCA) - two-year, full-time
+- Eligibility: "Candidates must hold a three-year degree such as BCA or B.Sc. (Computer Science/Information Technology) with Mathematics as a subject, securing a minimum of 50% aggregate marks (45% for reserved categories)."
+- Selection: Single Window Counseling by DoTE, Chennai (Admissions Details page). Entrance exam name for MCA: Not found in the inspected official sources.
+- 2026 admission date: "MCA Admission date: 14.08.2026" (PG page).
+- Application form: https://cit.edu.in/uploads/epdf_documents/6267fdca5210ace6256fc8a39242f4d8.pdf ("Download MCA Application Form 2026-2027") - NOT opened; contents not recorded.
+
+6.3 Master of Business Administration (MBA) - two-year (four semesters), full-time
+- Eligibility: "Applicants must have a recognized Bachelor's degree of at least three years duration with 50% marks (45% for reserved categories). B.E./B.Tech graduates and AMIE holders with a minimum of two years of work experience are also eligible to apply." The programme is described as "open to graduates from all academic backgrounds".
+- Selection: Single Window Counseling by DoTE, Chennai (Admissions Details page). The MBA admission pack refers to a "TANCET Application No.", "TANCET Mark Sheet" and an "Allotment order from DOTE".
+- 2026 admission date: "MBA admission date: 17.08.2026" (PG page).
+- Application form (admission pack): https://cit.edu.in/uploads/epdf_documents/556140b45c919ef2fe734122b0b39658.pdf (opened; see Sections 8 and 9).
+- NOTE ON PAGE HEADING: the PG page heading reads "MBA and MBA ADMISSIONS 2026" as published (apparent duplicate label); the date line beneath names both MCA and MBA.
+- MBA reporting: "present with all your original certificates and fees ... 10.30 am/ 11.30 am/ 2.00 p.m at the Main Building Conference Hall" (date blank in template). "The fees, once paid, will not be refunded. No extension of time for admission will be granted under any circumstances."
+- MBA specialisations listed in the MBA/MCA Brochure: Financial Management; Marketing Management; Human Resource Management; Operations Management; Information Systems Management; integrated with Digital Technologies and Data Analytics and AI.
+
+6.4 Seat/application "official application links" for PG
+- Download MBA Application Form 2026-2027: https://cit.edu.in/uploads/epdf_documents/556140b45c919ef2fe734122b0b39658.pdf
+- Download MCA Application Form 2026-2027: https://cit.edu.in/uploads/epdf_documents/6267fdca5210ace6256fc8a39242f4d8.pdf
+- An online application portal for MBA/MCA/M.E.: Not found in the inspected official sources.
+
+--------------------------------------------------------------------------------
+SECTION 7. RESEARCH PROGRAMMES (Ph.D.)
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/admission/post-graduate (academic year not stated)
+- Engineering disciplines: both full-time and part-time Ph.D. registrations are available in Civil Engineering; Mechanical Engineering; Electrical and Electronics Engineering; Electronics and Communication Engineering; Chemical Engineering; Computer Science and Engineering; Information Technology.
+- Eligibility: "Applicants must hold an M.E. or M.Tech degree in the corresponding field."
+- Applied Chemistry: a part-time Ph.D. programme is offered "for candidates with an M.Phil in Applied Chemistry or Chemistry."
+- Application procedure, entrance test/interview, minimum marks, fees, deadlines for Ph.D.: Not found in the inspected official sources.
+
+Research fellowship (related, not an admission rule)
+Source: https://cit.edu.in/research/research-policy
+- "Qualified research scholars are eligible for a fellowship of Rs. 20,000 per month for up to three years, with additional stipends for those with valid GATE scores." (Page text; rupee symbol shown as published.)
+- Not verified: the linked Research Promotion Policy PDF (https://cit.edu.in/uploads/epdf_documents/9374f3b49e49e2e7dd60b93f12892430.pdf) was NOT opened.
+
+--------------------------------------------------------------------------------
+SECTION 8. APPLICATION PROCEDURE AND OFFICIAL APPLICATION LINKS
+--------------------------------------------------------------------------------
+8.1 B.E. / B.Tech. 2026-27 forms
+Page 1: https://cit.edu.in/admission/under-graduate (heading "B.E. / B.Tech. ADMISSIONS 2026 - APPLICATION FORMS")
+ - Application Form 2026-27 (Aided): https://cit.edu.in/uploads/epdf_documents/7ff28219f901943d4ce61638a51d7c4a.pdf
+ - Application Form 2026-27 (Self Supporting): https://cit.edu.in/uploads/epdf_documents/5390e2969d6437f7f2b8ee9e3697626e.pdf
+ - Application Form 2026-27 (Lateral Entry): https://cit.edu.in/uploads/epdf_documents/2f35f162e0084b720b15c6c5a2d93846.pdf
+ - First Graduate Form: https://cit.edu.in/uploads/epdf_documents/7b09dc81a9ba80ba76a437e95738bdbd.pdf
+Page 2: https://cit.edu.in/admission/first-year-be-btech-admissions (heading "B.E. / B.TECH. ADMISSIONS 2026 - 2027 APPLICATION FORMS")
+ - Aided: https://cit.edu.in/uploads/epdf_documents/9d5b2df7049df80cc599e8f75bf25faa.pdf (opened)
+ - Self Supporting: https://cit.edu.in/uploads/epdf_documents/bb31aebd099cf228ca2284d5f71ce011.pdf (not opened)
+ - Lateral Entry: https://cit.edu.in/uploads/epdf_documents/bc4bc39d58fb4cf9a0470a11e66ae2ba.pdf (opened)
+ - First Graduate: https://cit.edu.in/uploads/epdf_documents/1c34154a29f8824cd3cf7577f16a7b93.pdf (not opened)
+CONFLICT / NOTE: The two pages give different file URLs for forms with identical labels. Only the Page-2 Aided and Lateral Entry files were opened. The Page-1 files were not opened, so their equivalence is not verified.
+Page-2 instructions (as published): "All the First Year B.E. / B.Tech. students are required to submit the appropriate admission form during the admission process." "Submit the completed form with all necessary documents at the time of admission. Ensure all information is accurate. Forms without complete details will not be accepted. For any clarification, feel free to contact the Admissions Office."
+Observation from the opened Aided and Lateral Entry PDFs: these are admission-day packs (call letter, document checklist, student particulars, declarations, affidavits, fee slip). They are not pre-counselling online application forms. The official counselling portal (TNEA/DoTE) link: Not found in the inspected official sources on CIT pages.
+
+8.2 M.Sc.
+ - Application form / online link: Not found in the inspected official sources. Admission Brochure: https://cit.edu.in/uploads/epdf_documents/f7bccfc900ef6e3f02902e14643a91f5.pdf
+
+8.3 MBA / MCA
+ - See Section 6.4.
+
+8.4 Part-time B.E.
+ - Forms from the Institute Office during the DoTE-notified period (PG page). No download link found.
+
+8.5 Published brochure links (home page "Course Brochure" section)
+ - BE Brochure 2026: https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+ - MSc Brochure 2026: https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf
+ - MCA / MBA Brochure 2026: https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf
+ Brochure contents relevant to admissions: B.E. Brochure - programme list with start years and admission contact only (no eligibility, dates or fees). M.Sc. Brochure - eligibility (Section 5). MBA/MCA Brochure - programme descriptions, intake, specialisations and admission contact only (no eligibility, dates or fees).
+
+--------------------------------------------------------------------------------
+SECTION 9. REQUIRED CERTIFICATES AND DOCUMENTS (ACADEMIC YEAR 2026-27)
+--------------------------------------------------------------------------------
+9.1 B.E./B.Tech. First Year - Aided
+Source: https://cit.edu.in/uploads/epdf_documents/9d5b2df7049df80cc599e8f75bf25faa.pdf
+Documents to be produced (originals with two sets of photocopies), per the call letter:
+ 1. Provisional Allotment Order / Selection Letter
+ 2. Class X (SSLC) Mark Sheet
+ 3. Class XII (HSC) Mark Sheet or Equivalent Examination Mark Sheet
+ 4. Transfer Certificate (TC)
+ 5. Conduct Certificate
+ 6. Community Certificate (for BC/BCM/MBC/DNC/SC/SCA/ST candidates) in the prescribed format
+ 7. Nativity Certificate (if applicable)
+ 8. Income Certificate (if applicable for scholarship purposes)
+ 9. Migration Certificate (for candidates from Boards other than the Tamil Nadu State Board, if applicable)
+ 10. Eligibility Certificate (for candidates from other States/Universities, wherever applicable)
+ 11. Aadhaar Card
+ 12. Passport-size colour photographs (6 copies)
+ 13. Medical Fitness Certificate (if applicable)
+ 14. First Graduate Certificate and Joint Declaration (if applicable)
+ 15. Special Category Certificates (Sports/Ex-Servicemen/Differently Abled, etc.), if applicable
+ 16. Student's particulars form
+Office checklist in the same PDF (Check List I, II, III bunch): Allotment order from TNEA, Chennai; Community Certificate; +2, +1 and 10th mark sheets; Transfer Certificate; photocopy of Aadhaar card; original First Graduate Certificate (if applicable); original joint declaration of First Graduate; Certificate of Physical Fitness; Student's Particulars form; affidavit by the student (notary public); affidavit by the parent/guardian (notary public); joint declaration by parent/guardian and candidate (form issued by CIT); declaration by the student (form issued by CIT). Candidates are advised to produce five attested copies of the allotment order (stated as "TNEA 2025" in the PDF), +2, +1 and 10th mark sheets, Transfer Certificate, Community Certificate and First Graduate Certificate (if applicable).
+NOTE: the PDF refers to "Allotment order (TNEA 2025)" within a 2026-27 pack, as published.
+Bunch order in the same PDF: First bunch (all originals): TNEA allotment order, Community Certificate, 10th/11th/+2 mark sheets, TC, Aadhaar photocopy. Second bunch: photocopy of allotment order (first graduate students), original First Graduate Certificate (to include the candidate's father, mother, brother & sister, paternal grandfather, paternal grandmother, maternal grandfather, maternal grandmother), original joint declaration of first graduate, brother/sister undertaking form (first graduate students only). Third bunch: Certificate of physical fitness, Student's particulars 2026-27, affidavit by student, affidavit by parent/guardian (notary public), joint declaration, declaration by student. Fourth bunch: Fees remittance slip, photocopy of allotment order, photocopy of Community Certificate (SC/ST only) (Aided courses only), photocopy of First Graduate Certificate, photocopy of joint declaration (first graduate students only).
+UMIS entry data required includes: EMIS-ID, name as on certificate and Aadhaar, date of birth, community/caste and certificate number, Aadhaar number, first-graduate status and certificate number, special quota (7.5 Category / Ex-Serviceman / Freedom Fighter), differently-abled status, contact and family details, annual family income, income certificate number, student bank account details, and course/admission details.
+
+9.2 B.E./B.Tech. Second Year Lateral Entry (2026-27)
+Source: https://cit.edu.in/uploads/epdf_documents/bc4bc39d58fb4cf9a0470a11e66ae2ba.pdf
+Originals in order: Allotment order from ACCET, Karaikudi; Mark list of S.S.L.C. or equivalent; Mark list of H.S.C. (Lateral Entry Diploma Holder); Diploma examination mark lists of all semesters (or consolidated mark sheet); Diploma certificate of the State Board of Technical Education & Training, Tamilnadu (or Provisional Certificate May - 2026); Transfer Certificate (from the head of the institution last studied); First Graduate Certificate & Joint Declaration Form; original Community Certificate; Certificate of Physical Fitness & Declaration Form; Student's Particulars form (with passport-size photos of candidate and parents); Cash Remittance Slip; photocopy of Allotment order; Aadhaar card photocopy.
+Also required (bunches): affidavit by student and by parent/guardian (notary public), joint declaration by parent/guardian and candidate (issued by CIT), declaration by the student (issued by CIT), fees remittance slip, photocopies of allotment order, Community Certificate (SC/ST only, Aided courses only) and First Graduate documents.
+
+9.3 MBA (2026-27)
+Source: https://cit.edu.in/uploads/epdf_documents/556140b45c919ef2fe734122b0b39658.pdf
+Originals: Allotment order from DOTE; 10th and 12th mark sheets; TANCET mark sheet; Transfer Certificate; UG consolidated mark sheet or UG all-semester mark sheets; UG Provisional Certificate (only for 2026 passed-out candidates); original Community Certificate "with Gopuram seal"; Certificate of Physical Fitness & Declaration Form; Student's Particulars Form (with passport-size photo); Joint Declaration by Parent/Guardian and Student; Declaration by the Student; Undertaking, Affidavit by Student and Parent (notary public); fee remittance slip; photocopy of Aadhaar Card; photocopy of DOTE allotment order.
+Undertaking (as published): the student will produce the consolidated mark sheet of all semesters, or provisional or degree certificate, before the commencement of the first assessment test of MBA (I semester); otherwise admission is cancelled.
+
+9.4 MCA, M.E., M.Sc., Part-Time B.E., First Graduate and Self-Supporting packs
+ - Document lists: Not found in the inspected official sources (corresponding PDFs not opened, or not published on the inspected pages).
+
+9.5 Hostel admission documents
+Source: https://cit.edu.in/admission/hostel-fees
+ - Physical Fitness Certificate; G-Form for Admission Details; photocopy of college fee receipt; photocopy of Aadhaar card; passport size photo - 2 Nos.; parents' passport size photo - 2 Nos.; photocopy of Indian bank passbook (if available).
+ - Students are instructed to open an Indian Bank account at their nearest branch; if unable, bring the necessary documents to the Indian Bank branch located on the CIT campus.
+
+--------------------------------------------------------------------------------
+SECTION 10. DEADLINES AND ADMISSION SCHEDULES (ONLY AS PUBLISHED)
+--------------------------------------------------------------------------------
+Academic year 2026-27 (admission year 2026):
+- M.Sc. (5-year integrated): application closing 25 May 2026; shortlist 1 June 2026; entrance test followed by interview 7 June 2026 to 10 June 2026; final selection 13 June 2026; last date for fees payment 19 June 2026 (msc-admissions page) / 22 June 2026 (admissions-details page) - CONFLICT.
+- MCA: admission date 14.08.2026 (https://cit.edu.in/admission/post-graduate).
+- MBA: admission date 17.08.2026 (https://cit.edu.in/admission/post-graduate).
+- B.E./B.Tech. first year, lateral entry, M.E., part-time B.E.: reporting date/time fields in the PDFs are blank templates. TNEA/DoTE/Anna University counselling schedules: Not found in the inspected official sources.
+- Scholarship applications: within 30 days of the institute reopening or the date of admission, whichever is later, submitted to the Principal's Office (https://cit.edu.in/admission/financial-aids).
+- Home page notice (22 Sep, not opened): "I year Work schedule for B.E/ B.Tech/ MCA/ MBA/ WP" - https://cit.edu.in/uploads/file_manger/1790073816_DOC-20260922-WA0074.pdf. Academic Calendar link (not opened): https://cit.edu.in/uploads/file_manger/1782996798_20260702193056539.pdf.
+Admissions for any later academic year (2027-28): Not found in the inspected official sources.
+
+--------------------------------------------------------------------------------
+SECTION 11. ADMISSION-RELATED FEES (OFFICIALLY LISTED)
+--------------------------------------------------------------------------------
+11.1 Application fee / registration fee / entrance test fee
+ - Not found in the inspected official sources.
+
+11.2 Tuition fees, academic year 2026-27
+Source: https://cit.edu.in/admission/tuition-fees (amounts in Rs, as published)
+B.E./B.Tech. Aided - Counselling (per year): I Year 33350; Lateral Entry 33350; II Year 31735; III Year 31735; IV Year 35035.
+B.E./B.Tech. Self-Supporting - Counselling: (I Term / II Term)
+ I Year 56000 / 36000; Lateral Entry 56000 / 36000; II Year 54585 / 36390; III Year 54585 / 36390; IV Year 50205 / 33470.
+B.Tech. Artificial Intelligence (Self-Supporting) - Counselling: (I Term / II Term)
+ I Year 53000 / 34000; Lateral Entry 53000 / 34000; II Year 51585 / 34390; III Year 51585 / 34390; IV Year 47205 / 31470.
+MCA: I Year 59360 (I Term) / 38240 (II Term); II Year 59163 / 39442.
+MBA (per semester): I 1,08,900; II 1,02,300; III 1,05,815; IV 1,02,300.
+M.Sc. (SS, DS, DCS, AIML) (per semester): I 86,060; II 77,600; III 78,365; IV 77,600; V 78,655; VI 77,300; VII 79,655; VIII 77,300; IX 84,565; X 72,600.
+PTBE / B.E. for Working Professionals (per semester): I 17,900; II 10,200; III 14,960; IV 10,000; V 14,960; VI 10,000; VII 15,040.
+M.E. (per semester): I 40,250; II 27,600; III 38,900; IV 28,950.
+Note: the first table on the page is headed "Degree - B.E. / B.TECH AIDED - COUNselLING" and the self-supporting tables are headed "SF - COUNSELLING"; the Lateral Entry PDF states S.S. courses Rs. 56,000 "per semester" while the tuition page labels these amounts as "I Term"/"II Term". Terms/semesters are not separately defined on the page.
+Which self-supporting B.E./B.Tech. branches the "B.E / B.TECH - COUNSELLING (SF)" row covers: not stated on the page beyond the heading.
+
+11.3 Tuition fees, academic year 2025-26 (published on the same page, for reference)
+B.E./B.Tech. (Aided): I Year 33,350; Lateral Entry 33,350; II Year 31,735; III Year 31,735; IV Year 33,035.
+B.E./B.Tech. IT (Un-Aided - Counselling): I Year 88,550; Lateral Entry 88,550; II Year 86,775; III Year 86,775; IV Year 77,775.
+B.Tech. Artificial Intelligence (Un-Aided - Counselling): I Year 83,550; Lateral Entry 83,550; II Year 81,775; III Year 81,775; IV Year 72,775.
+MCA: I Year 91,950; II Year 94,005.
+MBA (per semester): I 1,08,900; II 1,02,300; III 1,05,815; IV 1,02,300.
+M.Sc. (per semester): I 83,860; II 72,600; III 76,165; IV 72,600; V 76,455; VI 72,300; VII 74,455; VIII 72,300; IX 79,465; X 72,600.
+PTBE / B.E. for Working Professionals (per semester): I 17,900; II 10,200; III 14,960; IV 10,000; V 14,960; VI 10,000; VII 13,040.
+M.E. (per semester): I 40,250; II 27,600; III 38,900; IV 28,950.
+These differ from 2026-27 for several rows; they are different academic years, not treated as a conflict.
+
+11.4 Fee amounts stated in admission documents (2026-27)
+ - B.E./B.Tech. Aided first year: Rs. 33,350 per year (Aided call letter and fee remittance slip).
+ - MBA: Rs. 1,08,900 per semester (MBA fees remittance slip).
+ - Lateral entry: Aided Rs. 33,350 per year; S.S. courses Rs. 56,000 per semester; B.Tech (AI & DS) Rs. 53,000 per semester (fee slip and letter).
+ - Payment mode for tuition/admission fee: UPI payment / Debit, Credit Cards / Internet Banking (Aided call letter; MBA letter). Fee portal link on the site: https://portal.cit.edu.in/mob (not opened).
+ - Refund: "The fees, once paid, will not be refunded." (MBA and Lateral Entry letters.)
+
+11.5 Hostel tariff, academic year 2026-27
+Source: https://cit.edu.in/uploads/epdf_documents/0cc8349bda094389b4f2ec4ff96bf691.pdf (linked from https://cit.edu.in/admission/hostel-fees). Amounts in Rs as published. Units beyond "Rs." and term split are not labelled in the PDF.
+Caution deposit (Refundable): Rs. 10,000, payable at the first time of hostel admission.
+BOYS HOSTEL (Hostel fee / Mess fee / Total / Term I / Term II):
+ I Year Diploma: 65,000 / 35,000 / 1,00,000 / 50,000 + 10,000 (Caution Deposit) / 50,000
+ II & III Year Diploma: 45,000 / 35,000 / 80,000 / 52,000 / 28,000
+ I Year B.E./B.Tech., MSc. & PG (Single Room): 90,000 / 35,000 / 1,25,000 / 62,500 + 10,000 (Caution Deposit) / 62,500
+ I Year B.E./B.Tech., MSc. & PG (Double Room): 65,000 / 35,000 / 1,00,000 / 50,000 + 10,000 (Caution Deposit) / 50,000
+ II Year B.E./B.Tech., MSc. & PG (Single Room): 90,000 / 35,000 / 1,25,000 / 81,000 / 44,000
+ II Year PG (Double Room): 65,000 / 35,000 / 1,00,000 / 65,000 / 35,000
+ II Year B.E./B.Tech., MSc. (Double Room): 70,000 / 35,000 / 1,05,000 / 68,000 / 37,000
+ III Year B.E./B.Tech.: 45,000 / 35,000 / 80,000 / 52,000 / 28,000
+ Final Year B.E./B.Tech.: 55,000 / 35,000 / 90,000 / 59,000 / 31,000
+GIRLS HOSTEL:
+ I Year Diploma: 55,000 / 35,000 / 90,000 / 45,000 + 10,000 (Caution Deposit) / 45,000
+ II & III Year Diploma: 55,000 / 35,000 / 90,000 / 59,000 / 31,000
+ I Year B.E./B.Tech., MSc.: 55,000 / 35,000 / 90,000 / 45,000 + 10,000 (Caution Deposit) / 45,000
+ II, III & Final Year B.E./B.Tech., MSc. & I & II year PG: 65,000 / 35,000 / 1,00,000 / 65,000 / 35,000
+Hostel payment mode: "UPI or NEFT only" (https://cit.edu.in/admission/hostel-fees).
+Hostel forms: Physical Fitness Form https://cit.edu.in/uploads/epdf_documents/29e729b21e768a71d17b05415d53d5ee.pdf ; Students Undertaking Form https://cit.edu.in/uploads/epdf_documents/16875bc399ddc69bd6104ce202f252dd.pdf ; Google Form link https://forms.gle/EtUzRtDvcWzScGxP8 (the forms and Google Form were not opened).
+
+--------------------------------------------------------------------------------
+SECTION 12. FINANCIAL AID, FEE CONCESSIONS AND FIRST GRADUATE CONCESSION
+--------------------------------------------------------------------------------
+Source: https://cit.edu.in/admission/financial-aids (academic year not stated) and the Aided call-letter PDF.
+- The page states that the institute facilitates "more than 24 government and private scholarship schemes" for undergraduate students.
+- Guidelines: scholarship applications on the prescribed forms to the Principal's Office within 30 days of the institute reopening or the date of admission, whichever is later; all certificates and documents enclosed (incomplete submissions not considered); a student may receive only one scholarship or fee concession at a time; continuation subject to the minimum attendance percentage stipulated by the University; serious misconduct (including strikes or ragging) results in immediate cancellation of benefits.
+- Government-sponsored schemes named: Adi Dravidar Welfare Scholarships (General and Higher Education Special); Backward Class (BC) Welfare Scholarships; Tamil Nadu Minority Merit-cum-Means Scholarship; Tamil Nadu Farmer Social Security Welfare Scholarship; Chief Minister's Scholarship and Arignar Anna Award; interstate scholarships (Pondicherry, Andaman & Nicobar Islands, Meghalaya, Shillong, Arunachal Pradesh, Tripura, Nagaland, Mizoram); AICTE Pragathi Scheme (women students); Physically Handicapped Scholarship and AICTE Saksham Scheme (differently-abled students); scholarships for children of teachers, defense personnel, ex-servicemen and deceased government employees; Gandhi Memorial and Merit-cum-Means Scholarships.
+- Mandatory fee concessions (as per Rule 92 - MER): students admitted under Government-Aided programmes are eligible for a full tuition fee waiver if they belong to Scheduled Castes (SC), Scheduled Tribes (ST), or Converted Christians from SC/ST communities; "This concession is granted irrespective of the family's annual income."
+- Private/trust-funded: Tamil Nadu Educational Trust; Oil and Natural Gas Corporation (ONGC); Siragugal Scholarship Scheme.
+- Scholarship values, eligibility conditions and forms: "students are encouraged to visit the Institute Office." (Not published on the page.)
+- First Graduate concession: a "First Graduate Concession - Declaration Form" is included in the Aided PDF. It requires TNEA/TNLEA application number, year of admission, college code, branch, First Graduate Certificate number, and details of family members (name, relationship, age, educational qualification, EMIS number of class 10th/11th/12th, whether ID proof attached). The declaration states liability for criminal prosecution and "return the amount equal to three time the tuition fee waived" if information is false. The concession's monetary scope is not stated in the PDF.
+- Home page links "Scholarships" to https://cit.edu.in/students/scholarship (not opened).
+
+--------------------------------------------------------------------------------
+SECTION 13. OTHER ADMISSION CONDITIONS STATED IN OFFICIAL DOCUMENTS
+--------------------------------------------------------------------------------
+Source: Joint Declaration (parent/guardian and student) in the Aided, Lateral Entry and MBA PDFs.
+- Minimum 75% attendance during the year (theory, drawing and practical separately) to be permitted for the final examination.
+- Minimum 50% marks in day-to-day valuation of work and progress to be permitted for the final examination.
+- Parent/guardian undertakes not to request transfer to another institution and to continue until completion of the course.
+- Anti-ragging: affidavits by student and parent/guardian referring to the AICTE regulation on Curbing the menace of Ragging in Higher Educational Institutions, 2009 (signed before a notary/oath commissioner).
+- Medical: "Certificate of Physical Fitness" issued by a registered medical practitioner not below the rank of Assistant Surgeon.
+
+--------------------------------------------------------------------------------
+SECTION 14. OFFICIAL ADMISSION OFFICE CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Sources: https://cit.edu.in/contact-us ; page footers across https://cit.edu.in/ ; brochures ; hostel page
+- Address: Civil Aerodrome Post, Coimbatore, Tamilnadu, India - 641 014
+- Email: principal.citoffice@cit.edu.in
+- General phone (header/footer): 94868 37757
+- B.E. / B.Tech. - Admissions: 94868 37757
+- M.Sc. - Admissions: 94883 16334 (the M.Sc. admission help desk number on https://cit.edu.in/admission/admissions-details is 9488316334)
+- Admission Coordinator named in the B.E., M.Sc. and MBA/MCA brochures: Mr. K. Dhandapani, 94883 16334. NOTE: the website labels 94883 16334 as the M.Sc. admissions number, while the B.E./B.Tech. and MBA/MCA brochures list the same number for "For Details on Admission". No separate MBA/MCA number is published.
+- Office telephone printed on admission PDFs: Tel: 0422 - 2574071, 2574072 (Aided/Lateral Entry/First-year forms).
+- Hostel admission: 0422 - 2573374; Email: cithostels@cit.edu.in (https://cit.edu.in/admission/hostel-fees).
+- Social media: facebook.com/profile.php?id=100090819705378 ; instagram.com/cit_1956 ; x.com/cit_1956 ; LinkedIn page of Coimbatore Institute of Technology ; YouTube @CIT-CBE (as listed in the site footer).
+- Office hours: Not found in the inspected official sources.
+
+--------------------------------------------------------------------------------
+SECTION 15. FREQUENTLY ASKED ADMISSION QUESTIONS
+--------------------------------------------------------------------------------
+- No FAQ page or FAQ section was found on the inspected admission pages.
+- Answers published as explicit notes on the M.Sc. eligibility page (reproduced as published):
+  Q (implied): Does the 70% aggregate mean 70% in each subject? A: "This does not mean 70% in each subject individually. The requirement is based on the total combined marks." Example: out of 300 marks (100 per subject), a minimum of 210 marks in total is required.
+  Q (implied): Where is the M.Sc. entrance examination held? A: "The examination center is located only in Coimbatore."
+- A Help Desk page exists (https://cit.edu.in/help-desk) but was NOT inspected.
+- Otherwise: Not found in the inspected official sources.
+
+--------------------------------------------------------------------------------
+SECTION 16. CONFLICTS, INCONSISTENCIES AND GAPS FLAGGED
+--------------------------------------------------------------------------------
+1. M.Sc. last date for fees payment: 19 June 2026 (https://cit.edu.in/admission/msc-admissions) vs 22 June 2026 (https://cit.edu.in/admission/admissions-details). Not resolved.
+2. https://cit.edu.in/admission/admissions-details is headed "Admissions 2025-26" and "5-Year Integrated M.Sc. Programmes 2025-2026" but contains 2026 M.Sc. dates, and states "MSc Admission List 2026 will be announced !!" while https://cit.edu.in/admission/msc-admissions links a "Final Selection List for M.Sc. Admissions 2026". Academic year labelling is inconsistent.
+3. UG minimum marks for SC/ST on https://cit.edu.in/admission/admission-requirements: "a mere pass ... will suffice" vs "SC/ST - 40% average in the related subjects" in each table.
+4. Application form file URLs differ between https://cit.edu.in/admission/under-graduate and https://cit.edu.in/admission/first-year-be-btech-admissions for forms with the same label; only some were opened.
+5. B.E. Electronics Engineering (VLSI Design and Technology): listed as offered on web pages; marked "awaiting approval" in the B.E. Brochure 2026.
+6. Admission phone 94883 16334 is labelled "M.Sc. - Admissions" on the website but is the named Admission Coordinator contact in the B.E. and MBA/MCA brochures.
+7. PG page heading reads "MBA and MBA ADMISSIONS 2026" (apparent duplicate); the date line names MCA and MBA.
+8. Admission Requirements page lists M.E. - Construction Management only; the PG page lists Civil Engineering as the M.E. discipline.
+9. Aided call letter (2026-27) refers to "Allotment order (TNEA 2025)" in the attested-copies instruction.
+10. Financial Aids page contains a duplicated "Academic and Disciplinary Requirements" bullet (recorded once above).
+11. Part-time B.E. eligibility bullets on the PG page include "Electrical and Electronics Engineering" as a stray bullet; it is treated here as belonging to the programme list.
+
+--------------------------------------------------------------------------------
+SECTION 17. INFORMATION NOT FOUND IN THE INSPECTED OFFICIAL SOURCES
+--------------------------------------------------------------------------------
+- Online application portal or application fee for any programme.
+- TNEA / DoTE / Anna University counselling dates and the official counselling website link (on CIT pages).
+- B.E./B.Tech. cut-off marks, rank cut-offs, seat matrix and branch-wise intake.
+- Programme-specific subject/marks requirements for individual B.E./B.Tech. branches beyond Section 3.
+- M.Sc. entrance test syllabus, pattern, weightage; M.Sc. application form link.
+- Ph.D. application procedure, selection process, fees and deadlines.
+- Entrance exam names for MCA and M.E. on page bodies.
+- Document lists for MCA, M.E., M.Sc., Part-Time B.E. and Self-Supporting packs (files not opened).
+- Admission schedules for academic year 2027-28.
+- Admission office working hours.
+- Verified FAQ content.
+
+--------------------------------------------------------------------------------
+SECTION 18. SOURCE INVENTORY (ACCESS DATE FOR ALL: 15 October 2026)
+--------------------------------------------------------------------------------
+Pages inspected
+1. Coimbatore Institute of Technology (CIT) - Home - https://cit.edu.in/
+2. Admission Requirements | CIT Coimbatore - https://cit.edu.in/admission/admission-requirements
+3. Undergraduate Admissions | CIT Coimbatore - https://cit.edu.in/admission/under-graduate
+4. Postgraduate Admissions | CIT Coimbatore - https://cit.edu.in/admission/post-graduate
+5. First Year BE BTech Admissions | CIT Coimbatore - https://cit.edu.in/admission/first-year-be-btech-admissions
+6. M.Sc 5 Year Integrated Programme | CIT - https://cit.edu.in/admission/msc-five-year-integrated
+7. M.Sc Admissions | CIT Coimbatore - https://cit.edu.in/admission/msc-admissions
+8. Admission Details | CIT Coimbatore - https://cit.edu.in/admission/admissions-details
+9. Tuition Fees Structure | CIT Coimbatore - https://cit.edu.in/admission/tuition-fees
+10. Hostel Fees Structure | CIT Coimbatore - https://cit.edu.in/admission/hostel-fees
+11. Financial Aids and Scholarships | CIT Coimbatore - https://cit.edu.in/admission/financial-aids
+12. Contact CIT Coimbatore | Get in Touch - https://cit.edu.in/contact-us
+13. Research Policy | CIT Coimbatore - https://cit.edu.in/research/research-policy
+
+Linked documents inspected (text extracted)
+14. B.E./B.Tech. Admission Brochure 2026 - https://cit.edu.in/uploads/generalfiles/1770898826_BE_Brochure_2026-compressed.pdf
+15. M.Sc. 5 Year Integrated Brochure (Updated) - https://cit.edu.in/uploads/generalfiles/1777391787_Updated_MSc_BROCHURE.pdf
+16. MBA / MCA Admission Brochure 2026 - https://cit.edu.in/uploads/generalfiles/1770898826_MBA_Brochure_2026-compressed.pdf
+17. M.Sc. (Five Year Integrated) - Admission Brochure - https://cit.edu.in/uploads/epdf_documents/f7bccfc900ef6e3f02902e14643a91f5.pdf
+18. B.E./B.Tech. Admission Call Letter (Aided) and admission pack 2026-27 - https://cit.edu.in/uploads/epdf_documents/9d5b2df7049df80cc599e8f75bf25faa.pdf
+19. MBA Admission pack 2026-27 - https://cit.edu.in/uploads/epdf_documents/556140b45c919ef2fe734122b0b39658.pdf
+20. B.E./B.Tech. Lateral Entry admission pack 2026-27 - https://cit.edu.in/uploads/epdf_documents/bc4bc39d58fb4cf9a0470a11e66ae2ba.pdf
+21. CIT Campus Hostel Tariff 2026-2027 - https://cit.edu.in/uploads/epdf_documents/0cc8349bda094389b4f2ec4ff96bf691.pdf
+
+Linked from inspected pages but NOT opened (not covered by this dataset)
+- Application forms (UG page): https://cit.edu.in/uploads/epdf_documents/7ff28219f901943d4ce61638a51d7c4a.pdf ; .../5390e2969d6437f7f2b8ee9e3697626e.pdf ; .../2f35f162e0084b720b15c6c5a2d93846.pdf ; .../7b09dc81a9ba80ba76a437e95738bdbd.pdf
+- Self Supporting and First Graduate forms (First Year page): .../bb31aebd099cf228ca2284d5f71ce011.pdf ; .../1c34154a29f8824cd3cf7577f16a7b93.pdf
+- MCA Application Form 2026-2027: .../6267fdca5210ace6256fc8a39242f4d8.pdf
+- Final Selection List for M.Sc. Admissions 2026: .../9f87606c5ee900aa58eac713b4a8a321.pdf
+- Hostel forms (Physical Fitness, Students Undertaking) and Google Form
+- Research Promotion Policy PDF: .../9374f3b49e49e2e7dd60b93f12892430.pdf
+- Home-page notices: Hostel facilities for Lateral Entry Students; I year Work schedule; Academic Calendar
+- Pages: https://cit.edu.in/help-desk ; https://cit.edu.in/students/scholarship ; https://cit.edu.in/admission/international-affairs-and-industry-collaboration ; https://cit.edu.in/admission/audited-statement-of-accounts ; https://cit.edu.in/admission/academic-collaboration ; https://cit.edu.in/others/reservation-roster ; https://cit.edu.in/announcements ; department pages (e.g., MBA, MCA, M.Sc. department pages) ; https://portal.cit.edu.in/mob (fees portal)
+
+Missing information summary: see Section 17.
+================================================================================
+END OF FILE
+================================================================================

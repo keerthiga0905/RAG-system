@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#8B0000" stroke="#DAA520" stroke-width="4"/>
+  <circle cx="50" cy="50" r="38" fill="#FFFFFF" stroke="#DAA520" stroke-width="2"/>
+  <path d="M50 22 L65 32 L65 68 L50 78 L35 68 L35 32 Z" fill="#8B0000"/>
+  <path d="M50 30 L59 36 L59 64 L50 70 L41 64 L41 36 Z" fill="#FFFFFF"/>
+  <text x="50" y="54" font-family="'Outfit', sans-serif" font-size="16" font-weight="bold" fill="#8B0000" text-anchor="middle">CIT</text>
+  <text x="50" y="93" font-family="'Outfit', sans-serif" font-size="8" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ESTD 1956</text>
+</svg>
