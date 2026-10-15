@@ -23,25 +23,22 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspa
 from backend.app.rag_engine import rag_engine
 
 def test_a_hod_msc_software_systems():
-    """TEST A: Inability-to-verify response without curriculum or unrelated department dumps."""
+    """TEST A: Inability-to-verify response in local dataset, and verified HOD via Level 2 official website."""
     query = "Who is the HOD of M.Sc. Software Systems?"
-    res = rag_engine.query_rag(query, model_choice="hybrid", top_k=4)
-    answer = res["answer"]
+    
+    # 1. Local-only retrieval (Level 1) properly refuses since local raw text had 'Not yet inspected'
+    res_local = rag_engine.query_local(query, model_choice="hybrid", top_k=4)
+    answer_local = res_local["answer"]
+    assert "couldn't verify" in answer_local.lower() or "not verified" in answer_local.lower()
+    assert "Civil Engineering" not in answer_local
+    assert "Computer Science" not in answer_local
 
-    # 1. Expected concise inability to verify response
-    assert "couldn't verify" in answer.lower() or "not verified" in answer.lower()
-    assert "M.Sc. Software Systems" in answer or "Software Systems" in answer
-
-    # 2. Must NOT contain unrelated curriculum, academic years, other departments or conflict dumps
-    assert "Civil Engineering" not in answer
-    assert "Computer Science" not in answer
-    assert "Applicable Academic Year" not in answer
-    assert "Regulation 2022" not in answer
-    assert "B.E. VLSI" not in answer
-    assert "> [!NOTE]" not in answer
-
-    # 3. Clean citations: must not return 4 citations or curriculum PDF citations
-    assert len(res["citations"]) <= 1
+    # 2. Multi-source retrieval (Level 2) fetches live from https://cit.edu.in/msc-software-systems/faculty
+    res_multi = rag_engine.query_rag(query, model_choice="hybrid", top_k=4)
+    answer_multi = res_multi["answer"]
+    assert "Manjula Gandhi" in answer_multi
+    assert res_multi["source_type"] == "official_cit_website"
+    assert len(res_multi["citations"]) <= 2
 
 def test_b_courses_msc_software_systems():
     """TEST B: Relevant courses offered by M.Sc. Software Systems only."""

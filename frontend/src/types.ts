@@ -6,6 +6,8 @@ export interface Citation {
   academic_year?: string | null;
   similarity_score?: number | null;
   text_snippet: string;
+  source_type?: 'dataset' | 'official_cit_website' | 'public_web' | string;
+  verified_date?: string | null;
 }
 
 export interface RetrievedEvidence {
@@ -38,6 +40,10 @@ export interface ChatMessage {
   conflict_notes?: string[];
   is_refusal?: boolean;
   category?: string;
+  source_type?: 'dataset' | 'official_cit_website' | 'public_web' | string;
+  confidence?: number;
+  retrieval_level?: number;
+  verified_at?: string | null;
 }
 
 export interface DocumentSummary {

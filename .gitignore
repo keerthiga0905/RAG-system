@@ -20,3 +20,4 @@ dist/
 *.local
 feedback_logs.json
 data/feedback_logs.json
+data/web_cache/

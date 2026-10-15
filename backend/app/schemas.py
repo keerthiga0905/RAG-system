@@ -1,6 +1,6 @@
 """
 Pydantic Schemas for CIT Knowledge AI Backend
-Validates input requests and structures API responses.
+Validates input requests and structures API responses for Multi-Source RAG.
 """
 
 from typing import List, Optional, Dict, Any
@@ -14,6 +14,8 @@ class Citation(BaseModel):
     academic_year: Optional[str] = None
     similarity_score: Optional[float] = None
     text_snippet: str
+    source_type: Optional[str] = "dataset"  # "dataset", "official_cit_website", "public_web"
+    verified_date: Optional[str] = None
 
 class ChatRequest(BaseModel):
     query: str = Field(..., min_length=2, max_length=500, description="Student question about CIT")
@@ -24,10 +26,14 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     answer: str
     citations: List[Citation]
-    retrieved_evidence: List[Dict[str, Any]]
+    source_type: str = "dataset"  # "dataset", "official_cit_website", "public_web"
+    confidence: float = 1.0
+    retrieval_level: int = 1  # Level 1 (Local), Level 2 (Official CIT Website), Level 3 (Public Web)
+    verified_at: Optional[str] = None
+    retrieved_evidence: List[Dict[str, Any]] = []
     category: Optional[str] = None
-    model_used: str
-    latency_ms: float
+    model_used: str = "hybrid"
+    latency_ms: float = 0.0
     has_conflicts: bool = False
     conflict_notes: List[str] = []
     is_refusal: bool = False

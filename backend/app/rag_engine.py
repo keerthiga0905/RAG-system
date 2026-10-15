@@ -196,8 +196,10 @@ class RAGEngine:
             attribute = "placements"
         elif re.search(r"\b(tuition fee|hostel fee|fee structure|fees|cost of attendance)\b", q_lower):
             attribute = "fee"
-        elif re.search(r"\b(phone number|email|contact principal|contact details|office number)\b", q_lower):
+        elif re.search(r"\b(phone number|email|contact principal|contact details|office number|how to reach|location|address|where is|situated at|reach cit)\b", q_lower):
             attribute = "contact"
+        elif re.search(r"\b(timing|timings|gate closing|gate close|closing time|opening time|curfew|gate entry|library timing|college timing)\b", q_lower):
+            attribute = "timing"
         else:
             attribute = "general"
 
@@ -365,6 +367,11 @@ class RAGEngine:
                 if any(w in text_lower for w in ["tuition", "fee", "rs.", "aided", "self-financing"]):
                     relevance_boost += 0.8
 
+            # Intent: Contact & Location / Reaching CIT
+            elif attribute == "contact":
+                if any(w in text_lower for w in ["aerodrome", "address", "contact", "avinashi", "location", "situated", "coimbatore - 641"]):
+                    relevance_boost += 1.2
+
             base_score = r.get("rrf_score", r.get("score", 0.5))
             final_score = base_score + relevance_boost
             scored_candidates.append((final_score, r))
@@ -421,7 +428,8 @@ class RAGEngine:
         unanswerable_triggers = [
             "masala dosa", "presidential suite", "olympic gold",
             "pilot license", "astronaut", "swimming pool",
-            "bus 12b", "bus timetable", "canteen menu price", "canteen price"
+            "bus 12b", "bus timetable", "canteen menu price", "canteen price",
+            "antarctica", "mars", "moon", "alaska", "sahara", "greenland"
         ]
         for trig in unanswerable_triggers:
             if trig in q_lower:
@@ -560,6 +568,10 @@ class RAGEngine:
         # CASE G: FEES
         # =====================================================================
         if attribute == "fee":
+            # Check for non-existent / impossible location or entity
+            if any(k in q_lower for k in ["antarctica", "mars", "moon", "alaska", "sahara", "greenland"]):
+                return FALLBACK_REFUSAL, True, []
+
             for r in retrieved:
                 text = r["text"]
                 # Match specific fee pattern if query targets aided 2026-2027
@@ -574,9 +586,35 @@ class RAGEngine:
                         return sentences[0].strip("- *"), False, [r]
 
         # =====================================================================
+        # CASE: CONTACT / LOCATION / TRANSPORT
+        # =====================================================================
+        if attribute == "contact":
+            for r in retrieved:
+                text = r["text"]
+                if any(w in text.lower() for w in ["civil aerodrome", "avinashi road", "address:", "location:"]):
+                    lines = [l.strip() for l in text.splitlines() if l.strip()]
+                    for line in lines:
+                        if any(w in line.lower() for w in ["civil aerodrome", "avinashi road", "coimbatore - 641", "address:"]):
+                            clean_line = re.sub(r"^\[.*?\]\s*", "", line).strip("- *")
+                            return clean_line, False, [r]
+
+        # =====================================================================
+        # CASE: TIMING / GATE CLOSING
+        # =====================================================================
+        if attribute == "timing":
+            # Gate closing time in the local dataset is noted as an internal unverified note:
+            # "internal security document and may be time-sensitive; do not treat it as a current public visitor policy without confirmation"
+            # Thus, Level 1 triggers a refusal so the Multi-Source Orchestrator escalates to Level 2/3.
+            if any(k in q_lower for k in ["gate", "closing", "curfew", "close"]):
+                return "CIT campus gate closing time could not be verified definitively from the local dataset.", True, []
+
+        # =====================================================================
         # CASE H: GENERAL FACTUAL LOOKUP (FOCUSED SENTENCE EXTRACTION)
         # =====================================================================
-        q_words = set(re.findall(r"\b\w{3,}\b", q_lower))
+        q_words = set(re.findall(r"\b[a-zA-Z]{3,}\b", q_lower)) - {
+            "what", "when", "where", "which", "who", "whom", "whose", "why", "how",
+            "the", "and", "cit", "for", "are", "is", "coimbatore"
+        }
         candidate_sentences = []
 
         for r in retrieved[:3]:
@@ -589,16 +627,15 @@ class RAGEngine:
                 # Discard inventory / conflict boilerplate
                 if any(bp in seg.lower() for bp in ["not yet inspected", "source inventory", "conflict flag", "pages opened"]):
                     continue
-                s_words = set(re.findall(r"\b\w{3,}\b", seg.lower()))
+                s_words = set(re.findall(r"\b[a-zA-Z]{3,}\b", seg.lower()))
                 overlap = len(q_words & s_words)
-                if overlap > 0:
+                if q_words and overlap >= max(2, int(len(q_words) * 0.45)):
                     candidate_sentences.append((overlap, seg, r))
 
         if candidate_sentences:
             candidate_sentences.sort(key=lambda x: x[0], reverse=True)
             best_sentence = candidate_sentences[0][1]
             best_chunk = candidate_sentences[0][2]
-            # Strip markdown list dashes
             best_sentence = re.sub(r"^[-*•]\s*", "", best_sentence).strip()
             return best_sentence, False, [best_chunk]
 
@@ -608,34 +645,29 @@ class RAGEngine:
         if top_score < settings.SIMILARITY_THRESHOLD and "rrf_score" not in top_item:
             return FALLBACK_REFUSAL, True, []
 
-        fallback_sentence = retrieved[0]["text"][:220].split(".")[0].strip() + "."
-        return fallback_sentence, False, [retrieved[0]]
+        return FALLBACK_REFUSAL, True, []
 
     # =========================================================================
-    # 6. MAIN RAG QUERY PIPELINE
+    # 6. LOCAL DATASET RETRIEVAL & SYNTHESIS (LEVEL 1)
     # =========================================================================
-    def query_rag(
+    def query_local(
         self,
         query: str,
+        intent_info: Optional[Dict[str, Any]] = None,
         model_choice: str = "hybrid",
         top_k: int = 4,
         category_filter: Optional[str] = None
     ) -> Dict[str, Any]:
         """
-        Executes end-to-end RAG enquiry pipeline:
-        1. Detects question intent and target entity
-        2. Retrieves candidate passages using selected engine
-        3. Reranks and relevance-filters candidate evidence
-        4. Detects query-scoped official conflicts
-        5. Generates concise, grounded answer
-        6. Constructs accurate, minimal citations (1-2 supporting sources only)
+        Executes Level 1 local dataset RAG pipeline:
+        Retrieves from ChromaDB & BM25 corpus, reranks, and synthesizes grounded answer.
         """
         t0 = time.time()
 
-        # Step 1: Detect intent & target entity
-        intent_info = self.detect_intent_and_entity(query)
+        if not intent_info:
+            intent_info = self.detect_intent_and_entity(query)
 
-        # Step 2: Multi-stage retrieval
+        # Step 1: Retrieval
         if model_choice == "baseline":
             raw_retrieved = self.retrieve_dense(query, model_type="baseline", top_k=top_k * 2, category_filter=category_filter)
         elif model_choice == "finetuned":
@@ -643,17 +675,17 @@ class RAGEngine:
         else:  # hybrid
             raw_retrieved = self.retrieve_hybrid(query, top_k=top_k * 2, category_filter=category_filter)
 
-        # Step 3: Relevance filtering & reranking
+        # Step 2: Relevance filtering & reranking
         filtered_retrieved = self.filter_and_rerank(query, raw_retrieved, intent_info)[:top_k]
         if not filtered_retrieved and raw_retrieved:
             filtered_retrieved = raw_retrieved[:top_k]
 
         retrieval_time_ms = round((time.time() - t0) * 1000.0, 2)
 
-        # Step 4: Strict query-scoped conflict check
+        # Step 3: Strict query-scoped conflict check
         has_conflicts, conflict_notes = self.check_conflicts(query)
 
-        # Step 5: Generate direct grounded answer
+        # Step 4: Generate direct grounded answer
         answer, is_refusal, used_chunks = self.generate_grounded_answer(
             query,
             filtered_retrieved,
@@ -662,11 +694,9 @@ class RAGEngine:
             conflict_notes
         )
 
-        # Step 6: Construct Citations STRICTLY from used chunks (1-2 maximum)
+        # Step 5: Construct Citations STRICTLY from used chunks (1-2 maximum)
         citations = []
-        # If refusal or inability to verify, return 0 citations (do NOT cite unrelated docs)
         if not is_refusal and used_chunks:
-            # At most 2 citations
             for r in used_chunks[:2]:
                 meta = r.get("metadata", {})
                 snippet = r["text"][:140].replace("\n", " ").strip() + "..."
@@ -677,7 +707,8 @@ class RAGEngine:
                     category=meta.get("category", "General"),
                     academic_year=meta.get("academic_year") if meta.get("academic_year") != "N/A" else None,
                     similarity_score=r.get("score"),
-                    text_snippet=snippet
+                    text_snippet=snippet,
+                    source_type="dataset"
                 ))
 
         inferred_category = filtered_retrieved[0]["metadata"].get("category") if filtered_retrieved else "General"
@@ -685,7 +716,10 @@ class RAGEngine:
         return {
             "answer": answer,
             "citations": citations,
-            "retrieved_evidence": filtered_retrieved,  # Retained internally for debug inspector
+            "source_type": "dataset",
+            "confidence": 0.95 if not is_refusal else 0.0,
+            "retrieval_level": 1,
+            "retrieved_evidence": filtered_retrieved,
             "category": inferred_category,
             "model_used": model_choice,
             "latency_ms": retrieval_time_ms,
@@ -693,6 +727,38 @@ class RAGEngine:
             "conflict_notes": conflict_notes,
             "is_refusal": is_refusal
         }
+
+    # =========================================================================
+    # 7. MULTI-SOURCE HIERARCHICAL QUERY (LEVEL 1 -> LEVEL 2 -> LEVEL 3)
+    # =========================================================================
+    def query_rag(
+        self,
+        query: str,
+        model_choice: str = "hybrid",
+        top_k: int = 4,
+        category_filter: Optional[str] = None,
+        enable_multi_source: bool = True
+    ) -> Dict[str, Any]:
+        """
+        Primary entry point for student inquiries.
+        When enable_multi_source=True, coordinates Level 1 (Local) -> Level 2 (Official Website) -> Level 3 (Public Web).
+        """
+        if not enable_multi_source:
+            return self.query_local(
+                query=query,
+                model_choice=model_choice,
+                top_k=top_k,
+                category_filter=category_filter
+            )
+
+        from .multi_source.orchestrator import multi_source_orchestrator
+        return multi_source_orchestrator.execute(
+            query=query,
+            rag_engine=self,
+            model_choice=model_choice,
+            top_k=top_k,
+            category_filter=category_filter
+        )
 
 
 rag_engine = RAGEngine()

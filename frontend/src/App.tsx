@@ -70,7 +70,11 @@ export const App: React.FC = () => {
         has_conflicts: data.has_conflicts,
         conflict_notes: data.conflict_notes,
         is_refusal: data.is_refusal,
-        category: data.category
+        category: data.category,
+        source_type: data.source_type,
+        confidence: data.confidence,
+        retrieval_level: data.retrieval_level,
+        verified_at: data.verified_at
       };
 
       setMessages(prev => [...prev, assistantMsg]);
