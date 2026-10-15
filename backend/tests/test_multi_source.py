@@ -36,6 +36,21 @@ def test_level2_official_cit_website_retrieval():
     assert any("cit.edu.in" in c.source_url for c in result.citations)
 
 
+def test_level2_faculty_members_msc_software_systems():
+    """Test Level 2: Listing faculty members for M.Sc. Software Systems from official website."""
+    query = "Who are the faculty members for M.Sc. Software Systems?"
+    res_dict = rag_engine.query_rag(query=query, model_choice="hybrid")
+    result = ChatResponse(**res_dict)
+    
+    assert result.source_type == "official_cit_website"
+    assert result.retrieval_level == 2
+    assert "Manjula Gandhi" in result.answer
+    assert "Saravanan" in result.answer
+    assert "Stanly Felix" in result.answer
+    assert len(result.citations) >= 1
+    assert any("faculty" in c.source_url.lower() for c in result.citations)
+
+
 def test_level3_campus_gate_closing_time():
     """Test Level 3: Campus timings / gate closing query without fabrication."""
     query = "What is the gate closing time at CIT?"

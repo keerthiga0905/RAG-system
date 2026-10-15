@@ -167,15 +167,24 @@ class CITWebsiteRetriever:
                 continue
 
             text = parsed["text"]
-            # Create passage chunk
+            inferred_category = "Departments and Faculty" if target_entity else "College Overview"
+            if any(k in url for k in ["hostel", "library", "transport", "sports"]):
+                inferred_category = "Campus Facilities and FAQs"
+            elif "admission" in url:
+                inferred_category = "Admissions and Eligibility"
+            elif "placement" in url:
+                inferred_category = "Placements and Career Development"
+
+            doc_title = f"{target_entity} Faculty Directory" if attribute in ["faculty", "hod"] and target_entity else (parsed["title"] or "CIT Official Information")
+
             chunk_data = {
                 "chunk_id": f"web_{int(time.time())}_{abs(hash(url)) % 10000}",
                 "text": text[:1800],  # Concise top body
                 "score": 0.88,
                 "metadata": {
-                    "document_title": parsed["title"],
+                    "document_title": doc_title,
                     "source_url": url,
-                    "category": "Official CIT Website",
+                    "category": inferred_category,
                     "source_type": "official_cit_website",
                     "verified_date": parsed["fetched_at"]
                 }
@@ -240,6 +249,37 @@ class CITWebsiteRetriever:
                 if m_hod:
                     name = m_hod.group(1).strip()
                     ans = f"The Head of the Department (In-charge) of {dept_name} is {name}."
+                    return ans, [ev]
+
+        # CASE: Faculty roster extraction from official website
+        if attribute == "faculty":
+            dept_name = target_entity or "the department"
+            for ev in evidence:
+                text = ev["text"]
+                lines = [line.strip() for line in text.splitlines() if line.strip()]
+                faculty_members = []
+                idx = 0
+                while idx < len(lines):
+                    line = lines[idx]
+                    # Check if line matches a faculty name pattern: Dr./Prof./Mr./Ms./Mrs. <Name>
+                    if re.match(r"^(?:Dr\.?|Prof\.?|Mr\.?|Ms\.?|Mrs\.?)\s+[A-Z][a-zA-Z\.\s]+$", line):
+                        if not any(noise in line.lower() for noise in ["principal", "office", "help desk"]):
+                            name = line
+                            designation = None
+                            if idx + 1 < len(lines):
+                                next_line = lines[idx + 1]
+                                if any(d in next_line for d in ["Professor", "Lecturer", "HOD", "Head", "Associate", "Assistant"]):
+                                    designation = next_line
+                                    idx += 1
+                            if designation:
+                                faculty_members.append(f"{name} - {designation}")
+                            else:
+                                faculty_members.append(name)
+                    idx += 1
+
+                if faculty_members:
+                    bullet_list = "\n".join([f"- {f}" for f in faculty_members])
+                    ans = f"Faculty members for {dept_name}:\n{bullet_list}"
                     return ans, [ev]
 
         return None

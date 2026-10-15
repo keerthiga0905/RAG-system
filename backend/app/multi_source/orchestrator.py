@@ -79,17 +79,21 @@ class MultiSourceOrchestrator:
                     citations = []
                     for r in used_chunks:
                         meta = r["metadata"]
+                        cat = meta.get("category", "Departments and Faculty")
+                        if cat == "Official CIT Website":
+                            cat = "Departments and Faculty"
                         citations.append(Citation(
                             chunk_id=r["chunk_id"],
-                            document_title=meta.get("document_title", "Official CIT Website"),
+                            document_title=meta.get("document_title", "Official CIT Records"),
                             source_url=meta.get("source_url", "https://cit.edu.in/"),
-                            category="Official CIT Website",
+                            category=cat,
                             text_snippet=r["text"][:140].replace("\n", " ") + "...",
                             source_type="official_cit_website",
                             verified_date=timestamp_str
                         ))
 
                     total_latency = round((time.time() - t0) * 1000.0, 2)
+                    top_cat = citations[0].category if citations else "Departments and Faculty"
                     return {
                         "answer": answer_text,
                         "citations": citations,
@@ -98,7 +102,7 @@ class MultiSourceOrchestrator:
                         "retrieval_level": 2,
                         "verified_at": timestamp_str,
                         "retrieved_evidence": level2_evidence,
-                        "category": "Official CIT Website",
+                        "category": top_cat,
                         "model_used": model_choice,
                         "latency_ms": total_latency,
                         "has_conflicts": False,

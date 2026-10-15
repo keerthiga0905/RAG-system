@@ -1,8 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { 
   Send, Sparkles, ExternalLink, AlertTriangle, 
-  Layers, ThumbsUp, ThumbsDown, BookOpen, Clock, ChevronRight, X,
-  CheckCircle2, Globe, Search
+  Layers, ThumbsUp, ThumbsDown, BookOpen, Clock, ChevronRight, X
 } from 'lucide-react';
 import type { ChatMessage, RetrievedEvidence } from '../types';
 
@@ -15,6 +14,10 @@ interface ChatInterfaceProps {
 }
 
 const SUGGESTED_QUESTIONS = [
+  {
+    category: "Departments & Faculty",
+    q: "Who are the faculty members for M.Sc. Software Systems?"
+  },
   {
     category: "Departments & Faculty",
     q: "Who is the HOD of M.Sc. Software Systems?"
@@ -34,10 +37,6 @@ const SUGGESTED_QUESTIONS = [
   {
     category: "Courses & Eligibility",
     q: "What is the eligibility for M.Sc. Software Systems?"
-  },
-  {
-    category: "Hostels & Campus Rules",
-    q: "What are the hostel facilities and curfew rules at CIT?"
   }
 ];
 
@@ -214,37 +213,6 @@ export const ChatInterface: React.FC<ChatInterfaceProps> = ({
                 </div>
 
                 <div className="message-bubble">
-                  {/* Multi-Source Provenance Badge */}
-                  {msg.sender === 'assistant' && msg.source_type && (
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.65rem', flexWrap: 'wrap' }}>
-                      {msg.source_type === 'dataset' && (
-                        <span className="source-type-badge source-type-dataset">
-                          <CheckCircle2 size={12} /> Source: CIT Knowledge Dataset
-                        </span>
-                      )}
-                      {msg.source_type === 'official_cit_website' && (
-                        <span className="source-type-badge source-type-official">
-                          <Globe size={12} /> Source: Official CIT Website
-                        </span>
-                      )}
-                      {msg.source_type === 'public_web' && (
-                        <span className="source-type-badge source-type-public">
-                          <Search size={12} /> Source: Public Web Search
-                        </span>
-                      )}
-                      {msg.confidence !== undefined && msg.confidence > 0 && (
-                        <span style={{ fontSize: '0.72rem', color: 'var(--text-muted)', fontWeight: 600 }}>
-                          • {Math.round(msg.confidence * 100)}% verified
-                        </span>
-                      )}
-                      {msg.verified_at && (
-                        <span style={{ fontSize: '0.7rem', color: 'var(--text-light)' }}>
-                          • Checked {msg.verified_at}
-                        </span>
-                      )}
-                    </div>
-                  )}
-
                   {/* Clean, Direct User-Facing Answer */}
                   <div style={{ whiteSpace: 'pre-wrap', lineHeight: '1.5' }}>{msg.text}</div>
 
@@ -263,12 +231,12 @@ export const ChatInterface: React.FC<ChatInterfaceProps> = ({
                     </div>
                   )}
 
-                  {/* Short, Relevant Citations (1-2 maximum) */}
+                  {/* Clean, Clickable References */}
                   {msg.citations && msg.citations.length > 0 && (
                     <div className="citations-container" style={{ marginTop: '0.65rem' }}>
                       <div className="citations-header">
                         <BookOpen size={13} />
-                        <span>{msg.citations.length === 1 ? 'Source:' : 'Sources:'}</span>
+                        <span>{msg.citations.length === 1 ? 'Reference:' : 'References:'}</span>
                       </div>
                       <div className="citations-list">
                         {msg.citations.map((cite, cIdx) => (
@@ -284,25 +252,10 @@ export const ChatInterface: React.FC<ChatInterfaceProps> = ({
                                 <span>{cite.document_title}</span>
                                 <ExternalLink size={12} />
                               </a>
-                              {cite.source_type === 'official_cit_website' && (
-                                <span className="citation-badge" style={{ color: '#1D4ED8', borderColor: '#BFDBFE' }}>Official Web</span>
-                              )}
-                              {cite.source_type === 'public_web' && (
-                                <span className="citation-badge" style={{ color: '#7E22CE', borderColor: '#E9D5FF' }}>Public Web</span>
-                              )}
-                              {cite.source_type === 'dataset' && (
-                                <span className="citation-badge" style={{ color: '#15803D', borderColor: '#BBF7D0' }}>Dataset</span>
-                              )}
                               {cite.academic_year && cite.academic_year !== 'N/A' && (
                                 <span className="citation-badge">
                                   <Clock size={10} style={{ marginRight: '3px' }} />
                                   {cite.academic_year}
-                                </span>
-                              )}
-                              {cite.verified_date && (
-                                <span className="citation-badge">
-                                  <Clock size={10} style={{ marginRight: '3px' }} />
-                                  {cite.verified_date}
                                 </span>
                               )}
                               <span className="citation-badge">{cite.category}</span>

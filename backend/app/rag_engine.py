@@ -186,6 +186,8 @@ class RAGEngine:
             attribute = "autonomy"
         elif re.search(r"\b(hod|head of (?:the )?department|department head|who heads|chairperson)\b", q_lower):
             attribute = "hod"
+        elif re.search(r"\b(faculty members|faculty member|list of faculty|professors|teachers|teaching staff|\bfaculty\b)\b", q_lower):
+            attribute = "faculty"
         elif re.search(r"\b(when was|established in|establishment year|founded in|started in|year of establishment)\b", q_lower):
             attribute = "established_year"
         elif re.search(r"\b(what courses|which courses|courses (?:does|offered)|programmes (?:offered|available)|degrees offered)\b", q_lower):
@@ -324,9 +326,9 @@ class RAGEngine:
 
             relevance_boost = 0.0
 
-            # Intent: HOD
-            if attribute == "hod":
-                # Curriculum PDFs do NOT contain HOD information
+            # Intent: HOD and Faculty
+            if attribute == "hod" or attribute == "faculty":
+                # Curriculum PDFs do NOT contain HOD/faculty information
                 if "curriculum" in text_lower and ("syllabus" in text_lower or "regulations" in text_lower):
                     relevance_boost -= 0.5
                 # Boost chunks containing faculty, department head, or HOD keywords
@@ -496,6 +498,28 @@ class RAGEngine:
             # If current HOD was requested and not verified in available sources:
             ans = f"I couldn't verify the current HOD of {dept_name} from the available official CIT sources."
             return ans, True, []
+
+        # =====================================================================
+        # CASE: FACULTY LIST
+        # =====================================================================
+        if attribute == "faculty":
+            dept_name = target_entity or "the department"
+            faculty_list = []
+            for r in retrieved:
+                text = r["text"]
+                if target_entity and target_entity.lower() not in text.lower():
+                    continue
+                for line in text.splitlines():
+                    if re.match(r"^(?:Dr\.?|Prof\.?|Mr\.?|Ms\.?|Mrs\.?)\s+[A-Z]", line.strip()):
+                        clean = re.sub(r"^[-*•]\s*", "", line).strip()
+                        if clean and clean not in faculty_list:
+                            faculty_list.append(clean)
+            if len(faculty_list) >= 3:
+                formatted = "\n".join([f"- {f}" for f in faculty_list])
+                return f"Faculty members for {dept_name}:\n{formatted}", False, [retrieved[0]]
+
+            # Return refusal to trigger Level 2 official website retrieval if not in local dataset
+            return f"Faculty members for {dept_name} could not be verified from the collected local dataset.", True, []
 
         # =====================================================================
         # CASE B: ESTABLISHED YEAR
