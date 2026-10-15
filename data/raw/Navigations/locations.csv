@@ -1,0 +1,9 @@
+location_id,name,aliases,category,latitude,longitude,coordinate_source,verification_status,notes
+CIT001,Campus Main Gate,Main Entrance; Avinashi Road Gate; Main Gate,entrance,11.02920,77.02715,Google Maps / OpenStreetMap,verified_simulated_gmap,Main campus entrance on Avinashi Road near Civil Aerodrome post.
+CIT002,Main Building / Main Block,Main Block; Administrative Block; Principal Office,academic_building,11.02850,77.02720,Google Maps / OpenStreetMap,verified_simulated_gmap,Historic administrative block housing the Principal office and central administration.
+CIT003,Library Block,Central Library; Library,library,11.02845,77.02675,Google Maps / OpenStreetMap,verified_simulated_gmap,Central multi-floor library located immediately west of the Main Building.
+CIT004,Computing Block,Department of Computing; Computer Technology Block; MCA Block,academic_building,11.02779,77.02741,Google Maps / Mapcarta listing,verified_simulated_gmap,Houses Department of Computing and M.Sc. software laboratories.
+CIT005,IT Block,Information Technology Block; Department of IT,academic_building,11.02790,77.02680,Google Maps / OpenStreetMap,verified_simulated_gmap,Dedicated Information Technology academic and laboratory building.
+CIT006,CIT Auditorium,Auditorium; Central Auditorium; Open Air Auditorium,auditorium,11.02830,77.02780,Google Maps / OpenStreetMap,verified_simulated_gmap,Primary institutional auditorium for cultural symposiums and major gatherings.
+CIT007,MSc/MBA Block,Management Studies Block; MBA Block; PG Block,academic_building,11.02720,77.02750,Google Maps / OpenStreetMap,verified_simulated_gmap,Postgraduate block for Master of Business Administration and integrated courses.
+CIT008,Mechanical & Civil Engineering Block,Civil Block; Mechanical Block; Core Engineering,academic_building,11.02730,77.02690,Google Maps / OpenStreetMap,verified_simulated_gmap,Core engineering block housing Civil and Mechanical engineering laboratories.

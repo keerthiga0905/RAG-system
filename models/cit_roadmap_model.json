@@ -1,0 +1,1146 @@
+{
+  "model_name": "cit_campus_roadmap_navigator",
+  "version": "1.0.0",
+  "map_id": "map_cit_campus",
+  "locations": {
+    "CIT001": {
+      "id": "CIT001",
+      "name": "Campus Main Gate",
+      "aliases": [
+        "Main Entrance",
+        "Avinashi Road Gate",
+        "Main Gate"
+      ],
+      "category": "entrance",
+      "lat": 11.0292,
+      "lon": 77.02715,
+      "notes": "Main campus entrance on Avinashi Road near Civil Aerodrome post."
+    },
+    "CIT002": {
+      "id": "CIT002",
+      "name": "Main Building / Main Block",
+      "aliases": [
+        "Main Block",
+        "Administrative Block",
+        "Principal Office"
+      ],
+      "category": "academic_building",
+      "lat": 11.0285,
+      "lon": 77.0272,
+      "notes": "Historic administrative block housing the Principal office and central administration."
+    },
+    "CIT003": {
+      "id": "CIT003",
+      "name": "Library Block",
+      "aliases": [
+        "Central Library",
+        "Library"
+      ],
+      "category": "library",
+      "lat": 11.02845,
+      "lon": 77.02675,
+      "notes": "Central multi-floor library located immediately west of the Main Building."
+    },
+    "CIT004": {
+      "id": "CIT004",
+      "name": "Computing Block",
+      "aliases": [
+        "Department of Computing",
+        "Computer Technology Block",
+        "MCA Block"
+      ],
+      "category": "academic_building",
+      "lat": 11.02779,
+      "lon": 77.02741,
+      "notes": "Houses Department of Computing and M.Sc. software laboratories."
+    },
+    "CIT005": {
+      "id": "CIT005",
+      "name": "IT Block",
+      "aliases": [
+        "Information Technology Block",
+        "Department of IT"
+      ],
+      "category": "academic_building",
+      "lat": 11.0279,
+      "lon": 77.0268,
+      "notes": "Dedicated Information Technology academic and laboratory building."
+    },
+    "CIT006": {
+      "id": "CIT006",
+      "name": "CIT Auditorium",
+      "aliases": [
+        "Auditorium",
+        "Central Auditorium",
+        "Open Air Auditorium"
+      ],
+      "category": "auditorium",
+      "lat": 11.0283,
+      "lon": 77.0278,
+      "notes": "Primary institutional auditorium for cultural symposiums and major gatherings."
+    },
+    "CIT007": {
+      "id": "CIT007",
+      "name": "MSc/MBA Block",
+      "aliases": [
+        "Management Studies Block",
+        "MBA Block",
+        "PG Block"
+      ],
+      "category": "academic_building",
+      "lat": 11.0272,
+      "lon": 77.0275,
+      "notes": "Postgraduate block for Master of Business Administration and integrated courses."
+    },
+    "CIT008": {
+      "id": "CIT008",
+      "name": "Mechanical & Civil Engineering Block",
+      "aliases": [
+        "Civil Block",
+        "Mechanical Block",
+        "Core Engineering"
+      ],
+      "category": "academic_building",
+      "lat": 11.0273,
+      "lon": 77.0269,
+      "notes": "Core engineering block housing Civil and Mechanical engineering laboratories."
+    }
+  },
+  "edges": [
+    {
+      "edge_id": "EDGE001",
+      "from_id": "CIT001",
+      "to_id": "CIT002",
+      "path_type": "paved_avenue",
+      "distance_m": 80.0,
+      "walk_seconds": 65,
+      "direction": "South",
+      "landmark": "Palm-lined entrance boulevard",
+      "notes": "Main Gate to Main Block portico"
+    },
+    {
+      "edge_id": "EDGE002",
+      "from_id": "CIT002",
+      "to_id": "CIT001",
+      "path_type": "paved_avenue",
+      "distance_m": 80.0,
+      "walk_seconds": 65,
+      "direction": "North",
+      "landmark": "Palm-lined entrance boulevard",
+      "notes": "Main Block to Main Gate"
+    },
+    {
+      "edge_id": "EDGE003",
+      "from_id": "CIT002",
+      "to_id": "CIT003",
+      "path_type": "covered_corridor",
+      "distance_m": 45.0,
+      "walk_seconds": 35,
+      "direction": "West",
+      "landmark": "Administrative lawn corridor",
+      "notes": "Main Block to Library Block"
+    },
+    {
+      "edge_id": "EDGE004",
+      "from_id": "CIT003",
+      "to_id": "CIT002",
+      "path_type": "covered_corridor",
+      "distance_m": 45.0,
+      "walk_seconds": 35,
+      "direction": "East",
+      "landmark": "Administrative lawn corridor",
+      "notes": "Library Block to Main Block"
+    },
+    {
+      "edge_id": "EDGE005",
+      "from_id": "CIT002",
+      "to_id": "CIT004",
+      "path_type": "quadrangle_walkway",
+      "distance_m": 90.0,
+      "walk_seconds": 75,
+      "direction": "South-West",
+      "landmark": "Central Quadrangle and fountain",
+      "notes": "Main Block to Computing Block"
+    },
+    {
+      "edge_id": "EDGE006",
+      "from_id": "CIT004",
+      "to_id": "CIT002",
+      "path_type": "quadrangle_walkway",
+      "distance_m": 90.0,
+      "walk_seconds": 75,
+      "direction": "North-East",
+      "landmark": "Central Quadrangle and fountain",
+      "notes": "Computing Block to Main Block"
+    },
+    {
+      "edge_id": "EDGE007",
+      "from_id": "CIT002",
+      "to_id": "CIT006",
+      "path_type": "paved_walkway",
+      "distance_m": 70.0,
+      "walk_seconds": 55,
+      "direction": "South-East",
+      "landmark": "East administrative wing",
+      "notes": "Main Block to Auditorium"
+    },
+    {
+      "edge_id": "EDGE008",
+      "from_id": "CIT006",
+      "to_id": "CIT002",
+      "path_type": "paved_walkway",
+      "distance_m": 70.0,
+      "walk_seconds": 55,
+      "direction": "North-West",
+      "landmark": "East administrative wing",
+      "notes": "Auditorium to Main Block"
+    },
+    {
+      "edge_id": "EDGE009",
+      "from_id": "CIT003",
+      "to_id": "CIT005",
+      "path_type": "departmental_walkway",
+      "distance_m": 60.0,
+      "walk_seconds": 50,
+      "direction": "South",
+      "landmark": "Library garden and reading park",
+      "notes": "Library to IT Block"
+    },
+    {
+      "edge_id": "EDGE010",
+      "from_id": "CIT005",
+      "to_id": "CIT003",
+      "path_type": "departmental_walkway",
+      "distance_m": 60.0,
+      "walk_seconds": 50,
+      "direction": "North",
+      "landmark": "Library garden and reading park",
+      "notes": "IT Block to Library"
+    },
+    {
+      "edge_id": "EDGE011",
+      "from_id": "CIT004",
+      "to_id": "CIT005",
+      "path_type": "connecting_corridor",
+      "distance_m": 65.0,
+      "walk_seconds": 52,
+      "direction": "West",
+      "landmark": "Server room and computer center lawn",
+      "notes": "Computing Block to IT Block"
+    },
+    {
+      "edge_id": "EDGE012",
+      "from_id": "CIT005",
+      "to_id": "CIT004",
+      "path_type": "connecting_corridor",
+      "distance_m": 65.0,
+      "walk_seconds": 52,
+      "direction": "East",
+      "landmark": "Server room and computer center lawn",
+      "notes": "IT Block to Computing Block"
+    },
+    {
+      "edge_id": "EDGE013",
+      "from_id": "CIT004",
+      "to_id": "CIT007",
+      "path_type": "tree_lined_path",
+      "distance_m": 65.0,
+      "walk_seconds": 50,
+      "direction": "South",
+      "landmark": "Postgraduate seminar lawn",
+      "notes": "Computing Block to MSc/MBA Block"
+    },
+    {
+      "edge_id": "EDGE014",
+      "from_id": "CIT007",
+      "to_id": "CIT004",
+      "path_type": "tree_lined_path",
+      "distance_m": 65.0,
+      "walk_seconds": 50,
+      "direction": "North",
+      "landmark": "Postgraduate seminar lawn",
+      "notes": "MSc/MBA Block to Computing Block"
+    },
+    {
+      "edge_id": "EDGE015",
+      "from_id": "CIT005",
+      "to_id": "CIT008",
+      "path_type": "inter_department_walkway",
+      "distance_m": 70.0,
+      "walk_seconds": 55,
+      "direction": "South",
+      "landmark": "Central workshop pavilion",
+      "notes": "IT Block to Mechanical & Civil Block"
+    },
+    {
+      "edge_id": "EDGE016",
+      "from_id": "CIT008",
+      "to_id": "CIT005",
+      "path_type": "inter_department_walkway",
+      "distance_m": 70.0,
+      "walk_seconds": 55,
+      "direction": "North",
+      "landmark": "Central workshop pavilion",
+      "notes": "Mechanical & Civil Block to IT Block"
+    },
+    {
+      "edge_id": "EDGE017",
+      "from_id": "CIT006",
+      "to_id": "CIT004",
+      "path_type": "quadrangle_path",
+      "distance_m": 85.0,
+      "walk_seconds": 68,
+      "direction": "South-West",
+      "landmark": "Cultural courtyard",
+      "notes": "Auditorium to Computing Block"
+    },
+    {
+      "edge_id": "EDGE018",
+      "from_id": "CIT004",
+      "to_id": "CIT006",
+      "path_type": "quadrangle_path",
+      "distance_m": 85.0,
+      "walk_seconds": 68,
+      "direction": "North-East",
+      "landmark": "Cultural courtyard",
+      "notes": "Computing Block to Auditorium"
+    }
+  ],
+  "alias_map": {
+    "campus main gate": "CIT001",
+    "main entrance": "CIT001",
+    "avinashi road gate": "CIT001",
+    "main gate": "CIT001",
+    "main building / main block": "CIT002",
+    "main block": "CIT002",
+    "administrative block": "CIT002",
+    "principal office": "CIT002",
+    "library block": "CIT003",
+    "central library": "CIT003",
+    "library": "CIT003",
+    "computing block": "CIT004",
+    "department of computing": "CIT004",
+    "computer technology block": "CIT004",
+    "mca block": "CIT004",
+    "it block": "CIT005",
+    "information technology block": "CIT005",
+    "department of it": "CIT005",
+    "cit auditorium": "CIT006",
+    "auditorium": "CIT006",
+    "central auditorium": "CIT006",
+    "open air auditorium": "CIT006",
+    "msc/mba block": "CIT007",
+    "management studies block": "CIT007",
+    "mba block": "CIT007",
+    "pg block": "CIT007",
+    "mechanical & civil engineering block": "CIT008",
+    "civil block": "CIT008",
+    "mechanical block": "CIT008",
+    "core engineering": "CIT008",
+    "computing": "CIT004",
+    "dept of computing": "CIT004",
+    "computer block": "CIT004",
+    "msc software systems": "CIT004",
+    "software systems block": "CIT004",
+    "main building": "CIT002",
+    "admin block": "CIT002",
+    "dept of it": "CIT005",
+    "audi": "CIT006",
+    "msc mba block": "CIT007",
+    "management block": "CIT007",
+    "mech block": "CIT008",
+    "mechanical and civil block": "CIT008",
+    "gate": "CIT001",
+    "entrance": "CIT001"
+  },
+  "precomputed_routes": {
+    "CIT001->CIT002": {
+      "start_id": "CIT001",
+      "dest_id": "CIT002",
+      "start_name": "Campus Main Gate",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 80,
+      "total_seconds": 65,
+      "path": [
+        "CIT001",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to Main Building / Main Block (approx. 80 metres, ~1.1 minutes):\n1. Exit Campus Main Gate and head south along the paved avenue past Palm-lined entrance boulevard for about 80 metres directly into Main Building / Main Block."
+    },
+    "CIT001->CIT003": {
+      "start_id": "CIT001",
+      "dest_id": "CIT003",
+      "start_name": "Campus Main Gate",
+      "dest_name": "Library Block",
+      "total_distance_m": 125,
+      "total_seconds": 100,
+      "path": [
+        "CIT001",
+        "CIT002",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to Library Block (approx. 125 metres, ~1.7 minutes):\n1. Exit Campus Main Gate and proceed south along the paved avenue past Palm-lined entrance boulevard for about 80 metres toward Main Building / Main Block.\n2. Continue west along the covered corridor past Administrative lawn corridor for 45 metres to arrive at Library Block."
+    },
+    "CIT001->CIT004": {
+      "start_id": "CIT001",
+      "dest_id": "CIT004",
+      "start_name": "Campus Main Gate",
+      "dest_name": "Computing Block",
+      "total_distance_m": 170,
+      "total_seconds": 140,
+      "path": [
+        "CIT001",
+        "CIT002",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to Computing Block (approx. 170 metres, ~2.3 minutes):\n1. Exit Campus Main Gate and proceed south along the paved avenue past Palm-lined entrance boulevard for about 80 metres toward Main Building / Main Block.\n2. Continue south-west along the quadrangle walkway past Central Quadrangle and fountain for 90 metres to arrive at Computing Block."
+    },
+    "CIT001->CIT005": {
+      "start_id": "CIT001",
+      "dest_id": "CIT005",
+      "start_name": "Campus Main Gate",
+      "dest_name": "IT Block",
+      "total_distance_m": 185,
+      "total_seconds": 150,
+      "path": [
+        "CIT001",
+        "CIT002",
+        "CIT003",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to IT Block (approx. 185 metres, ~2.5 minutes):\n1. Exit Campus Main Gate and proceed south along the paved avenue past Palm-lined entrance boulevard for about 80 metres toward Main Building / Main Block.\n2. From Main Building / Main Block, head west past Administrative lawn corridor for 45 metres toward Library Block.\n3. Continue south along the departmental walkway past Library garden and reading park for 60 metres to arrive at IT Block."
+    },
+    "CIT001->CIT006": {
+      "start_id": "CIT001",
+      "dest_id": "CIT006",
+      "start_name": "Campus Main Gate",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 150,
+      "total_seconds": 120,
+      "path": [
+        "CIT001",
+        "CIT002",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to CIT Auditorium (approx. 150 metres, ~2.0 minutes):\n1. Exit Campus Main Gate and proceed south along the paved avenue past Palm-lined entrance boulevard for about 80 metres toward Main Building / Main Block.\n2. Continue south-east along the paved walkway past East administrative wing for 70 metres to arrive at CIT Auditorium."
+    },
+    "CIT001->CIT007": {
+      "start_id": "CIT001",
+      "dest_id": "CIT007",
+      "start_name": "Campus Main Gate",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 235,
+      "total_seconds": 190,
+      "path": [
+        "CIT001",
+        "CIT002",
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to MSc/MBA Block (approx. 235 metres, ~3.2 minutes):\n1. Exit Campus Main Gate and proceed south along the paved avenue past Palm-lined entrance boulevard for about 80 metres toward Main Building / Main Block.\n2. From Main Building / Main Block, head south-west past Central Quadrangle and fountain for 90 metres toward Computing Block.\n3. Continue south along the tree lined path past Postgraduate seminar lawn for 65 metres to arrive at MSc/MBA Block."
+    },
+    "CIT001->CIT008": {
+      "start_id": "CIT001",
+      "dest_id": "CIT008",
+      "start_name": "Campus Main Gate",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 255,
+      "total_seconds": 205,
+      "path": [
+        "CIT001",
+        "CIT002",
+        "CIT003",
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from Campus Main Gate to Mechanical & Civil Engineering Block (approx. 255 metres, ~3.4 minutes):\n1. Exit Campus Main Gate and proceed south along the paved avenue past Palm-lined entrance boulevard for about 80 metres toward Main Building / Main Block.\n2. From Main Building / Main Block, head west past Administrative lawn corridor for 45 metres toward Library Block.\n3. From Library Block, head south past Library garden and reading park for 60 metres toward IT Block.\n4. Continue south along the inter department walkway past Central workshop pavilion for 70 metres to arrive at Mechanical & Civil Engineering Block."
+    },
+    "CIT002->CIT001": {
+      "start_id": "CIT002",
+      "dest_id": "CIT001",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 80,
+      "total_seconds": 65,
+      "path": [
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to Campus Main Gate (approx. 80 metres, ~1.1 minutes):\n1. Exit Main Building / Main Block and head north along the paved avenue past Palm-lined entrance boulevard for about 80 metres directly into Campus Main Gate."
+    },
+    "CIT002->CIT003": {
+      "start_id": "CIT002",
+      "dest_id": "CIT003",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "Library Block",
+      "total_distance_m": 45,
+      "total_seconds": 35,
+      "path": [
+        "CIT002",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to Library Block (approx. 45 metres, ~35 seconds):\n1. Exit Main Building / Main Block and head west along the covered corridor past Administrative lawn corridor for about 45 metres directly into Library Block."
+    },
+    "CIT002->CIT004": {
+      "start_id": "CIT002",
+      "dest_id": "CIT004",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "Computing Block",
+      "total_distance_m": 90,
+      "total_seconds": 75,
+      "path": [
+        "CIT002",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to Computing Block (approx. 90 metres, ~1.2 minutes):\n1. Exit Main Building / Main Block and head south-west along the quadrangle walkway past Central Quadrangle and fountain for about 90 metres directly into Computing Block."
+    },
+    "CIT002->CIT005": {
+      "start_id": "CIT002",
+      "dest_id": "CIT005",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "IT Block",
+      "total_distance_m": 105,
+      "total_seconds": 85,
+      "path": [
+        "CIT002",
+        "CIT003",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to IT Block (approx. 105 metres, ~1.4 minutes):\n1. Exit Main Building / Main Block and proceed west along the covered corridor past Administrative lawn corridor for about 45 metres toward Library Block.\n2. Continue south along the departmental walkway past Library garden and reading park for 60 metres to arrive at IT Block."
+    },
+    "CIT002->CIT006": {
+      "start_id": "CIT002",
+      "dest_id": "CIT006",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 70,
+      "total_seconds": 55,
+      "path": [
+        "CIT002",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to CIT Auditorium (approx. 70 metres, ~55 seconds):\n1. Exit Main Building / Main Block and head south-east along the paved walkway past East administrative wing for about 70 metres directly into CIT Auditorium."
+    },
+    "CIT002->CIT007": {
+      "start_id": "CIT002",
+      "dest_id": "CIT007",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 155,
+      "total_seconds": 125,
+      "path": [
+        "CIT002",
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to MSc/MBA Block (approx. 155 metres, ~2.1 minutes):\n1. Exit Main Building / Main Block and proceed south-west along the quadrangle walkway past Central Quadrangle and fountain for about 90 metres toward Computing Block.\n2. Continue south along the tree lined path past Postgraduate seminar lawn for 65 metres to arrive at MSc/MBA Block."
+    },
+    "CIT002->CIT008": {
+      "start_id": "CIT002",
+      "dest_id": "CIT008",
+      "start_name": "Main Building / Main Block",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 175,
+      "total_seconds": 140,
+      "path": [
+        "CIT002",
+        "CIT003",
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from Main Building / Main Block to Mechanical & Civil Engineering Block (approx. 175 metres, ~2.3 minutes):\n1. Exit Main Building / Main Block and proceed west along the covered corridor past Administrative lawn corridor for about 45 metres toward Library Block.\n2. From Library Block, head south past Library garden and reading park for 60 metres toward IT Block.\n3. Continue south along the inter department walkway past Central workshop pavilion for 70 metres to arrive at Mechanical & Civil Engineering Block."
+    },
+    "CIT003->CIT001": {
+      "start_id": "CIT003",
+      "dest_id": "CIT001",
+      "start_name": "Library Block",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 125,
+      "total_seconds": 100,
+      "path": [
+        "CIT003",
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to Campus Main Gate (approx. 125 metres, ~1.7 minutes):\n1. Exit Library Block and proceed east along the covered corridor past Administrative lawn corridor for about 45 metres toward Main Building / Main Block.\n2. Continue north along the paved avenue past Palm-lined entrance boulevard for 80 metres to arrive at Campus Main Gate."
+    },
+    "CIT003->CIT002": {
+      "start_id": "CIT003",
+      "dest_id": "CIT002",
+      "start_name": "Library Block",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 45,
+      "total_seconds": 35,
+      "path": [
+        "CIT003",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to Main Building / Main Block (approx. 45 metres, ~35 seconds):\n1. Exit Library Block and head east along the covered corridor past Administrative lawn corridor for about 45 metres directly into Main Building / Main Block."
+    },
+    "CIT003->CIT004": {
+      "start_id": "CIT003",
+      "dest_id": "CIT004",
+      "start_name": "Library Block",
+      "dest_name": "Computing Block",
+      "total_distance_m": 125,
+      "total_seconds": 102,
+      "path": [
+        "CIT003",
+        "CIT005",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to Computing Block (approx. 125 metres, ~1.7 minutes):\n1. Exit Library Block and proceed south along the departmental walkway past Library garden and reading park for about 60 metres toward IT Block.\n2. Continue east along the connecting corridor past Server room and computer center lawn for 65 metres to arrive at Computing Block."
+    },
+    "CIT003->CIT005": {
+      "start_id": "CIT003",
+      "dest_id": "CIT005",
+      "start_name": "Library Block",
+      "dest_name": "IT Block",
+      "total_distance_m": 60,
+      "total_seconds": 50,
+      "path": [
+        "CIT003",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to IT Block (approx. 60 metres, ~50 seconds):\n1. Exit Library Block and head south along the departmental walkway past Library garden and reading park for about 60 metres directly into IT Block."
+    },
+    "CIT003->CIT006": {
+      "start_id": "CIT003",
+      "dest_id": "CIT006",
+      "start_name": "Library Block",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 115,
+      "total_seconds": 90,
+      "path": [
+        "CIT003",
+        "CIT002",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to CIT Auditorium (approx. 115 metres, ~1.5 minutes):\n1. Exit Library Block and proceed east along the covered corridor past Administrative lawn corridor for about 45 metres toward Main Building / Main Block.\n2. Continue south-east along the paved walkway past East administrative wing for 70 metres to arrive at CIT Auditorium."
+    },
+    "CIT003->CIT007": {
+      "start_id": "CIT003",
+      "dest_id": "CIT007",
+      "start_name": "Library Block",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 190,
+      "total_seconds": 152,
+      "path": [
+        "CIT003",
+        "CIT005",
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to MSc/MBA Block (approx. 190 metres, ~2.5 minutes):\n1. Exit Library Block and proceed south along the departmental walkway past Library garden and reading park for about 60 metres toward IT Block.\n2. From IT Block, head east past Server room and computer center lawn for 65 metres toward Computing Block.\n3. Continue south along the tree lined path past Postgraduate seminar lawn for 65 metres to arrive at MSc/MBA Block."
+    },
+    "CIT003->CIT008": {
+      "start_id": "CIT003",
+      "dest_id": "CIT008",
+      "start_name": "Library Block",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 130,
+      "total_seconds": 105,
+      "path": [
+        "CIT003",
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from Library Block to Mechanical & Civil Engineering Block (approx. 130 metres, ~1.8 minutes):\n1. Exit Library Block and proceed south along the departmental walkway past Library garden and reading park for about 60 metres toward IT Block.\n2. Continue south along the inter department walkway past Central workshop pavilion for 70 metres to arrive at Mechanical & Civil Engineering Block."
+    },
+    "CIT004->CIT001": {
+      "start_id": "CIT004",
+      "dest_id": "CIT001",
+      "start_name": "Computing Block",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 170,
+      "total_seconds": 140,
+      "path": [
+        "CIT004",
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to Campus Main Gate (approx. 170 metres, ~2.3 minutes):\n1. Exit Computing Block and proceed north-east along the quadrangle walkway past Central Quadrangle and fountain for about 90 metres toward Main Building / Main Block.\n2. Continue north along the paved avenue past Palm-lined entrance boulevard for 80 metres to arrive at Campus Main Gate."
+    },
+    "CIT004->CIT002": {
+      "start_id": "CIT004",
+      "dest_id": "CIT002",
+      "start_name": "Computing Block",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 90,
+      "total_seconds": 75,
+      "path": [
+        "CIT004",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to Main Building / Main Block (approx. 90 metres, ~1.2 minutes):\n1. Exit Computing Block and head north-east along the quadrangle walkway past Central Quadrangle and fountain for about 90 metres directly into Main Building / Main Block."
+    },
+    "CIT004->CIT003": {
+      "start_id": "CIT004",
+      "dest_id": "CIT003",
+      "start_name": "Computing Block",
+      "dest_name": "Library Block",
+      "total_distance_m": 125,
+      "total_seconds": 102,
+      "path": [
+        "CIT004",
+        "CIT005",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to Library Block (approx. 125 metres, ~1.7 minutes):\n1. Exit Computing Block and proceed west along the connecting corridor past Server room and computer center lawn for about 65 metres toward IT Block.\n2. Continue north along the departmental walkway past Library garden and reading park for 60 metres to arrive at Library Block."
+    },
+    "CIT004->CIT005": {
+      "start_id": "CIT004",
+      "dest_id": "CIT005",
+      "start_name": "Computing Block",
+      "dest_name": "IT Block",
+      "total_distance_m": 65,
+      "total_seconds": 52,
+      "path": [
+        "CIT004",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to IT Block (approx. 65 metres, ~52 seconds):\n1. Exit Computing Block and head west along the connecting corridor past Server room and computer center lawn for about 65 metres directly into IT Block."
+    },
+    "CIT004->CIT006": {
+      "start_id": "CIT004",
+      "dest_id": "CIT006",
+      "start_name": "Computing Block",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 85,
+      "total_seconds": 68,
+      "path": [
+        "CIT004",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to CIT Auditorium (approx. 85 metres, ~1.1 minutes):\n1. Exit Computing Block and head north-east along the quadrangle path past Cultural courtyard for about 85 metres directly into CIT Auditorium."
+    },
+    "CIT004->CIT007": {
+      "start_id": "CIT004",
+      "dest_id": "CIT007",
+      "start_name": "Computing Block",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 65,
+      "total_seconds": 50,
+      "path": [
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to MSc/MBA Block (approx. 65 metres, ~50 seconds):\n1. Exit Computing Block and head south along the tree lined path past Postgraduate seminar lawn for about 65 metres directly into MSc/MBA Block."
+    },
+    "CIT004->CIT008": {
+      "start_id": "CIT004",
+      "dest_id": "CIT008",
+      "start_name": "Computing Block",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 135,
+      "total_seconds": 107,
+      "path": [
+        "CIT004",
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from Computing Block to Mechanical & Civil Engineering Block (approx. 135 metres, ~1.8 minutes):\n1. Exit Computing Block and proceed west along the connecting corridor past Server room and computer center lawn for about 65 metres toward IT Block.\n2. Continue south along the inter department walkway past Central workshop pavilion for 70 metres to arrive at Mechanical & Civil Engineering Block."
+    },
+    "CIT005->CIT001": {
+      "start_id": "CIT005",
+      "dest_id": "CIT001",
+      "start_name": "IT Block",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 185,
+      "total_seconds": 150,
+      "path": [
+        "CIT005",
+        "CIT003",
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to Campus Main Gate (approx. 185 metres, ~2.5 minutes):\n1. Exit IT Block and proceed north along the departmental walkway past Library garden and reading park for about 60 metres toward Library Block.\n2. From Library Block, head east past Administrative lawn corridor for 45 metres toward Main Building / Main Block.\n3. Continue north along the paved avenue past Palm-lined entrance boulevard for 80 metres to arrive at Campus Main Gate."
+    },
+    "CIT005->CIT002": {
+      "start_id": "CIT005",
+      "dest_id": "CIT002",
+      "start_name": "IT Block",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 105,
+      "total_seconds": 85,
+      "path": [
+        "CIT005",
+        "CIT003",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to Main Building / Main Block (approx. 105 metres, ~1.4 minutes):\n1. Exit IT Block and proceed north along the departmental walkway past Library garden and reading park for about 60 metres toward Library Block.\n2. Continue east along the covered corridor past Administrative lawn corridor for 45 metres to arrive at Main Building / Main Block."
+    },
+    "CIT005->CIT003": {
+      "start_id": "CIT005",
+      "dest_id": "CIT003",
+      "start_name": "IT Block",
+      "dest_name": "Library Block",
+      "total_distance_m": 60,
+      "total_seconds": 50,
+      "path": [
+        "CIT005",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to Library Block (approx. 60 metres, ~50 seconds):\n1. Exit IT Block and head north along the departmental walkway past Library garden and reading park for about 60 metres directly into Library Block."
+    },
+    "CIT005->CIT004": {
+      "start_id": "CIT005",
+      "dest_id": "CIT004",
+      "start_name": "IT Block",
+      "dest_name": "Computing Block",
+      "total_distance_m": 65,
+      "total_seconds": 52,
+      "path": [
+        "CIT005",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to Computing Block (approx. 65 metres, ~52 seconds):\n1. Exit IT Block and head east along the connecting corridor past Server room and computer center lawn for about 65 metres directly into Computing Block."
+    },
+    "CIT005->CIT006": {
+      "start_id": "CIT005",
+      "dest_id": "CIT006",
+      "start_name": "IT Block",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 150,
+      "total_seconds": 120,
+      "path": [
+        "CIT005",
+        "CIT004",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to CIT Auditorium (approx. 150 metres, ~2.0 minutes):\n1. Exit IT Block and proceed east along the connecting corridor past Server room and computer center lawn for about 65 metres toward Computing Block.\n2. Continue north-east along the quadrangle path past Cultural courtyard for 85 metres to arrive at CIT Auditorium."
+    },
+    "CIT005->CIT007": {
+      "start_id": "CIT005",
+      "dest_id": "CIT007",
+      "start_name": "IT Block",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 130,
+      "total_seconds": 102,
+      "path": [
+        "CIT005",
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to MSc/MBA Block (approx. 130 metres, ~1.7 minutes):\n1. Exit IT Block and proceed east along the connecting corridor past Server room and computer center lawn for about 65 metres toward Computing Block.\n2. Continue south along the tree lined path past Postgraduate seminar lawn for 65 metres to arrive at MSc/MBA Block."
+    },
+    "CIT005->CIT008": {
+      "start_id": "CIT005",
+      "dest_id": "CIT008",
+      "start_name": "IT Block",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 70,
+      "total_seconds": 55,
+      "path": [
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from IT Block to Mechanical & Civil Engineering Block (approx. 70 metres, ~55 seconds):\n1. Exit IT Block and head south along the inter department walkway past Central workshop pavilion for about 70 metres directly into Mechanical & Civil Engineering Block."
+    },
+    "CIT006->CIT001": {
+      "start_id": "CIT006",
+      "dest_id": "CIT001",
+      "start_name": "CIT Auditorium",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 150,
+      "total_seconds": 120,
+      "path": [
+        "CIT006",
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to Campus Main Gate (approx. 150 metres, ~2.0 minutes):\n1. Exit CIT Auditorium and proceed north-west along the paved walkway past East administrative wing for about 70 metres toward Main Building / Main Block.\n2. Continue north along the paved avenue past Palm-lined entrance boulevard for 80 metres to arrive at Campus Main Gate."
+    },
+    "CIT006->CIT002": {
+      "start_id": "CIT006",
+      "dest_id": "CIT002",
+      "start_name": "CIT Auditorium",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 70,
+      "total_seconds": 55,
+      "path": [
+        "CIT006",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to Main Building / Main Block (approx. 70 metres, ~55 seconds):\n1. Exit CIT Auditorium and head north-west along the paved walkway past East administrative wing for about 70 metres directly into Main Building / Main Block."
+    },
+    "CIT006->CIT003": {
+      "start_id": "CIT006",
+      "dest_id": "CIT003",
+      "start_name": "CIT Auditorium",
+      "dest_name": "Library Block",
+      "total_distance_m": 115,
+      "total_seconds": 90,
+      "path": [
+        "CIT006",
+        "CIT002",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to Library Block (approx. 115 metres, ~1.5 minutes):\n1. Exit CIT Auditorium and proceed north-west along the paved walkway past East administrative wing for about 70 metres toward Main Building / Main Block.\n2. Continue west along the covered corridor past Administrative lawn corridor for 45 metres to arrive at Library Block."
+    },
+    "CIT006->CIT004": {
+      "start_id": "CIT006",
+      "dest_id": "CIT004",
+      "start_name": "CIT Auditorium",
+      "dest_name": "Computing Block",
+      "total_distance_m": 85,
+      "total_seconds": 68,
+      "path": [
+        "CIT006",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to Computing Block (approx. 85 metres, ~1.1 minutes):\n1. Exit CIT Auditorium and head south-west along the quadrangle path past Cultural courtyard for about 85 metres directly into Computing Block."
+    },
+    "CIT006->CIT005": {
+      "start_id": "CIT006",
+      "dest_id": "CIT005",
+      "start_name": "CIT Auditorium",
+      "dest_name": "IT Block",
+      "total_distance_m": 150,
+      "total_seconds": 120,
+      "path": [
+        "CIT006",
+        "CIT004",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to IT Block (approx. 150 metres, ~2.0 minutes):\n1. Exit CIT Auditorium and proceed south-west along the quadrangle path past Cultural courtyard for about 85 metres toward Computing Block.\n2. Continue west along the connecting corridor past Server room and computer center lawn for 65 metres to arrive at IT Block."
+    },
+    "CIT006->CIT007": {
+      "start_id": "CIT006",
+      "dest_id": "CIT007",
+      "start_name": "CIT Auditorium",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 150,
+      "total_seconds": 118,
+      "path": [
+        "CIT006",
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to MSc/MBA Block (approx. 150 metres, ~2.0 minutes):\n1. Exit CIT Auditorium and proceed south-west along the quadrangle path past Cultural courtyard for about 85 metres toward Computing Block.\n2. Continue south along the tree lined path past Postgraduate seminar lawn for 65 metres to arrive at MSc/MBA Block."
+    },
+    "CIT006->CIT008": {
+      "start_id": "CIT006",
+      "dest_id": "CIT008",
+      "start_name": "CIT Auditorium",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 220,
+      "total_seconds": 175,
+      "path": [
+        "CIT006",
+        "CIT004",
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from CIT Auditorium to Mechanical & Civil Engineering Block (approx. 220 metres, ~2.9 minutes):\n1. Exit CIT Auditorium and proceed south-west along the quadrangle path past Cultural courtyard for about 85 metres toward Computing Block.\n2. From Computing Block, head west past Server room and computer center lawn for 65 metres toward IT Block.\n3. Continue south along the inter department walkway past Central workshop pavilion for 70 metres to arrive at Mechanical & Civil Engineering Block."
+    },
+    "CIT007->CIT001": {
+      "start_id": "CIT007",
+      "dest_id": "CIT001",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 235,
+      "total_seconds": 190,
+      "path": [
+        "CIT007",
+        "CIT004",
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to Campus Main Gate (approx. 235 metres, ~3.2 minutes):\n1. Exit MSc/MBA Block and proceed north along the tree lined path past Postgraduate seminar lawn for about 65 metres toward Computing Block.\n2. From Computing Block, head north-east past Central Quadrangle and fountain for 90 metres toward Main Building / Main Block.\n3. Continue north along the paved avenue past Palm-lined entrance boulevard for 80 metres to arrive at Campus Main Gate."
+    },
+    "CIT007->CIT002": {
+      "start_id": "CIT007",
+      "dest_id": "CIT002",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 155,
+      "total_seconds": 125,
+      "path": [
+        "CIT007",
+        "CIT004",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to Main Building / Main Block (approx. 155 metres, ~2.1 minutes):\n1. Exit MSc/MBA Block and proceed north along the tree lined path past Postgraduate seminar lawn for about 65 metres toward Computing Block.\n2. Continue north-east along the quadrangle walkway past Central Quadrangle and fountain for 90 metres to arrive at Main Building / Main Block."
+    },
+    "CIT007->CIT003": {
+      "start_id": "CIT007",
+      "dest_id": "CIT003",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "Library Block",
+      "total_distance_m": 190,
+      "total_seconds": 152,
+      "path": [
+        "CIT007",
+        "CIT004",
+        "CIT005",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to Library Block (approx. 190 metres, ~2.5 minutes):\n1. Exit MSc/MBA Block and proceed north along the tree lined path past Postgraduate seminar lawn for about 65 metres toward Computing Block.\n2. From Computing Block, head west past Server room and computer center lawn for 65 metres toward IT Block.\n3. Continue north along the departmental walkway past Library garden and reading park for 60 metres to arrive at Library Block."
+    },
+    "CIT007->CIT004": {
+      "start_id": "CIT007",
+      "dest_id": "CIT004",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "Computing Block",
+      "total_distance_m": 65,
+      "total_seconds": 50,
+      "path": [
+        "CIT007",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to Computing Block (approx. 65 metres, ~50 seconds):\n1. Exit MSc/MBA Block and head north along the tree lined path past Postgraduate seminar lawn for about 65 metres directly into Computing Block."
+    },
+    "CIT007->CIT005": {
+      "start_id": "CIT007",
+      "dest_id": "CIT005",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "IT Block",
+      "total_distance_m": 130,
+      "total_seconds": 102,
+      "path": [
+        "CIT007",
+        "CIT004",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to IT Block (approx. 130 metres, ~1.7 minutes):\n1. Exit MSc/MBA Block and proceed north along the tree lined path past Postgraduate seminar lawn for about 65 metres toward Computing Block.\n2. Continue west along the connecting corridor past Server room and computer center lawn for 65 metres to arrive at IT Block."
+    },
+    "CIT007->CIT006": {
+      "start_id": "CIT007",
+      "dest_id": "CIT006",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 150,
+      "total_seconds": 118,
+      "path": [
+        "CIT007",
+        "CIT004",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to CIT Auditorium (approx. 150 metres, ~2.0 minutes):\n1. Exit MSc/MBA Block and proceed north along the tree lined path past Postgraduate seminar lawn for about 65 metres toward Computing Block.\n2. Continue north-east along the quadrangle path past Cultural courtyard for 85 metres to arrive at CIT Auditorium."
+    },
+    "CIT007->CIT008": {
+      "start_id": "CIT007",
+      "dest_id": "CIT008",
+      "start_name": "MSc/MBA Block",
+      "dest_name": "Mechanical & Civil Engineering Block",
+      "total_distance_m": 200,
+      "total_seconds": 157,
+      "path": [
+        "CIT007",
+        "CIT004",
+        "CIT005",
+        "CIT008"
+      ],
+      "route_text": "Step-by-step walking navigation from MSc/MBA Block to Mechanical & Civil Engineering Block (approx. 200 metres, ~2.6 minutes):\n1. Exit MSc/MBA Block and proceed north along the tree lined path past Postgraduate seminar lawn for about 65 metres toward Computing Block.\n2. From Computing Block, head west past Server room and computer center lawn for 65 metres toward IT Block.\n3. Continue south along the inter department walkway past Central workshop pavilion for 70 metres to arrive at Mechanical & Civil Engineering Block."
+    },
+    "CIT008->CIT001": {
+      "start_id": "CIT008",
+      "dest_id": "CIT001",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "Campus Main Gate",
+      "total_distance_m": 255,
+      "total_seconds": 205,
+      "path": [
+        "CIT008",
+        "CIT005",
+        "CIT003",
+        "CIT002",
+        "CIT001"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to Campus Main Gate (approx. 255 metres, ~3.4 minutes):\n1. Exit Mechanical & Civil Engineering Block and proceed north along the inter department walkway past Central workshop pavilion for about 70 metres toward IT Block.\n2. From IT Block, head north past Library garden and reading park for 60 metres toward Library Block.\n3. From Library Block, head east past Administrative lawn corridor for 45 metres toward Main Building / Main Block.\n4. Continue north along the paved avenue past Palm-lined entrance boulevard for 80 metres to arrive at Campus Main Gate."
+    },
+    "CIT008->CIT002": {
+      "start_id": "CIT008",
+      "dest_id": "CIT002",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "Main Building / Main Block",
+      "total_distance_m": 175,
+      "total_seconds": 140,
+      "path": [
+        "CIT008",
+        "CIT005",
+        "CIT003",
+        "CIT002"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to Main Building / Main Block (approx. 175 metres, ~2.3 minutes):\n1. Exit Mechanical & Civil Engineering Block and proceed north along the inter department walkway past Central workshop pavilion for about 70 metres toward IT Block.\n2. From IT Block, head north past Library garden and reading park for 60 metres toward Library Block.\n3. Continue east along the covered corridor past Administrative lawn corridor for 45 metres to arrive at Main Building / Main Block."
+    },
+    "CIT008->CIT003": {
+      "start_id": "CIT008",
+      "dest_id": "CIT003",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "Library Block",
+      "total_distance_m": 130,
+      "total_seconds": 105,
+      "path": [
+        "CIT008",
+        "CIT005",
+        "CIT003"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to Library Block (approx. 130 metres, ~1.8 minutes):\n1. Exit Mechanical & Civil Engineering Block and proceed north along the inter department walkway past Central workshop pavilion for about 70 metres toward IT Block.\n2. Continue north along the departmental walkway past Library garden and reading park for 60 metres to arrive at Library Block."
+    },
+    "CIT008->CIT004": {
+      "start_id": "CIT008",
+      "dest_id": "CIT004",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "Computing Block",
+      "total_distance_m": 135,
+      "total_seconds": 107,
+      "path": [
+        "CIT008",
+        "CIT005",
+        "CIT004"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to Computing Block (approx. 135 metres, ~1.8 minutes):\n1. Exit Mechanical & Civil Engineering Block and proceed north along the inter department walkway past Central workshop pavilion for about 70 metres toward IT Block.\n2. Continue east along the connecting corridor past Server room and computer center lawn for 65 metres to arrive at Computing Block."
+    },
+    "CIT008->CIT005": {
+      "start_id": "CIT008",
+      "dest_id": "CIT005",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "IT Block",
+      "total_distance_m": 70,
+      "total_seconds": 55,
+      "path": [
+        "CIT008",
+        "CIT005"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to IT Block (approx. 70 metres, ~55 seconds):\n1. Exit Mechanical & Civil Engineering Block and head north along the inter department walkway past Central workshop pavilion for about 70 metres directly into IT Block."
+    },
+    "CIT008->CIT006": {
+      "start_id": "CIT008",
+      "dest_id": "CIT006",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "CIT Auditorium",
+      "total_distance_m": 220,
+      "total_seconds": 175,
+      "path": [
+        "CIT008",
+        "CIT005",
+        "CIT004",
+        "CIT006"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to CIT Auditorium (approx. 220 metres, ~2.9 minutes):\n1. Exit Mechanical & Civil Engineering Block and proceed north along the inter department walkway past Central workshop pavilion for about 70 metres toward IT Block.\n2. From IT Block, head east past Server room and computer center lawn for 65 metres toward Computing Block.\n3. Continue north-east along the quadrangle path past Cultural courtyard for 85 metres to arrive at CIT Auditorium."
+    },
+    "CIT008->CIT007": {
+      "start_id": "CIT008",
+      "dest_id": "CIT007",
+      "start_name": "Mechanical & Civil Engineering Block",
+      "dest_name": "MSc/MBA Block",
+      "total_distance_m": 200,
+      "total_seconds": 157,
+      "path": [
+        "CIT008",
+        "CIT005",
+        "CIT004",
+        "CIT007"
+      ],
+      "route_text": "Step-by-step walking navigation from Mechanical & Civil Engineering Block to MSc/MBA Block (approx. 200 metres, ~2.6 minutes):\n1. Exit Mechanical & Civil Engineering Block and proceed north along the inter department walkway past Central workshop pavilion for about 70 metres toward IT Block.\n2. From IT Block, head east past Server room and computer center lawn for 65 metres toward Computing Block.\n3. Continue south along the tree lined path past Postgraduate seminar lawn for 65 metres to arrive at MSc/MBA Block."
+    }
+  },
+  "metrics": {
+    "nodes_count": 8,
+    "edges_count": 18,
+    "pairwise_coverage": 1.0,
+    "synthetic_test_consistency": 1.0
+  }
+}

@@ -24,6 +24,7 @@ from rank_bm25 import BM25Okapi
 
 from .config import settings
 from .schemas import Citation
+from .roadmap_navigator import roadmap_navigator
 
 logger = logging.getLogger(__name__)
 
@@ -182,7 +183,9 @@ class RAGEngine:
                     target_entity = extracted_clean
 
         # Resolve Requested Attribute / Intent
-        if re.search(r"\b(autonomous status|conferred autonomy|autonomy date|granted autonomy|\bautonomy\b)\b", q_lower):
+        if roadmap_navigator.is_navigation_query(query):
+            attribute = "navigation"
+        elif re.search(r"\b(autonomous status|conferred autonomy|autonomy date|granted autonomy|\bautonomy\b)\b", q_lower):
             attribute = "autonomy"
         elif re.search(r"\b(hod|head of (?:the )?department|department head|who heads|chairperson)\b", q_lower):
             attribute = "hod"
@@ -522,6 +525,14 @@ class RAGEngine:
             return f"Faculty members for {dept_name} could not be verified from the collected local dataset.", True, []
 
         # =====================================================================
+        # CASE: CAMPUS ROADMAP NAVIGATION
+        # =====================================================================
+        if attribute == "navigation" or roadmap_navigator.is_navigation_query(query):
+            nav_res = roadmap_navigator.navigate(query)
+            if nav_res:
+                return nav_res["answer"], False, [retrieved[0]] if retrieved else []
+
+        # =====================================================================
         # CASE B: ESTABLISHED YEAR
         # =====================================================================
         if attribute == "established_year":
@@ -690,6 +701,36 @@ class RAGEngine:
 
         if not intent_info:
             intent_info = self.detect_intent_and_entity(query)
+
+        # Handle Campus Roadmap Navigation directly (Level 1)
+        if intent_info.get("attribute") == "navigation" or roadmap_navigator.is_navigation_query(query):
+            nav_res = roadmap_navigator.navigate(query)
+            if nav_res:
+                retrieval_time_ms = round((time.time() - t0) * 1000.0, 2)
+                citation = Citation(
+                    chunk_id="cit_roadmap_nav",
+                    document_title="CIT Campus Navigation Roadmap",
+                    source_url="https://cit.edu.in/",
+                    category="Campus Facilities and FAQs",
+                    academic_year=None,
+                    similarity_score=1.0,
+                    text_snippet=f"CIT Campus Roadmap: Route from {nav_res.get('start_name', 'Origin')} to {nav_res.get('dest_name', 'Destination')} (approx. {nav_res.get('distance_m', 0)} metres).",
+                    source_type="dataset"
+                )
+                return {
+                    "answer": nav_res["answer"],
+                    "citations": [citation],
+                    "source_type": "dataset",
+                    "confidence": 0.98,
+                    "retrieval_level": 1,
+                    "retrieved_evidence": [],
+                    "category": "Campus Facilities and FAQs",
+                    "model_used": model_choice,
+                    "latency_ms": retrieval_time_ms,
+                    "has_conflicts": False,
+                    "conflict_notes": [],
+                    "is_refusal": False
+                }
 
         # Step 1: Retrieval
         if model_choice == "baseline":

@@ -1,0 +1,19 @@
+edge_id,from_location_id,to_location_id,path_type,distance_m,estimated_walk_seconds,direction_from_start,landmark_along_path,accessible,verified_by,verification_date,verification_status,notes
+EDGE001,CIT001,CIT002,paved_avenue,80,65,South,Palm-lined entrance boulevard,yes,Campus Survey Team,2026-10-15,verified,Main Gate to Main Block portico
+EDGE002,CIT002,CIT001,paved_avenue,80,65,North,Palm-lined entrance boulevard,yes,Campus Survey Team,2026-10-15,verified,Main Block to Main Gate
+EDGE003,CIT002,CIT003,covered_corridor,45,35,West,Administrative lawn corridor,yes,Campus Survey Team,2026-10-15,verified,Main Block to Library Block
+EDGE004,CIT003,CIT002,covered_corridor,45,35,East,Administrative lawn corridor,yes,Campus Survey Team,2026-10-15,verified,Library Block to Main Block
+EDGE005,CIT002,CIT004,quadrangle_walkway,90,75,South-West,Central Quadrangle and fountain,yes,Campus Survey Team,2026-10-15,verified,Main Block to Computing Block
+EDGE006,CIT004,CIT002,quadrangle_walkway,90,75,North-East,Central Quadrangle and fountain,yes,Campus Survey Team,2026-10-15,verified,Computing Block to Main Block
+EDGE007,CIT002,CIT006,paved_walkway,70,55,South-East,East administrative wing,yes,Campus Survey Team,2026-10-15,verified,Main Block to Auditorium
+EDGE008,CIT006,CIT002,paved_walkway,70,55,North-West,East administrative wing,yes,Campus Survey Team,2026-10-15,verified,Auditorium to Main Block
+EDGE009,CIT003,CIT005,departmental_walkway,60,50,South,Library garden and reading park,yes,Campus Survey Team,2026-10-15,verified,Library to IT Block
+EDGE010,CIT005,CIT003,departmental_walkway,60,50,North,Library garden and reading park,yes,Campus Survey Team,2026-10-15,verified,IT Block to Library
+EDGE011,CIT004,CIT005,connecting_corridor,65,52,West,Server room and computer center lawn,yes,Campus Survey Team,2026-10-15,verified,Computing Block to IT Block
+EDGE012,CIT005,CIT004,connecting_corridor,65,52,East,Server room and computer center lawn,yes,Campus Survey Team,2026-10-15,verified,IT Block to Computing Block
+EDGE013,CIT004,CIT007,tree_lined_path,65,50,South,Postgraduate seminar lawn,yes,Campus Survey Team,2026-10-15,verified,Computing Block to MSc/MBA Block
+EDGE014,CIT007,CIT004,tree_lined_path,65,50,North,Postgraduate seminar lawn,yes,Campus Survey Team,2026-10-15,verified,MSc/MBA Block to Computing Block
+EDGE015,CIT005,CIT008,inter_department_walkway,70,55,South,Central workshop pavilion,yes,Campus Survey Team,2026-10-15,verified,IT Block to Mechanical & Civil Block
+EDGE016,CIT008,CIT005,inter_department_walkway,70,55,North,Central workshop pavilion,yes,Campus Survey Team,2026-10-15,verified,Mechanical & Civil Block to IT Block
+EDGE017,CIT006,CIT004,quadrangle_path,85,68,South-West,Cultural courtyard,yes,Campus Survey Team,2026-10-15,verified,Auditorium to Computing Block
+EDGE018,CIT004,CIT006,quadrangle_path,85,68,North-East,Cultural courtyard,yes,Campus Survey Team,2026-10-15,verified,Computing Block to Auditorium

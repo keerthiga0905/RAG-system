@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "How do I go from Computing Block to Main Block?"}], "intent": "navigate_between_locations", "start_name": "Computing Block", "destination_name": "Main Building / Main Block"}
+{"messages": [{"role": "user", "content": "Give me directions from the Library to the IT Block."}], "intent": "navigate_between_locations", "start_name": "Library Block", "destination_name": "IT Block"}
+{"messages": [{"role": "user", "content": "What is the shortest walking route from the Main Block to the Auditorium?"}], "intent": "shortest_path_request", "start_name": "Main Building / Main Block", "destination_name": "CIT Auditorium"}
+{"messages": [{"role": "user", "content": "How do I reach the Computing Block from Main Gate?"}], "intent": "navigate_between_locations", "start_name": "Campus Main Gate", "destination_name": "Computing Block"}
+{"messages": [{"role": "user", "content": "Directions from Main Block to the Library."}], "intent": "navigate_between_locations", "start_name": "Main Building / Main Block", "destination_name": "Library Block"}
+{"messages": [{"role": "user", "content": "How to go from Computing Block to IT Block?"}], "intent": "navigate_between_locations", "start_name": "Computing Block", "destination_name": "IT Block"}
+{"messages": [{"role": "user", "content": "Directions from Computing Block to MSc/MBA Block."}], "intent": "navigate_between_locations", "start_name": "Computing Block", "destination_name": "MSc/MBA Block"}
+{"messages": [{"role": "user", "content": "Walking path from IT Block to Mechanical and Civil Block."}], "intent": "navigate_between_locations", "start_name": "IT Block", "destination_name": "Mechanical & Civil Engineering Block"}
+{"messages": [{"role": "user", "content": "Where is the CIT Auditorium located on campus?"}], "intent": "locate_building", "destination_name": "CIT Auditorium"}
+{"messages": [{"role": "user", "content": "How can I walk to Main Block from Computing Block?"}], "intent": "navigate_between_locations", "start_name": "Computing Block", "destination_name": "Main Building / Main Block"}

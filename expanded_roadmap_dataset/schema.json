@@ -1,0 +1,30 @@
+{
+  "dataset": "Synthetic text-to-roadmap navigation",
+  "version": "1.0",
+  "record_format": "JSONL",
+  "record_count": 10000,
+  "map_count": 1000,
+  "split_strategy": "Split by map_id: 80% train, 10% validation, 10% test; no map_id appears across splits.",
+  "input_fields": {
+    "map_description": "Natural-language statements about spatial relations and walkable paths.",
+    "locations": "Named nodes with a coarse place kind.",
+    "spatial_relations": "Directional spatial facts; relation is relation of 'to' relative to 'from' for these records.",
+    "walkable_connections": "Explicit walkable edges; a spatial relation alone must not be assumed walkable.",
+    "query": "Start and destination location names.",
+    "road_closures": "Optional list of closed edges that must not be used."
+  },
+  "target_fields": {
+    "case_type": "route, ambiguous, or unreachable",
+    "route": "Ordered list of locations, or null when no reliable route is available.",
+    "route_text": "Human-readable answer.",
+    "reachable": "true, false, or null for ambiguous cases.",
+    "ambiguity_reason": "Explanation of why route cannot be determined, if applicable."
+  },
+  "coordinate_convention": "x increases east; y increases north. Coordinates are included in maps.jsonl for synthetic map reference, not directly in every training input.",
+  "important_caveats": [
+    "Synthetic data should be validated and supplemented with real or carefully reviewed examples.",
+    "Ambiguous examples teach abstention; do not treat unknown connectivity as a proven no-route case.",
+    "A closed-road example is unreachable only with the listed closure overlay applied.",
+    "Use graph search (BFS for unweighted edges) as a validator or runtime planner; fine-tuning alone does not guarantee optimal routes."
+  ]
+}

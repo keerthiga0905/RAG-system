@@ -8,9 +8,9 @@
 
 | Retrieval Strategy | Recall@1 | Recall@3 | Recall@5 | Precision@1 | Precision@3 | MRR | Citation Accuracy | Out-of-Scope Detection | Latency (ms) |
 |--------------------|----------|----------|----------|-------------|-------------|-----|-------------------|-------------------------|--------------|
-| **Baseline Dense (all-MiniLM-L6-v2)** | 23.8% | 28.6% | 38.1% | 23.8% | 9.5% | 0.2833 | 81.0% | 100.0% | 13.7 ms |
-| **Fine-Tuned Dense (cit-minilm-l6-v2)** | 19.1% | 33.3% | 42.9% | 19.1% | 11.1% | 0.2754 | 85.7% | 100.0% | 13.2 ms |
-| **Hybrid Retrieval (Dense + BM25)** | 23.8% | 47.6% | 47.6% | 23.8% | 15.9% | 0.3492 | 81.0% | 100.0% | 13.5 ms |
+| **Baseline Dense (all-MiniLM-L6-v2)** | 23.8% | 28.6% | 38.1% | 23.8% | 9.5% | 0.2833 | 81.0% | 100.0% | 10.2 ms |
+| **Fine-Tuned Dense (cit-minilm-l6-v2)** | 19.1% | 33.3% | 42.9% | 19.1% | 11.1% | 0.2754 | 85.7% | 100.0% | 11.0 ms |
+| **Hybrid Retrieval (Dense + BM25)** | 23.8% | 47.6% | 47.6% | 23.8% | 15.9% | 0.3492 | 81.0% | 100.0% | 9.3 ms |
 
 ## 2. Per-Category Breakdown (Fine-Tuned Model)
 

@@ -13,7 +13,7 @@
       "mrr": 0.2833,
       "citation_accuracy": 0.8095,
       "out_of_scope_refusal_rate": 1.0,
-      "avg_latency_ms": 13.73,
+      "avg_latency_ms": 10.23,
       "category_breakdown": {
         "Courses and Academic Programmes": {
           "count": 7,
@@ -79,7 +79,7 @@
       "mrr": 0.2754,
       "citation_accuracy": 0.8571,
       "out_of_scope_refusal_rate": 1.0,
-      "avg_latency_ms": 13.19,
+      "avg_latency_ms": 10.96,
       "category_breakdown": {
         "Courses and Academic Programmes": {
           "count": 7,
@@ -145,7 +145,7 @@
       "mrr": 0.3492,
       "citation_accuracy": 0.8095,
       "out_of_scope_refusal_rate": 1.0,
-      "avg_latency_ms": 13.54,
+      "avg_latency_ms": 9.34,
       "category_breakdown": {
         "Courses and Academic Programmes": {
           "count": 7,
