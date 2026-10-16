@@ -124,18 +124,20 @@ class MultiSourceOrchestrator:
                 citations = []
                 for r in used_web_chunks:
                     meta = r["metadata"]
+                    cat = meta.get("category", "Campus Information")
                     citations.append(Citation(
                         chunk_id=r["chunk_id"],
                         document_title=meta.get("document_title", "Public Web Search"),
                         source_url=meta.get("source_url", "https://cit.edu.in/"),
-                        category="Public Web Search",
+                        category=cat,
                         text_snippet=r["text"][:140].replace("\n", " ") + "...",
                         source_type="public_web",
                         verified_date=timestamp_str
                     ))
 
-                is_ref = "couldn't verify" in ans_text.lower() or "not find" in ans_text.lower()
-                conf = 0.85 if not is_ref else 0.0
+                is_ref = "could not find" in ans_text.lower() or "couldn't verify" in ans_text.lower() or "not find" in ans_text.lower()
+                conf = 0.88 if not is_ref else 0.0
+                top_cat = citations[0].category if citations else "Campus Information"
 
                 return {
                     "answer": ans_text,
@@ -145,7 +147,7 @@ class MultiSourceOrchestrator:
                     "retrieval_level": 3,
                     "verified_at": timestamp_str,
                     "retrieved_evidence": used_web_chunks or level1_result.get("retrieved_evidence", []),
-                    "category": "Public Web Search",
+                    "category": top_cat,
                     "model_used": model_choice,
                     "latency_ms": total_latency,
                     "has_conflicts": False,

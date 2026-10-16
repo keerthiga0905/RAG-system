@@ -203,7 +203,7 @@ class RAGEngine:
             attribute = "fee"
         elif re.search(r"\b(phone number|email|contact principal|contact details|office number|how to reach|location|address|where is|situated at|reach cit)\b", q_lower):
             attribute = "contact"
-        elif re.search(r"\b(timing|timings|gate closing|gate close|closing time|opening time|curfew|gate entry|library timing|college timing)\b", q_lower):
+        elif re.search(r"\b(timing|timings|gate|gate closing|gate close|closing time|opening time|curfew|in-time|in time|gate entry|library timing|college timing|campus timing)\b", q_lower):
             attribute = "timing"
         else:
             attribute = "general"
