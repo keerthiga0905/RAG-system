@@ -1,18 +1,25 @@
 import React from 'react';
-import { MessageSquare, BarChart3, Database, Cpu } from 'lucide-react';
+import { MessageSquare, Clock, BarChart3, Database, Cpu, User, LogOut, ArrowRightLeft } from 'lucide-react';
+import type { UserProfile } from '../types';
 
 interface HeaderProps {
-  activeTab: 'chat' | 'evaluation' | 'documents' | 'model';
-  setActiveTab: (tab: 'chat' | 'evaluation' | 'documents' | 'model') => void;
+  activeTab: 'chat' | 'history' | 'evaluation' | 'documents' | 'model';
+  setActiveTab: (tab: 'chat' | 'history' | 'evaluation' | 'documents' | 'model') => void;
   systemHealthy: boolean;
   totalChunks: number;
+  currentUser: UserProfile | null;
+  onOpenLogin: () => void;
+  onLogout: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
   activeTab,
   setActiveTab,
   systemHealthy,
-  totalChunks
+  totalChunks,
+  currentUser,
+  onOpenLogin,
+  onLogout
 }) => {
   return (
     <header className="app-header">
@@ -40,6 +47,14 @@ export const Header: React.FC<HeaderProps> = ({
             <span>Assistant</span>
           </button>
           <button
+            className={`nav-btn ${activeTab === 'history' ? 'active' : ''}`}
+            onClick={() => setActiveTab('history')}
+            id="nav-history-btn"
+          >
+            <Clock size={16} />
+            <span>History</span>
+          </button>
+          <button
             className={`nav-btn ${activeTab === 'evaluation' ? 'active' : ''}`}
             onClick={() => setActiveTab('evaluation')}
             id="nav-evaluation-btn"
@@ -65,9 +80,49 @@ export const Header: React.FC<HeaderProps> = ({
           </button>
         </nav>
 
-        <div className="header-status">
-          <span className="status-dot"></span>
-          <span>{systemHealthy ? `Local Vector DB Online (${totalChunks} Chunks)` : 'Offline'}</span>
+        <div className="header-right-group">
+          {currentUser ? (
+            <div className="header-user-chip">
+              <div 
+                className="user-avatar-small" 
+                style={{ backgroundColor: currentUser.avatarColor || '#800000' }}
+                title={currentUser.email}
+              >
+                {currentUser.name.charAt(0)}
+              </div>
+              <div className="user-details-mini">
+                <span className="user-name-mini">{currentUser.name}</span>
+                <span className="user-email-mini">{currentUser.email}</span>
+              </div>
+              <button 
+                className="user-switch-btn"
+                onClick={onOpenLogin}
+                title="Switch User / Login Page"
+              >
+                <ArrowRightLeft size={13} />
+                <span>Switch</span>
+              </button>
+              <button 
+                className="user-switch-btn"
+                onClick={onLogout}
+                title="Sign Out"
+                style={{ background: 'rgba(239, 68, 68, 0.25)' }}
+              >
+                <LogOut size={13} />
+                <span>Logout</span>
+              </button>
+            </div>
+          ) : (
+            <button className="nav-btn login-trigger-btn" onClick={onOpenLogin}>
+              <User size={15} />
+              <span>Sign In</span>
+            </button>
+          )}
+
+          <div className="header-status">
+            <span className="status-dot"></span>
+            <span>{systemHealthy ? `Vector DB Online (${totalChunks})` : 'Offline'}</span>
+          </div>
         </div>
       </div>
     </header>

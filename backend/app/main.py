@@ -202,3 +202,106 @@ def get_model_info():
         fine_tuning_epochs=epochs,
         leakage_resistance="Strict Document-ID Disjoint Grouping (zero question/passage overlap between train, val, and test splits)"
     )
+
+
+# =============================================================================
+# USER AUTHENTICATION & PERSONAL CHAT HISTORY ENDPOINTS
+# =============================================================================
+USER_HISTORY_DIR = os.path.join(settings.BASE_DIR, "data", "user_history")
+os.makedirs(USER_HISTORY_DIR, exist_ok=True)
+
+
+def _safe_email_filename(email: str) -> str:
+    """Sanitizes email address into a safe filesystem filename."""
+    import re
+    cleaned = re.sub(r"[^a-zA-Z0-9_\-\.]", "_", email.strip().lower())
+    return f"{cleaned}.json"
+
+
+@app.get("/api/history", tags=["User History"])
+def get_user_history(email: str = Query(..., description="User email identifier")):
+    """Returns stored conversation history for the specified user email."""
+    if not email:
+        raise HTTPException(status_code=400, detail="Email is required")
+    filepath = os.path.join(USER_HISTORY_DIR, _safe_email_filename(email))
+    if not os.path.exists(filepath):
+        return {"email": email, "history": []}
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return {"email": email, "history": data}
+    except Exception as e:
+        logger.error(f"Error reading history for {email}: {e}")
+        return {"email": email, "history": []}
+
+
+@app.post("/api/history", tags=["User History"])
+def save_user_history_record(payload: Dict[str, Any]):
+    """Appends a completed Q&A turn to the user's personal chat history."""
+    email = payload.get("email")
+    record = payload.get("record")
+    if not email or not record:
+        raise HTTPException(status_code=400, detail="Both 'email' and 'record' are required")
+
+    filepath = os.path.join(USER_HISTORY_DIR, _safe_email_filename(email))
+    existing = []
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+        except Exception:
+            existing = []
+
+    # Prepend new record so latest appears first
+    existing.insert(0, record)
+
+    # Keep up to 200 items per user
+    if len(existing) > 200:
+        existing = existing[:200]
+
+    try:
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(existing, f, indent=2, ensure_ascii=False)
+        return {"status": "success", "count": len(existing)}
+    except Exception as e:
+        logger.error(f"Error saving history for {email}: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.delete("/api/history", tags=["User History"])
+def clear_user_history(email: str = Query(..., description="User email identifier")):
+    """Clears all stored chat history for the specified user email."""
+    if not email:
+        raise HTTPException(status_code=400, detail="Email is required")
+    filepath = os.path.join(USER_HISTORY_DIR, _safe_email_filename(email))
+    if os.path.exists(filepath):
+        try:
+            os.remove(filepath)
+            return {"status": "success", "message": f"History cleared for {email}"}
+        except Exception as e:
+            logger.error(f"Error removing history for {email}: {e}")
+            raise HTTPException(status_code=500, detail=str(e))
+    return {"status": "success", "message": "No history found to clear."}
+
+
+@app.get("/api/history/users", tags=["User History"])
+def list_history_users():
+    """Lists all user emails that have recorded chat histories."""
+    users = []
+    if os.path.exists(USER_HISTORY_DIR):
+        for fname in os.listdir(USER_HISTORY_DIR):
+            if fname.endswith(".json"):
+                fpath = os.path.join(USER_HISTORY_DIR, fname)
+                try:
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        records = json.load(f)
+                        if records and len(records) > 0:
+                            email = records[0].get("email", fname.replace(".json", ""))
+                            users.append({
+                                "email": email,
+                                "total_queries": len(records),
+                                "last_active": records[0].get("timestamp", "N/A")
+                            })
+                except Exception:
+                    pass
+    return {"users": users}

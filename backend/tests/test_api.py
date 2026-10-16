@@ -103,3 +103,51 @@ def test_model_info_endpoint():
     assert "all-MiniLM-L6-v2" in data["baseline_model"]
     assert "cit-minilm-l6-v2" in data["finetuned_model"]
     assert data["total_chunks_indexed"] == 290
+
+
+def test_history_endpoints():
+    test_email = "test.keerthiga@cit.edu.in"
+    # 1. Post a history record
+    payload = {
+        "email": test_email,
+        "record": {
+            "id": "test_record_1",
+            "email": test_email,
+            "timestamp": "2026-10-16 10:00:00",
+            "query": "Who is the HOD of M.Sc. Software Systems?",
+            "answer": "Dr. S. Manjula Gandhi is the Head of the Department.",
+            "model_used": "hybrid",
+            "retrieval_level": 2,
+            "source_type": "official_cit_website",
+            "category": "Departments and Faculty",
+            "latency_ms": 150,
+            "citations": [],
+            "is_refusal": False
+        }
+    }
+    res_post = client.post("/api/history", json=payload)
+    assert res_post.status_code == 200
+    assert res_post.json()["status"] == "success"
+
+    # 2. Get history
+    res_get = client.get(f"/api/history?email={test_email}")
+    assert res_get.status_code == 200
+    get_data = res_get.json()
+    assert get_data["email"] == test_email
+    assert len(get_data["history"]) >= 1
+    assert get_data["history"][0]["id"] == "test_record_1"
+
+    # 3. List history users
+    res_users = client.get("/api/history/users")
+    assert res_users.status_code == 200
+    assert any(u["email"] == test_email for u in res_users.json()["users"])
+
+    # 4. Clear history
+    res_del = client.delete(f"/api/history?email={test_email}")
+    assert res_del.status_code == 200
+    assert res_del.json()["status"] == "success"
+
+    # Verify cleared
+    res_get_cleared = client.get(f"/api/history?email={test_email}")
+    assert res_get_cleared.status_code == 200
+    assert len(res_get_cleared.json()["history"]) == 0

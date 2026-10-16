@@ -97,3 +97,27 @@ export interface ModelInfo {
   fine_tuning_epochs: number;
   leakage_resistance: string;
 }
+
+export interface UserProfile {
+  email: string;
+  name: string;
+  role: string;
+  department?: string;
+  avatarColor?: string;
+  createdAt: string;
+}
+
+export interface HistoryRecord {
+  id: string;
+  email: string;
+  timestamp: string;
+  query: string;
+  answer: string;
+  model_used: string;
+  retrieval_level: number;
+  source_type: string;
+  category: string;
+  latency_ms: number;
+  citations: Citation[];
+  is_refusal: boolean;
+}
